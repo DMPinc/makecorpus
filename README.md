@@ -22,9 +22,9 @@ Length/Sound
 
 ## Optional
 
-### Download MIDI files by scaping
+You can skip this step. MIDI files and MIDI text files are already ready.
 
-MIDI text files are already ready.
+### Download MIDI files by scaping
 
 ```
 $ gem install nokogiri
