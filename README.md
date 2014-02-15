@@ -1,6 +1,10 @@
 makecorpus
 ==========
 
+## Training data: training.txt
+
+MIDI files from http://piano.s20.xrea.com/midi/main.html
+
 ## Usage
 
 ```
