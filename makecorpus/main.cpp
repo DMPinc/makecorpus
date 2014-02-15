@@ -25,8 +25,8 @@ int main(int argc, const char * argv[])
 {
     using namespace std;
     
-    if (argc != 3) {
-        cerr << "Usage: " << argv[0] << " SMF training_data \n";
+    if (argc != 2) {
+        cerr << "Usage: " << argv[0] << " SMF_FILE > stdout\n";
         return 1;
     }
     
@@ -64,7 +64,9 @@ int main(int argc, const char * argv[])
         else if (line == "TrkEnd") {
             isTrackStarting = false;
             
-            if (!output.empty()) {
+            if (!output.empty() && output.size() > 2) {
+                output.erase(output.begin());
+                
                 cerr << "#Track " << countOfTracks << endl;
                 ++countOfTracks;
                 
