@@ -4,7 +4,7 @@ makecorpus
 ## Usage
 
 ```
-$ for f in MIDI/*.txt
+$ for f in corpus/*.txt
 do
     bin/makecorpus $f >> traing.txt
 done
