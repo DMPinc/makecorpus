@@ -1,0 +1,326 @@
+MFile 1 9 480
+MTrk
+0 TimeSig 4/4 36 8
+0 Tempo 660534
+480 Tempo 750000
+960 Tempo 660534
+1440 Tempo 1000000
+1920 Tempo 660534
+2400 Tempo 750000
+2880 Tempo 660534
+3360 Tempo 1000000
+3840 Tempo 660534
+3840 TimeSig 4/4 36 8
+4320 Tempo 750000
+4800 Tempo 660534
+5280 Tempo 1000000
+5760 Tempo 660534
+5760 TimeSig 4/4 36 8
+6240 Tempo 750000
+6720 Tempo 660534
+7200 Tempo 1000000
+7680 Tempo 660534
+7680 TimeSig 4/4 36 8
+8160 Tempo 750000
+8640 Tempo 660534
+9120 Tempo 1000000
+9600 Tempo 660534
+9600 TimeSig 4/4 36 8
+10080 Tempo 750000
+10560 Tempo 660534
+11040 Tempo 1000000
+11520 Tempo 660534
+11520 TimeSig 4/4 36 8
+12000 Tempo 750000
+12480 Tempo 660534
+12960 Tempo 1000000
+13440 Tempo 660534
+13440 TimeSig 4/4 36 8
+13920 Tempo 750000
+14400 Tempo 660534
+14880 Tempo 1000000
+15360 Tempo 660534
+15360 TimeSig 4/4 36 8
+15840 Tempo 750000
+16320 Tempo 660534
+16800 Tempo 1000000
+17280 Tempo 660534
+17280 TimeSig 4/4 36 8
+17760 Tempo 750000
+18240 Tempo 660534
+18720 Tempo 1000000
+19200 Tempo 660534
+19200 TimeSig 4/4 36 8
+19680 Tempo 750000
+20160 Tempo 660534
+20640 Tempo 1000000
+21120 Tempo 660534
+21120 TimeSig 4/4 36 8
+21600 Tempo 750000
+22080 Tempo 660534
+22560 Tempo 1000000
+23040 Tempo 660534
+23040 TimeSig 4/4 36 8
+23520 Tempo 750000
+24000 Tempo 660534
+24480 Tempo 1000000
+24960 Tempo 660534
+25440 Tempo 750000
+25920 Tempo 660534
+26400 Tempo 1000000
+26880 Tempo 660534
+26880 TimeSig 4/4 36 8
+27360 Tempo 750000
+27840 Tempo 660534
+28320 Tempo 1000000
+28800 Tempo 660534
+29280 Tempo 750000
+29760 Tempo 660534
+30240 Tempo 1000000
+30720 Tempo 660534
+32640 Tempo 923076
+33600 Tempo 1000000
+34560 Tempo 1090909
+35540 Tempo 1200000
+36480 Tempo 1200000
+38400 Tempo 1333333
+38400 Meta TrkEnd
+TrkEnd
+MTrk
+0 SeqSpec 43 00 01 00
+0 Par ch=1 c=0 v=0
+0 Par ch=1 c=93 v=0
+0 Par ch=1 c=7 v=99
+0 Par ch=1 c=10 v=64
+0 Par ch=1 c=91 v=100
+40280 Par ch=1 c=7 v=124
+40520 Par ch=1 c=7 v=99
+40520 Meta TrkEnd
+TrkEnd
+MTrk
+0 SeqSpec 43 00 01 00
+0 Meta TrkName "Melody"
+0 Par ch=1 c=0 v=0
+0 PrCh ch=1 p=0
+0 SeqSpec 4a 41 5a 5a 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+1000 Par ch=1 c=7 v=103
+3840 On ch=1 n=e5 v=64
+5520 On ch=1 n=e5 v=0
+5520 On ch=1 n=b4 v=64
+5740 On ch=1 n=b4 v=0
+5760 On ch=1 n=d5 v=64
+7660 On ch=1 n=d5 v=0
+7680 On ch=1 n=d5 v=64
+8400 On ch=1 n=d5 v=0
+8400 On ch=1 n=f#5 v=64
+8460 On ch=1 n=e5 v=64
+8505 On ch=1 n=f#5 v=0
+8640 On ch=1 n=d5 v=64
+8670 On ch=1 n=e5 v=0
+9360 On ch=1 n=d5 v=0
+9360 On ch=1 n=a4 v=64
+9580 On ch=1 n=a4 v=0
+9600 On ch=1 n=b4 v=64
+10050 On ch=1 n=b4 v=0
+10080 On ch=1 n=b4 v=64
+10410 On ch=1 n=b4 v=0
+10440 On ch=1 n=b4 v=64
+10530 On ch=1 n=b4 v=0
+10560 On ch=1 n=b4 v=64
+12460 On ch=1 n=b4 v=0
+14400 On ch=1 n=b5 v=64
+15120 On ch=1 n=b5 v=0
+15120 On ch=1 n=f#5 v=64
+15340 On ch=1 n=f#5 v=0
+15360 On ch=1 n=a5 v=64
+17260 On ch=1 n=a5 v=0
+17280 On ch=1 n=a5 v=64
+18000 On ch=1 n=a5 v=0
+18000 On ch=1 n=c#6 v=64
+18060 On ch=1 n=b5 v=64
+18080 On ch=1 n=c#6 v=0
+18240 On ch=1 n=a5 v=64
+18270 On ch=1 n=b5 v=0
+18960 On ch=1 n=a5 v=0
+18960 On ch=1 n=e5 v=64
+19125 Par ch=1 c=7 v=12
+19130 Par ch=1 c=7 v=24
+19135 Par ch=1 c=7 v=37
+19140 Par ch=1 c=7 v=49
+19145 Par ch=1 c=7 v=61
+19150 Par ch=1 c=7 v=74
+19155 Par ch=1 c=7 v=86
+19160 Par ch=1 c=7 v=99
+19180 On ch=1 n=e5 v=0
+19180 Par ch=1 c=7 v=100
+19200 Par ch=1 c=7 v=101
+19200 On ch=1 n=f#5 v=67
+19240 Par ch=1 c=7 v=102
+19280 Par ch=1 c=7 v=103
+19320 Par ch=1 c=7 v=104
+19340 Par ch=1 c=7 v=105
+19360 Par ch=1 c=7 v=106
+19420 Par ch=1 c=7 v=107
+19440 Par ch=1 c=7 v=108
+19480 Par ch=1 c=7 v=109
+19495 Par ch=1 c=7 v=110
+19510 Par ch=1 c=7 v=111
+19520 Par ch=1 c=7 v=112
+19600 Par ch=1 c=7 v=113
+19640 Par ch=1 c=7 v=114
+19650 On ch=1 n=f#5 v=0
+19680 Par ch=1 c=7 v=115
+19680 On ch=1 n=f#5 v=78
+19700 Par ch=1 c=7 v=116
+19720 Par ch=1 c=7 v=117
+19760 Par ch=1 c=7 v=118
+19800 Par ch=1 c=7 v=119
+19840 Par ch=1 c=7 v=120
+19900 Par ch=1 c=7 v=121
+19920 Par ch=1 c=7 v=122
+19960 Par ch=1 c=7 v=123
+20010 On ch=1 n=f#5 v=0
+20040 On ch=1 n=f#5 v=87
+20130 On ch=1 n=f#5 v=0
+20160 On ch=1 n=f#5 v=90
+21925 Par ch=1 c=7 v=5
+21930 Par ch=1 c=7 v=10
+21935 Par ch=1 c=7 v=15
+21940 Par ch=1 c=7 v=21
+21945 Par ch=1 c=7 v=26
+21950 Par ch=1 c=7 v=31
+21955 Par ch=1 c=7 v=36
+21960 Par ch=1 c=7 v=42
+21965 Par ch=1 c=7 v=38
+21970 Par ch=1 c=7 v=33
+21975 Par ch=1 c=7 v=29
+21980 Par ch=1 c=7 v=24
+21985 Par ch=1 c=7 v=20
+21990 Par ch=1 c=7 v=15
+21995 Par ch=1 c=7 v=11
+22000 Par ch=1 c=7 v=6
+22010 Par ch=1 c=7 v=5
+22020 Par ch=1 c=7 v=4
+22025 Par ch=1 c=7 v=3
+22035 Par ch=1 c=7 v=2
+22040 Par ch=1 c=7 v=1
+22060 On ch=1 n=f#5 v=0
+22080 Par ch=1 c=7 v=0
+25285 Par ch=1 c=7 v=15
+25290 Par ch=1 c=7 v=30
+25295 Par ch=1 c=7 v=46
+25300 Par ch=1 c=7 v=61
+25305 Par ch=1 c=7 v=76
+25310 Par ch=1 c=7 v=92
+25315 Par ch=1 c=7 v=107
+25320 Par ch=1 c=7 v=123
+25440 On ch=1 n=a5 v=63
+25680 Par ch=1 c=7 v=122
+25820 Par ch=1 c=7 v=121
+25840 Par ch=1 c=7 v=120
+25920 Par ch=1 c=7 v=119
+26040 Par ch=1 c=7 v=118
+26360 Par ch=1 c=7 v=117
+26580 Par ch=1 c=7 v=116
+26600 Par ch=1 c=7 v=115
+26720 Par ch=1 c=7 v=114
+26760 Par ch=1 c=7 v=113
+26800 Par ch=1 c=7 v=112
+26860 Par ch=1 c=7 v=111
+26880 Par ch=1 c=7 v=110
+26960 Par ch=1 c=7 v=109
+27000 Par ch=1 c=7 v=108
+27200 Par ch=1 c=7 v=107
+27400 Par ch=1 c=7 v=106
+27500 Par ch=1 c=7 v=105
+27520 Par ch=1 c=7 v=104
+27560 Par ch=1 c=7 v=103
+27640 Par ch=1 c=7 v=102
+27840 Par ch=1 c=7 v=101
+27940 Par ch=1 c=7 v=100
+27960 Par ch=1 c=7 v=99
+28040 Par ch=1 c=7 v=98
+28360 Par ch=1 c=7 v=97
+28480 Par ch=1 c=7 v=96
+28540 Par ch=1 c=7 v=95
+28560 On ch=1 n=a5 v=0
+28560 Par ch=1 c=7 v=94
+28560 On ch=1 n=e5 v=32
+28640 Par ch=1 c=7 v=93
+28720 Par ch=1 c=7 v=92
+28780 On ch=1 n=e5 v=0
+28800 On ch=1 n=g5 v=29
+28960 Par ch=1 c=7 v=91
+29240 Par ch=1 c=7 v=90
+29300 Par ch=1 c=7 v=89
+29320 Par ch=1 c=7 v=88
+29400 Par ch=1 c=7 v=87
+29600 Par ch=1 c=7 v=86
+29720 Par ch=1 c=7 v=85
+29820 Par ch=1 c=7 v=84
+29840 Par ch=1 c=7 v=83
+30045 Par ch=1 c=7 v=10
+30050 Par ch=1 c=7 v=20
+30055 Par ch=1 c=7 v=30
+30060 Par ch=1 c=7 v=41
+30065 Par ch=1 c=7 v=51
+30070 Par ch=1 c=7 v=61
+30075 Par ch=1 c=7 v=71
+30080 Par ch=1 c=7 v=82
+30280 Par ch=1 c=7 v=81
+30400 Par ch=1 c=7 v=80
+30520 Par ch=1 c=7 v=79
+30560 Par ch=1 c=7 v=78
+30700 On ch=1 n=g5 v=0
+30700 Par ch=1 c=7 v=79
+30720 On ch=1 n=f5 v=64
+30720 Par ch=1 c=7 v=80
+30725 Par ch=1 c=7 v=82
+30730 Par ch=1 c=7 v=84
+30735 Par ch=1 c=7 v=86
+30740 Par ch=1 c=7 v=89
+30745 Par ch=1 c=7 v=91
+30750 Par ch=1 c=7 v=93
+30755 Par ch=1 c=7 v=95
+30760 Par ch=1 c=7 v=98
+31440 On ch=1 n=f5 v=0
+31440 On ch=1 n=a5 v=64
+31500 On ch=1 n=g5 v=64
+31545 On ch=1 n=a5 v=0
+31680 On ch=1 n=f5 v=64
+31710 On ch=1 n=g5 v=0
+32400 On ch=1 n=f5 v=0
+32400 On ch=1 n=c5 v=64
+32620 On ch=1 n=c5 v=0
+32640 On ch=1 n=d5 v=64
+33090 On ch=1 n=d5 v=0
+33120 On ch=1 n=d5 v=64
+33450 On ch=1 n=d5 v=0
+33480 On ch=1 n=d5 v=64
+33570 On ch=1 n=d5 v=0
+33600 On ch=1 n=d5 v=64
+35500 On ch=1 n=d5 v=0
+35565 Par ch=1 c=7 v=87
+35570 Par ch=1 c=7 v=75
+35575 Par ch=1 c=7 v=62
+35580 Par ch=1 c=7 v=50
+35585 Par ch=1 c=7 v=38
+35590 Par ch=1 c=7 v=25
+35595 Par ch=1 c=7 v=10
+35600 Par ch=1 c=7 v=0
+41045 Par ch=1 c=7 v=10
+41050 Par ch=1 c=7 v=20
+41055 Par ch=1 c=7 v=30
+41060 Par ch=1 c=7 v=41
+41065 Par ch=1 c=7 v=51
+41070 Par ch=1 c=7 v=61
+41075 Par ch=1 c=7 v=71
+41080 Par ch=1 c=7 v=82
+41085 Par ch=1 c=7 v=72
+41090 Par ch=1 c=7 v=62
+41095 Par ch=1 c=7 v=52
+41095 Meta TrkEnd
+TrkEnd
+MTrk
+0 SeqSpec 43 00 01 00
+0 Meta TrkName "Accompanim"

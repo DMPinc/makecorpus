@@ -1,0 +1,11 @@
+MFile 1 3 480
+MTrk
+0 Tempo 240000
+0 TimeSig 3/4 24 8
+0 KeySig -1 major
+0 Meta InstrName "Piano"
+0 Meta TrkEnd
+TrkEnd
+MTrk
+0 SeqSpec 43 00 01 00
+0 Meta TrkName "1 Main dro"

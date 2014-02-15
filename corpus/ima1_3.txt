@@ -1,0 +1,8 @@
+MFile 1 8 480
+MTrk
+0 TimeSig 2/4 24 8
+0 KeySig 0 major
+0 Tempo 600000
+0 Meta Marker "Anime"
+63360 KeySig 2 major
+84480 Meta Marker "En augment"

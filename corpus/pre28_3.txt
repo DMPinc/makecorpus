@@ -1,0 +1,4 @@
+MFile 1 11 480
+MTrk
+0 Tempo 600000
+0 Meta SeqName "Tempo Cont"

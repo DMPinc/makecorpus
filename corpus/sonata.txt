@@ -1,0 +1,4530 @@
+MFile 1 3 480
+MTrk
+0 Tempo 300000
+0 PrCh ch=1 p=0
+0 Par ch=1 c=121 v=127
+0 Par ch=1 c=91 v=80
+0 Meta SeqName "Satie's Sonatina Bureaucratique (1917)"
+1918 On ch=1 n=a5 v=83
+1920 On ch=1 n=a3 v=60
+2056 On ch=1 n=a3 v=0
+2103 On ch=1 n=a5 v=0
+2398 On ch=1 n=e4 v=49
+2403 On ch=1 n=a5 v=76
+2527 On ch=1 n=e4 v=0
+2639 On ch=1 n=a5 v=0
+2641 On ch=1 n=b5 v=79
+2880 On ch=1 n=c#6 v=81
+2883 On ch=1 n=b3 v=60
+2884 On ch=1 n=b5 v=0
+2992 On ch=1 n=b3 v=0
+3044 On ch=1 n=c#6 v=0
+3354 On ch=1 n=e6 v=74
+3355 On ch=1 n=e4 v=50
+3481 On ch=1 n=e4 v=0
+3502 On ch=1 n=e6 v=0
+3836 On ch=1 n=a5 v=84
+3838 On ch=1 n=c#4 v=61
+3977 On ch=1 n=c#4 v=0
+4125 On ch=1 n=a5 v=0
+4314 On ch=1 n=e4 v=43
+4316 On ch=1 n=a5 v=78
+4450 On ch=1 n=e4 v=0
+4548 On ch=1 n=a5 v=0
+4550 On ch=1 n=b5 v=82
+4789 On ch=1 n=c#6 v=85
+4791 On ch=1 n=b5 v=0
+4796 On ch=1 n=d4 v=58
+4917 On ch=1 n=d4 v=0
+4961 On ch=1 n=c#6 v=0
+5261 On ch=1 n=f#6 v=70
+5281 On ch=1 n=e4 v=47
+5376 On ch=1 n=e4 v=0
+5434 On ch=1 n=f#6 v=0
+5728 Meta Lyric "Le voil\xffffff88 parti."
+5728 Meta Lyric "Off he goes."
+5747 On ch=1 n=a6 v=77
+5753 On ch=1 n=a4 v=63
+5993 On ch=1 n=g#6 v=78
+6007 On ch=1 n=a6 v=0
+6222 On ch=1 n=f#6 v=79
+6227 On ch=1 n=g#6 v=0
+6236 On ch=1 n=a3 v=51
+6243 On ch=1 n=a4 v=0
+6472 On ch=1 n=e6 v=80
+6475 On ch=1 n=f#6 v=0
+6711 On ch=1 n=a3 v=0
+6713 On ch=1 n=g#4 v=58
+6715 On ch=1 n=d6 v=81
+6723 On ch=1 n=e6 v=0
+6955 On ch=1 n=c#6 v=82
+6963 On ch=1 n=d6 v=0
+7194 On ch=1 n=a3 v=47
+7195 On ch=1 n=b5 v=83
+7199 On ch=1 n=c#6 v=0
+7202 On ch=1 n=g#4 v=0
+7436 On ch=1 n=a5 v=84
+7439 On ch=1 n=b5 v=0
+7677 On ch=1 n=f#4 v=53
+7678 On ch=1 n=b5 v=85
+7683 On ch=1 n=a3 v=0
+7688 On ch=1 n=a5 v=0
+7917 On ch=1 n=a5 v=86
+7933 On ch=1 n=b5 v=0
+8155 On ch=1 n=d4 v=50
+8159 On ch=1 n=f#4 v=0
+8161 On ch=1 n=g#5 v=87
+8174 On ch=1 n=a5 v=0
+8398 On ch=1 n=f#5 v=88
+8405 On ch=1 n=g#5 v=0
+8627 On ch=1 n=d4 v=0
+8637 On ch=1 n=e4 v=47
+8641 On ch=1 n=e5 v=83
+8646 On ch=1 n=f#5 v=0
+8874 On ch=1 n=e4 v=0
+8875 On ch=1 n=d4 v=46
+9110 On ch=1 n=d4 v=0
+9112 On ch=1 n=c#4 v=45
+9193 On ch=1 n=e5 v=0
+9342 On ch=1 n=c#4 v=0
+9346 On ch=1 n=b3 v=44
+9587 On ch=1 n=a3 v=43
+9594 On ch=1 n=b3 v=0
+9602 On ch=1 n=a4 v=58
+9632 Tempo 324324
+9763 On ch=1 n=a3 v=0
+9788 Tempo 322580
+9892 Tempo 320855
+10048 Tempo 319148
+10074 On ch=1 n=c#5 v=59
+10074 On ch=1 n=b3 v=45
+10076 On ch=1 n=a4 v=0
+10152 Tempo 317460
+10198 On ch=1 n=b3 v=0
+10308 Tempo 315789
+10310 On ch=1 n=a4 v=59
+10312 On ch=1 n=c#5 v=0
+10412 Tempo 314136
+10553 On ch=1 n=e4 v=59
+10554 On ch=1 n=c#4 v=46
+10562 On ch=1 n=a4 v=0
+10568 Tempo 312500
+10651 On ch=1 n=c#4 v=0
+10672 Tempo 310880
+10740 On ch=1 n=e4 v=0
+10828 Tempo 309278
+10932 Tempo 307692
+11024 On ch=1 n=e4 v=60
+11033 On ch=1 n=d4 v=48
+11088 Tempo 306122
+11141 On ch=1 n=d4 v=0
+11192 Tempo 304568
+11255 On ch=1 n=e4 v=0
+11296 Tempo 303030
+11452 Tempo 301507
+11503 On ch=1 n=c#5 v=61
+11513 On ch=1 n=e4 v=50
+11641 On ch=1 n=e4 v=0
+11992 On ch=1 n=e5 v=62
+11993 On ch=1 n=d4 v=45
+12005 On ch=1 n=c#5 v=0
+12086 On ch=1 n=d4 v=0
+12231 On ch=1 n=c#5 v=62
+12240 On ch=1 n=e5 v=0
+12475 On ch=1 n=c#4 v=44
+12477 On ch=1 n=a4 v=62
+12488 On ch=1 n=c#5 v=0
+12618 On ch=1 n=c#4 v=0
+12666 On ch=1 n=a4 v=0
+12955 On ch=1 n=c#6 v=63
+13197 On ch=1 n=a5 v=64
+13203 On ch=1 n=c#6 v=0
+13428 On ch=1 n=a5 v=0
+13438 On ch=1 n=g#4 v=50
+13439 On ch=1 n=b3 v=50
+13440 Tempo 312500
+13454 On ch=1 n=e5 v=64
+13468 On ch=1 n=b5 v=64
+13536 On ch=1 n=b3 v=0
+13543 On ch=1 n=g#4 v=0
+13573 On ch=1 n=b5 v=0
+13576 On ch=1 n=e5 v=0
+13804 Tempo 314136
+13918 On ch=1 n=c4 v=53
+13918 On ch=1 n=f#4 v=53
+13923 On ch=1 n=a5 v=63
+13924 On ch=1 n=d#5 v=63
+14019 On ch=1 n=f#4 v=0
+14031 On ch=1 n=d#5 v=0
+14032 On ch=1 n=c4 v=0
+14056 On ch=1 n=a5 v=0
+14168 Tempo 315789
+14394 On ch=1 n=c#4 v=56
+14394 On ch=1 n=e4 v=56
+14396 On ch=1 n=g#5 v=58
+14401 On ch=1 n=e5 v=58
+14502 On ch=1 n=e5 v=0
+14503 On ch=1 n=e4 v=0
+14505 On ch=1 n=g#5 v=0
+14509 On ch=1 n=c#4 v=0
+14532 Tempo 317460
+14875 On ch=1 n=d#4 v=59
+14877 On ch=1 n=a4 v=59
+14881 On ch=1 n=b4 v=54
+14881 On ch=1 n=f#5 v=54
+14896 Tempo 319148
+14973 On ch=1 n=a4 v=0
+14983 On ch=1 n=b4 v=0
+14999 On ch=1 n=d#4 v=0
+15007 On ch=1 n=f#5 v=0
+15354 On ch=1 n=e2 v=80
+15355 On ch=1 n=e3 v=80
+15360 Meta Lyric "Il va gaiement \xffffff88 son bureau"
+15360 Meta Lyric "He makes his way merrily to the office,"
+15363 On ch=1 n=e5 v=50
+15392 Tempo 303030
+15597 On ch=1 n=f#5 v=53
+15600 On ch=1 n=e5 v=0
+15835 On ch=1 n=g#5 v=56
+15842 On ch=1 n=f#5 v=0
+15951 On ch=1 n=e2 v=0
+15988 On ch=1 n=e3 v=0
+16069 On ch=1 n=g#5 v=0
+16070 On ch=1 n=a5 v=59
+16308 On ch=1 n=b5 v=62
+16310 On ch=1 n=a5 v=0
+16317 On ch=1 n=b4 v=63
+16546 On ch=1 n=c#6 v=65
+16552 On ch=1 n=b5 v=0
+16553 On ch=1 n=c#5 v=64
+16556 On ch=1 n=b4 v=0
+16786 On ch=1 n=d#6 v=68
+16791 On ch=1 n=d#5 v=66
+16792 On ch=1 n=c#5 v=0
+16793 On ch=1 n=c#6 v=0
+17027 On ch=1 n=e6 v=67
+17029 On ch=1 n=d#6 v=0
+17030 On ch=1 n=e5 v=67
+17037 On ch=1 n=d#5 v=0
+17273 On ch=1 n=f#5 v=62
+17274 On ch=1 n=d#5 v=69
+17279 On ch=1 n=e6 v=0
+17282 On ch=1 n=e5 v=0
+17400 On ch=1 n=d#5 v=0
+17417 On ch=1 n=f#5 v=0
+17752 On ch=1 n=c#6 v=56
+17752 On ch=1 n=c#5 v=61
+17753 On ch=1 n=f#6 v=53
+17850 On ch=1 n=c#5 v=0
+17851 On ch=1 n=c#6 v=0
+17864 On ch=1 n=f#6 v=0
+18230 On ch=1 n=d#5 v=57
+18232 On ch=1 n=d#6 v=53
+18233 On ch=1 n=f#6 v=57
+18329 On ch=1 n=d#5 v=0
+18349 On ch=1 n=d#6 v=0
+18371 On ch=1 n=f#6 v=0
+18708 On ch=1 n=f#6 v=59
+18709 On ch=1 n=b5 v=57
+18721 On ch=1 n=b4 v=53
+18800 On ch=1 n=f#6 v=0
+18818 On ch=1 n=b5 v=0
+18835 On ch=1 n=b4 v=0
+19199 On ch=1 n=g#3 v=48
+19436 On ch=1 n=a3 v=51
+19439 On ch=1 n=g#3 v=0
+19673 On ch=1 n=a3 v=0
+19673 On ch=1 n=b3 v=53
+19675 On ch=1 n=g#5 v=56
+19679 On ch=1 n=b5 v=56
+19803 On ch=1 n=b5 v=0
+19805 On ch=1 n=g#5 v=0
+19911 On ch=1 n=c#4 v=56
+19915 On ch=1 n=b3 v=0
+20148 On ch=1 n=d#4 v=58
+20150 On ch=1 n=c#4 v=0
+20154 On ch=1 n=a5 v=54
+20155 On ch=1 n=f#5 v=54
+20278 On ch=1 n=f#5 v=0
+20286 On ch=1 n=a5 v=0
+20381 On ch=1 n=d#4 v=0
+20384 On ch=1 n=e4 v=61
+20621 On ch=1 n=f#4 v=63
+20625 On ch=1 n=e4 v=0
+20631 On ch=1 n=g#5 v=51
+20634 On ch=1 n=e5 v=51
+20756 On ch=1 n=g#5 v=0
+20771 On ch=1 n=e5 v=0
+20846 On ch=1 n=g#4 v=65
+20903 On ch=1 n=f#4 v=0
+21110 On ch=1 n=a4 v=68
+21116 On ch=1 n=d#5 v=48
+21116 On ch=1 n=f#5 v=48
+21173 On ch=1 n=g#4 v=0
+21241 On ch=1 n=d#5 v=0
+21248 On ch=1 n=f#5 v=0
+21334 On ch=1 n=a4 v=0
+21592 On ch=1 n=a3 v=54
+21598 On ch=1 n=c#5 v=53
+21743 On ch=1 n=a3 v=0
+22072 On ch=1 n=a3 v=50
+22079 On ch=1 n=d#5 v=54
+22093 On ch=1 n=c#5 v=0
+22207 On ch=1 n=a3 v=0
+22554 On ch=1 n=a3 v=46
+22558 On ch=1 n=b4 v=54
+22571 On ch=1 n=d#5 v=0
+22693 On ch=1 n=a3 v=0
+22863 On ch=1 n=b4 v=0
+23024 On ch=1 n=g#3 v=56
+23039 On ch=1 n=b4 v=46
+23040 Meta Lyric "en se \"gavillant\""
+23040 Meta Lyric "stuffling as he goes."
+23279 On ch=1 n=c#5 v=49
+23284 On ch=1 n=b4 v=0
+23520 On ch=1 n=d#5 v=52
+23530 On ch=1 n=c#5 v=0
+23590 On ch=1 n=g#3 v=0
+23748 On ch=1 n=d#5 v=0
+23754 On ch=1 n=e5 v=55
+23990 On ch=1 n=f#5 v=58
+24001 On ch=1 n=e5 v=0
+24233 On ch=1 n=g#5 v=62
+24244 On ch=1 n=f#5 v=0
+24470 On ch=1 n=g#5 v=0
+24473 On ch=1 n=a5 v=65
+24712 On ch=1 n=b5 v=68
+24713 On ch=1 n=a5 v=0
+24955 On ch=1 n=c#6 v=71
+24962 On ch=1 n=b5 v=0
+25156 On ch=1 n=c#6 v=0
+25431 On ch=1 n=f#6 v=67
+25432 On ch=1 n=c#7 v=67
+25437 On ch=1 n=f#5 v=53
+25555 On ch=1 n=c#7 v=0
+25564 On ch=1 n=f#6 v=0
+25596 On ch=1 n=f#5 v=0
+25908 On ch=1 n=c#7 v=62
+25909 On ch=1 n=g#6 v=62
+25910 On ch=1 n=g#5 v=56
+26025 On ch=1 n=c#7 v=0
+26030 On ch=1 n=g#6 v=0
+26072 On ch=1 n=g#5 v=0
+26387 On ch=1 n=c#7 v=58
+26387 On ch=1 n=a5 v=58
+26392 On ch=1 n=a6 v=58
+26476 On ch=1 n=a6 v=0
+26480 On ch=1 n=c#7 v=0
+26541 On ch=1 n=a5 v=0
+26866 On ch=1 n=b4 v=61
+26876 On ch=1 n=d#5 v=62
+26994 On ch=1 n=b4 v=0
+27117 On ch=1 n=e5 v=66
+27121 On ch=1 n=d#5 v=0
+27350 On ch=1 n=e5 v=0
+27352 On ch=1 n=f#5 v=69
+27352 On ch=1 n=c#5 v=64
+27481 On ch=1 n=c#5 v=0
+27595 On ch=1 n=g#5 v=71
+27605 On ch=1 n=f#5 v=0
+27832 On ch=1 n=g#5 v=0
+27834 On ch=1 n=a5 v=74
+27835 On ch=1 n=d#5 v=67
+27957 On ch=1 n=d#5 v=0
+28077 On ch=1 n=b5 v=76
+28087 On ch=1 n=a5 v=0
+28313 On ch=1 n=c#6 v=79
+28316 On ch=1 n=f#5 v=69
+28319 On ch=1 n=b5 v=0
+28430 On ch=1 n=f#5 v=0
+28553 On ch=1 n=d#6 v=82
+28560 On ch=1 n=c#6 v=0
+28786 On ch=1 n=d#6 v=0
+28792 On ch=1 n=e6 v=84
+28794 On ch=1 n=e5 v=72
+28915 On ch=1 n=e5 v=0
+29029 On ch=1 n=f#6 v=87
+29032 On ch=1 n=e6 v=0
+29267 On ch=1 n=c#5 v=70
+29272 On ch=1 n=g#6 v=84
+29279 On ch=1 n=f#6 v=0
+29377 On ch=1 n=c#5 v=0
+29497 On ch=1 n=g#6 v=0
+29505 On ch=1 n=a6 v=85
+29747 On ch=1 n=b6 v=86
+29749 On ch=1 n=b4 v=72
+29758 On ch=1 n=a6 v=0
+29875 On ch=1 n=b4 v=0
+29921 On ch=1 n=b6 v=0
+29969 Tempo 303030
+30073 Tempo 304568
+30125 Tempo 306122
+30177 Tempo 307692
+30229 Tempo 309278
+30230 On ch=1 n=c#7 v=88
+30281 Tempo 310880
+30333 Tempo 312500
+30385 Tempo 314136
+30407 On ch=1 n=c#7 v=0
+30437 Tempo 315789
+30489 Tempo 317460
+30541 Tempo 319148
+30593 Tempo 320855
+30697 Tempo 322580
+30705 Tempo 320855
+30721 On ch=1 n=b5 v=75
+30782 On ch=1 n=e7 v=92
+30809 Tempo 319148
+30858 On ch=1 n=b5 v=0
+30913 Tempo 317460
+30969 On ch=1 n=b6 v=91
+31017 Tempo 315789
+31041 On ch=1 n=e7 v=0
+31069 Tempo 314136
+31173 Tempo 312500
+31201 On ch=1 n=a5 v=77
+31205 On ch=1 n=g#6 v=91
+31215 On ch=1 n=b6 v=0
+31277 Tempo 310880
+31337 On ch=1 n=a5 v=0
+31381 Tempo 309278
+31433 Tempo 307692
+31440 On ch=1 n=g#6 v=0
+31443 On ch=1 n=e6 v=90
+31537 Tempo 306122
+31641 Tempo 304568
+31676 On ch=1 n=e6 v=0
+31678 On ch=1 n=b6 v=89
+31679 On ch=1 n=g#5 v=79
+31811 On ch=1 n=g#5 v=0
+31922 On ch=1 n=g#6 v=89
+31933 On ch=1 n=b6 v=0
+32161 On ch=1 n=e6 v=88
+32163 On ch=1 n=f#5 v=81
+32173 On ch=1 n=g#6 v=0
+32259 On ch=1 n=f#5 v=0
+32388 On ch=1 n=e6 v=0
+32395 On ch=1 n=b5 v=87
+32633 On ch=1 n=d#6 v=87
+32635 On ch=1 n=b5 v=0
+32635 On ch=1 n=f#4 v=84
+32638 On ch=1 n=b4 v=84
+32866 On ch=1 n=f#4 v=0
+32873 On ch=1 n=c#6 v=86
+32880 On ch=1 n=d#6 v=0
+33113 On ch=1 n=e6 v=85
+33116 On ch=1 n=g#4 v=83
+33119 On ch=1 n=c#6 v=0
+33229 On ch=1 n=g#4 v=0
+33357 On ch=1 n=d#6 v=85
+33364 On ch=1 n=e6 v=0
+33599 On ch=1 n=f#6 v=84
+33601 On ch=1 n=d#6 v=0
+33601 On ch=1 n=a4 v=82
+33748 On ch=1 n=a4 v=0
+33836 On ch=1 n=e6 v=83
+33838 On ch=1 n=f#6 v=0
+33975 On ch=1 n=b4 v=0
+34075 On ch=1 n=d#6 v=83
+34077 On ch=1 n=e6 v=0
+34081 On ch=1 n=b4 v=81
+34275 On ch=1 n=b4 v=0
+34312 On ch=1 n=c#6 v=82
+34313 On ch=1 n=d#6 v=0
+34537 On ch=1 n=c#6 v=0
+34553 On ch=1 n=a4 v=80
+34553 On ch=1 n=d#5 v=80
+34554 On ch=1 n=c#6 v=81
+34577 Tempo 307692
+34687 On ch=1 n=a4 v=0
+34733 Tempo 309278
+34789 On ch=1 n=b5 v=81
+34792 On ch=1 n=c#6 v=0
+34889 Tempo 310880
+35036 On ch=1 n=a5 v=80
+35036 On ch=1 n=b4 v=79
+35038 On ch=1 n=b5 v=0
+35045 Tempo 312500
+35151 On ch=1 n=b4 v=0
+35201 Tempo 314136
+35269 On ch=1 n=a5 v=0
+35269 On ch=1 n=g#5 v=79
+35357 Tempo 315789
+35513 Tempo 317460
+35514 On ch=1 n=b5 v=79
+35517 On ch=1 n=a4 v=78
+35524 On ch=1 n=g#5 v=0
+35619 On ch=1 n=a4 v=0
+35669 Tempo 319148
+35754 On ch=1 n=a5 v=78
+35760 On ch=1 n=b5 v=0
+35917 Tempo 322580
+35994 On ch=1 n=g#5 v=77
+36003 On ch=1 n=b4 v=76
+36008 On ch=1 n=a5 v=0
+36073 Tempo 320855
+36081 On ch=1 n=b4 v=0
+36120 On ch=1 n=d#5 v=0
+36177 Tempo 320855
+36229 Tempo 319148
+36229 On ch=1 n=f#5 v=77
+36235 On ch=1 n=g#5 v=0
+36281 Tempo 315789
+36333 Tempo 312500
+36385 Tempo 309278
+36437 Tempo 307692
+36473 On ch=1 n=e5 v=76
+36479 On ch=1 n=f#5 v=0
+36479 On ch=1 n=e3 v=73
+36480 Meta Lyric "Content, il hoche la t\xffffff90te."
+36489 Tempo 304568
+36512 Meta Lyric "He's pleased, and wags his head."
+36711 On ch=1 n=e3 v=0
+36712 On ch=1 n=g#3 v=74
+36950 On ch=1 n=b3 v=76
+36956 On ch=1 n=g#3 v=0
+36981 On ch=1 n=e5 v=0
+37191 On ch=1 n=e4 v=77
+37195 On ch=1 n=b3 v=0
+37433 On ch=1 n=e3 v=78
+37437 On ch=1 n=e4 v=0
+37607 On ch=1 n=e3 v=0
+37908 On ch=1 n=e4 v=69
+37926 On ch=1 n=f#5 v=75
+37927 On ch=1 n=a4 v=75
+37927 On ch=1 n=c#5 v=75
+38009 On ch=1 n=a4 v=0
+38015 On ch=1 n=c#5 v=0
+38032 On ch=1 n=f#5 v=0
+38102 On ch=1 n=e4 v=0
+38392 On ch=1 n=e3 v=73
+38631 On ch=1 n=a3 v=74
+38634 On ch=1 n=e3 v=0
+38865 On ch=1 n=a3 v=0
+38868 On ch=1 n=c#4 v=75
+39109 On ch=1 n=e4 v=77
+39113 On ch=1 n=c#4 v=0
+39346 On ch=1 n=e3 v=78
+39351 On ch=1 n=e4 v=0
+39528 On ch=1 n=e3 v=0
+39822 On ch=1 n=e4 v=67
+39833 On ch=1 n=c#5 v=75
+39836 On ch=1 n=e5 v=75
+39837 On ch=1 n=a5 v=75
+39938 On ch=1 n=a5 v=0
+39944 On ch=1 n=c#5 v=0
+39946 On ch=1 n=e5 v=0
+40013 On ch=1 n=e4 v=0
+40311 On ch=1 n=e3 v=60
+40547 On ch=1 n=g#3 v=61
+40550 On ch=1 n=e3 v=0
+40789 On ch=1 n=b3 v=63
+40801 On ch=1 n=g#3 v=0
+41034 On ch=1 n=e4 v=65
+41044 On ch=1 n=b3 v=0
+41277 On ch=1 n=e3 v=67
+41283 On ch=1 n=e4 v=0
+41423 On ch=1 n=e3 v=0
+41753 On ch=1 n=c#5 v=55
+41753 On ch=1 n=e4 v=53
+41754 On ch=1 n=f#5 v=55
+41755 On ch=1 n=a4 v=55
+41877 On ch=1 n=a4 v=0
+41894 On ch=1 n=c#5 v=0
+41902 On ch=1 n=f#5 v=0
+41904 On ch=1 n=e4 v=0
+42237 On ch=1 n=e3 v=56
+42478 On ch=1 n=a3 v=58
+42482 On ch=1 n=e3 v=0
+42720 On ch=1 n=c#4 v=60
+42729 On ch=1 n=a3 v=0
+42952 On ch=1 n=e4 v=62
+42954 On ch=1 n=c#4 v=0
+43196 On ch=1 n=e3 v=64
+43203 On ch=1 n=e4 v=0
+43352 On ch=1 n=e3 v=0
+43673 On ch=1 n=c#5 v=55
+43673 On ch=1 n=e4 v=54
+43674 On ch=1 n=a5 v=55
+43675 On ch=1 n=e5 v=55
+43766 On ch=1 n=c#5 v=0
+43780 On ch=1 n=e5 v=0
+43807 On ch=1 n=a5 v=0
+43840 On ch=1 n=e4 v=0
+44150 On ch=1 n=e3 v=84
+44159 On ch=1 n=e5 v=77
+44177 Tempo 312500
+44393 On ch=1 n=g#3 v=86
+44395 On ch=1 n=g#5 v=80
+44400 On ch=1 n=e3 v=0
+44401 On ch=1 n=e5 v=0
+44633 On ch=1 n=b3 v=89
+44636 On ch=1 n=b5 v=83
+44643 On ch=1 n=g#5 v=0
+44643 On ch=1 n=g#3 v=0
+44872 On ch=1 n=e4 v=91
+44873 On ch=1 n=e6 v=86
+44874 On ch=1 n=b5 v=0
+44880 On ch=1 n=b3 v=0
+45110 On ch=1 n=e6 v=0
+45116 On ch=1 n=e4 v=0
+45117 On ch=1 n=e5 v=90
+45121 On ch=1 n=e3 v=94
+45569 On ch=1 n=e3 v=0
+45586 On ch=1 n=e5 v=0
+45713 Tempo 410958
+46065 Tempo 315789
+46069 On ch=1 n=d5 v=52
+46080 Meta Lyric "Il aime une jolie dame tr\xffffff8fs \xffffff8el\xffffff8egante."
+46080 Meta Lyric "He's in love with a fair and most elegant lady."
+46086 On ch=1 n=g#5 v=52
+46561 On ch=1 n=b5 v=52
+46563 On ch=1 n=g#5 v=0
+46797 On ch=1 n=g#5 v=51
+46798 On ch=1 n=b5 v=0
+47039 On ch=1 n=e5 v=51
+47050 On ch=1 n=g#5 v=0
+47057 Tempo 324324
+47236 On ch=1 n=e5 v=0
+47518 On ch=1 n=e5 v=50
+47720 On ch=1 n=e5 v=0
+47995 On ch=1 n=a5 v=49
+47996 On ch=1 n=c5 v=49
+48009 On ch=1 n=d5 v=0
+48475 On ch=1 n=c6 v=49
+48478 On ch=1 n=a5 v=0
+48710 On ch=1 n=c6 v=0
+48711 On ch=1 n=a5 v=48
+48953 On ch=1 n=e5 v=48
+48959 On ch=1 n=a5 v=0
+49182 On ch=1 n=e5 v=0
+49429 On ch=1 n=f#5 v=47
+49597 On ch=1 n=c5 v=0
+49612 On ch=1 n=f#5 v=0
+49911 On ch=1 n=b4 v=46
+49913 On ch=1 n=e5 v=47
+49913 On ch=1 n=g#5 v=47
+49934 On ch=1 n=d3 v=47
+49934 On ch=1 n=d4 v=47
+49937 Tempo 315789
+49991 On ch=1 n=e5 v=0
+50004 On ch=1 n=b4 v=0
+50012 On ch=1 n=g#5 v=0
+50052 On ch=1 n=d4 v=0
+50066 On ch=1 n=d3 v=0
+50390 On ch=1 n=a4 v=50
+50390 On ch=1 n=e5 v=50
+50392 On ch=1 n=a5 v=50
+50405 On ch=1 n=c#4 v=50
+50406 On ch=1 n=c#3 v=50
+50482 On ch=1 n=e5 v=0
+50486 On ch=1 n=a5 v=0
+50490 On ch=1 n=a4 v=0
+50511 On ch=1 n=c#3 v=0
+50519 On ch=1 n=c#4 v=0
+50872 On ch=1 n=d#5 v=54
+50873 On ch=1 n=a4 v=54
+50874 On ch=1 n=f#5 v=54
+50886 On ch=1 n=c3 v=54
+50886 On ch=1 n=c4 v=54
+50974 On ch=1 n=a4 v=0
+50983 On ch=1 n=d#5 v=0
+50990 On ch=1 n=f#5 v=0
+50995 On ch=1 n=c4 v=0
+51004 On ch=1 n=c3 v=0
+51357 On ch=1 n=g#4 v=58
+51358 On ch=1 n=d#5 v=58
+51358 On ch=1 n=g#5 v=58
+51369 On ch=1 n=b2 v=58
+51370 On ch=1 n=b3 v=58
+51429 On ch=1 n=d#5 v=0
+51447 On ch=1 n=b2 v=0
+51457 On ch=1 n=g#5 v=0
+51458 On ch=1 n=g#4 v=0
+51478 On ch=1 n=b3 v=0
+51825 Tempo 307692
+51838 On ch=1 n=b4 v=62
+51839 On ch=1 n=g#4 v=62
+51839 On ch=1 n=e5 v=62
+51851 On ch=1 n=e4 v=62
+51852 On ch=1 n=e3 v=62
+51877 Tempo 310880
+51918 On ch=1 n=b4 v=0
+51923 On ch=1 n=e5 v=0
+51927 On ch=1 n=g#4 v=0
+51929 Tempo 315789
+51956 On ch=1 n=e3 v=0
+51970 On ch=1 n=e4 v=0
+51981 Tempo 320855
+52033 Tempo 324324
+52085 Tempo 329670
+52137 Tempo 335195
+52189 Tempo 338983
+52241 Tempo 344827
+52293 Tempo 350877
+52315 On ch=1 n=f#4 v=65
+52315 On ch=1 n=a4 v=65
+52316 On ch=1 n=d5 v=65
+52331 On ch=1 n=d3 v=65
+52333 On ch=1 n=d4 v=65
+52345 Tempo 355029
+52392 On ch=1 n=f#4 v=0
+52395 On ch=1 n=d5 v=0
+52397 Tempo 361445
+52398 On ch=1 n=a4 v=0
+52433 On ch=1 n=d4 v=0
+52433 On ch=1 n=d3 v=0
+52449 Tempo 368098
+52501 Tempo 372670
+52553 Tempo 379746
+52605 Tempo 387096
+52657 Tempo 392156
+52709 Tempo 400000
+52761 Tempo 408163
+52803 On ch=1 n=g4 v=69
+52804 On ch=1 n=e4 v=69
+52805 On ch=1 n=c5 v=69
+52810 On ch=1 n=c3 v=69
+52811 On ch=1 n=c4 v=69
+52813 Tempo 413793
+53307 On ch=1 n=c3 v=0
+53338 On ch=1 n=c4 v=0
+53352 On ch=1 n=e4 v=0
+53370 On ch=1 n=g4 v=0
+53400 On ch=1 n=c5 v=0
+53745 Tempo 307692
+53756 On ch=1 n=f#7 v=54
+53756 On ch=1 n=d6 v=58
+53760 Meta Lyric "Il aime aussi son porte-plume, ses manches en lustrine verte et..."
+53760 Meta Lyric "and also with his penholder, his green lustring cuffs and his..."
+53984 On ch=1 n=f#7 v=0
+53990 On ch=1 n=f#6 v=42
+54223 On ch=1 n=f#7 v=42
+54225 On ch=1 n=f#6 v=0
+54232 On ch=1 n=e5 v=41
+54235 On ch=1 n=d6 v=0
+54466 On ch=1 n=f#6 v=42
+54471 On ch=1 n=f#7 v=0
+54705 On ch=1 n=f#7 v=42
+54716 On ch=1 n=f#6 v=0
+54718 On ch=1 n=b5 v=53
+54724 On ch=1 n=e5 v=0
+54950 On ch=1 n=f#6 v=42
+54959 On ch=1 n=f#7 v=0
+55194 On ch=1 n=f#7 v=42
+55197 On ch=1 n=e5 v=41
+55202 On ch=1 n=b5 v=0
+55208 On ch=1 n=f#6 v=0
+55430 On ch=1 n=f#7 v=0
+55433 On ch=1 n=f#6 v=42
+55664 On ch=1 n=e5 v=0
+55671 On ch=1 n=f#7 v=51
+55674 On ch=1 n=c6 v=58
+55680 On ch=1 n=f#6 v=0
+55915 On ch=1 n=f#6 v=42
+55922 On ch=1 n=f#7 v=0
+56148 On ch=1 n=c6 v=0
+56149 On ch=1 n=e5 v=41
+56160 On ch=1 n=f#7 v=42
+56173 On ch=1 n=f#6 v=0
+56395 On ch=1 n=f#7 v=0
+56396 On ch=1 n=f#6 v=42
+56635 On ch=1 n=f#7 v=42
+56639 On ch=1 n=a5 v=54
+56644 On ch=1 n=f#6 v=0
+56652 On ch=1 n=e5 v=0
+56878 On ch=1 n=f#6 v=42
+56883 On ch=1 n=f#7 v=0
+57111 On ch=1 n=a5 v=0
+57116 On ch=1 n=f#7 v=42
+57116 On ch=1 n=e5 v=41
+57125 On ch=1 n=f#6 v=0
+57357 On ch=1 n=f#7 v=0
+57358 On ch=1 n=f#6 v=42
+57595 On ch=1 n=f#7 v=54
+57597 On ch=1 n=d6 v=58
+57600 On ch=1 n=e5 v=0
+57605 On ch=1 n=f#6 v=0
+57842 On ch=1 n=f#6 v=42
+57851 On ch=1 n=f#7 v=0
+58078 On ch=1 n=e5 v=41
+58080 On ch=1 n=d6 v=0
+58081 On ch=1 n=f#7 v=42
+58091 On ch=1 n=f#6 v=0
+58326 On ch=1 n=f#6 v=42
+58333 On ch=1 n=f#7 v=0
+58554 On ch=1 n=b5 v=54
+58555 On ch=1 n=e5 v=0
+58564 On ch=1 n=f#7 v=42
+58571 On ch=1 n=f#6 v=0
+58804 On ch=1 n=f#6 v=42
+58806 On ch=1 n=f#7 v=0
+59037 On ch=1 n=e5 v=41
+59041 On ch=1 n=f#7 v=42
+59042 On ch=1 n=b5 v=0
+59049 On ch=1 n=f#6 v=0
+59280 On ch=1 n=f#7 v=0
+59281 On ch=1 n=f#6 v=42
+59511 On ch=1 n=e5 v=0
+59515 On ch=1 n=c6 v=61
+59517 On ch=1 n=f#7 v=53
+59523 On ch=1 n=f#6 v=0
+59762 On ch=1 n=f#6 v=42
+59767 On ch=1 n=f#7 v=0
+59999 On ch=1 n=f#7 v=42
+60005 On ch=1 n=f#6 v=0
+60005 On ch=1 n=e5 v=41
+60015 On ch=1 n=c6 v=0
+60235 On ch=1 n=f#7 v=0
+60236 On ch=1 n=f#6 v=42
+60472 On ch=1 n=f#7 v=42
+60474 On ch=1 n=e5 v=0
+60477 On ch=1 n=f#6 v=0
+60477 On ch=1 n=a5 v=55
+60713 On ch=1 n=f#6 v=42
+60716 On ch=1 n=f#7 v=0
+60954 On ch=1 n=e5 v=41
+60958 On ch=1 n=f#7 v=42
+60960 On ch=1 n=a5 v=0
+60972 On ch=1 n=f#6 v=0
+61118 On ch=1 n=e5 v=0
+61186 On ch=1 n=f#7 v=0
+61193 On ch=1 n=f#6 v=42
+61413 Tempo 320855
+61441 On ch=1 n=e6 v=51
+61441 On ch=1 n=g#6 v=51
+61443 On ch=1 n=b6 v=47
+61448 On ch=1 n=f#6 v=0
+61677 On ch=1 n=c7 v=51
+61680 On ch=1 n=b6 v=0
+61738 On ch=1 n=g#6 v=0
+61911 On ch=1 n=e6 v=0
+61911 On ch=1 n=f#6 v=47
+61913 On ch=1 n=d7 v=55
+61922 On ch=1 n=c7 v=0
+61926 On ch=1 n=d6 v=47
+61933 Tempo 319148
+62153 On ch=1 n=d7 v=0
+62154 On ch=1 n=b6 v=55
+62235 On ch=1 n=f#6 v=0
+62374 On ch=1 n=d6 v=0
+62386 On ch=1 n=g#6 v=44
+62393 On ch=1 n=d7 v=51
+62393 On ch=1 n=e6 v=43
+62397 On ch=1 n=b6 v=0
+62401 Tempo 317460
+62831 On ch=1 n=e6 v=0
+62847 On ch=1 n=d7 v=0
+62861 On ch=1 n=g#6 v=0
+62869 Tempo 315789
+63337 Tempo 314136
+63355 On ch=1 n=g#5 v=57
+63358 On ch=1 n=e5 v=57
+63363 On ch=1 n=b5 v=51
+63603 On ch=1 n=c6 v=55
+63610 On ch=1 n=b5 v=0
+63820 On ch=1 n=e5 v=0
+63832 On ch=1 n=d5 v=55
+63833 On ch=1 n=f#5 v=55
+63836 On ch=1 n=c6 v=0
+63839 On ch=1 n=g#5 v=0
+63839 On ch=1 n=d6 v=58
+63857 Tempo 312500
+64076 On ch=1 n=b5 v=56
+64077 On ch=1 n=d6 v=0
+64312 On ch=1 n=g#5 v=52
+64313 On ch=1 n=f#5 v=0
+64316 On ch=1 n=d5 v=0
+64316 On ch=1 n=e5 v=52
+64318 On ch=1 n=d6 v=52
+64325 Tempo 310880
+64327 On ch=1 n=b5 v=0
+64793 Tempo 309278
+64796 On ch=1 n=d6 v=0
+64831 On ch=1 n=e5 v=0
+64842 On ch=1 n=g#5 v=0
+65275 On ch=1 n=g#4 v=77
+65278 On ch=1 n=b4 v=61
+65278 On ch=1 n=e4 v=77
+65516 On ch=1 n=c5 v=64
+65527 On ch=1 n=b4 v=0
+65740 On ch=1 n=e4 v=0
+65751 On ch=1 n=d4 v=75
+65751 On ch=1 n=f#4 v=75
+65753 On ch=1 n=d5 v=67
+65758 On ch=1 n=g#4 v=0
+65759 On ch=1 n=c5 v=0
+65992 On ch=1 n=b4 v=70
+65999 On ch=1 n=d5 v=0
+66229 On ch=1 n=d5 v=74
+66232 On ch=1 n=g#4 v=73
+66235 On ch=1 n=e4 v=73
+66236 On ch=1 n=b4 v=0
+66241 On ch=1 n=d4 v=0
+66241 On ch=1 n=f#4 v=0
+66467 On ch=1 n=c5 v=77
+66476 On ch=1 n=d5 v=0
+66690 On ch=1 n=e4 v=0
+66693 On ch=1 n=g#4 v=0
+66704 On ch=1 n=b4 v=80
+66716 On ch=1 n=c5 v=0
+66944 On ch=1 n=a4 v=83
+66947 On ch=1 n=b4 v=0
+67168 Meta Lyric "sa calotte chinoise."
+67173 Tempo 324324
+67187 On ch=1 n=g#4 v=87
+67187 On ch=1 n=e5 v=87
+67195 On ch=1 n=a4 v=0
+67200 Meta Lyric "chinese skull-cap."
+67201 On ch=1 n=e4 v=84
+67576 On ch=1 n=e4 v=0
+67641 On ch=1 n=g#4 v=0
+67649 On ch=1 n=e5 v=0
+67679 On ch=1 n=e3 v=72
+67900 On ch=1 n=e3 v=0
+68155 On ch=1 n=e4 v=80
+68401 On ch=1 n=d4 v=82
+68410 On ch=1 n=e4 v=0
+68634 On ch=1 n=d4 v=0
+68635 On ch=1 n=c#4 v=84
+68868 On ch=1 n=c#4 v=0
+68869 On ch=1 n=b3 v=86
+69093 Tempo 315789
+69112 On ch=1 n=a3 v=89
+69115 On ch=1 n=b3 v=0
+69123 On ch=1 n=a5 v=42
+69265 On ch=1 n=a3 v=0
+69302 On ch=1 n=a5 v=0
+69587 On ch=1 n=e4 v=77
+69593 On ch=1 n=a5 v=77
+69773 On ch=1 n=e4 v=0
+69831 On ch=1 n=b5 v=79
+69832 On ch=1 n=a5 v=0
+70068 On ch=1 n=c#6 v=86
+70073 On ch=1 n=b5 v=0
+70074 On ch=1 n=b3 v=86
+70227 On ch=1 n=b3 v=0
+70249 On ch=1 n=c#6 v=0
+70547 On ch=1 n=e6 v=77
+70548 On ch=1 n=e4 v=77
+70718 On ch=1 n=e6 v=0
+70732 On ch=1 n=e4 v=0
+71029 On ch=1 n=a5 v=87
+71032 On ch=1 n=c#4 v=87
+71185 On ch=1 n=c#4 v=0
+71222 On ch=1 n=a5 v=0
+71508 On ch=1 n=a5 v=83
+71515 On ch=1 n=e4 v=83
+71670 On ch=1 n=e4 v=0
+71743 On ch=1 n=a5 v=0
+71745 On ch=1 n=b5 v=86
+71978 On ch=1 n=b5 v=0
+71983 On ch=1 n=c#6 v=90
+71997 On ch=1 n=d4 v=90
+72113 On ch=1 n=d4 v=0
+72156 On ch=1 n=c#6 v=0
+72466 On ch=1 n=f#6 v=84
+72469 On ch=1 n=e4 v=84
+72624 On ch=1 n=e4 v=0
+72688 On ch=1 n=f#6 v=0
+72944 On ch=1 n=a4 v=86
+72950 On ch=1 n=a6 v=86
+73194 On ch=1 n=a6 v=0
+73195 On ch=1 n=g#6 v=88
+73427 On ch=1 n=g#6 v=0
+73430 On ch=1 n=f#6 v=89
+73433 On ch=1 n=a3 v=89
+73444 On ch=1 n=a4 v=0
+73670 On ch=1 n=e6 v=91
+73675 On ch=1 n=f#6 v=0
+73911 On ch=1 n=g#4 v=92
+73913 On ch=1 n=e6 v=0
+73914 On ch=1 n=a3 v=0
+73914 On ch=1 n=d6 v=92
+74150 On ch=1 n=c#6 v=94
+74151 On ch=1 n=d6 v=0
+74389 On ch=1 n=b5 v=95
+74393 On ch=1 n=a3 v=95
+74398 On ch=1 n=c#6 v=0
+74408 On ch=1 n=g#4 v=0
+74626 On ch=1 n=b5 v=0
+74629 On ch=1 n=a5 v=97
+74866 On ch=1 n=a5 v=0
+74871 On ch=1 n=b5 v=98
+74874 On ch=1 n=f#4 v=98
+74875 On ch=1 n=a3 v=0
+75108 On ch=1 n=a5 v=97
+75109 On ch=1 n=b5 v=0
+75348 On ch=1 n=f#4 v=0
+75349 On ch=1 n=g#5 v=95
+75349 On ch=1 n=d4 v=95
+75359 On ch=1 n=a5 v=0
+75584 On ch=1 n=f#5 v=93
+75589 On ch=1 n=g#5 v=0
+75830 On ch=1 n=e5 v=90
+75836 On ch=1 n=e4 v=90
+75838 On ch=1 n=f#5 v=0
+75838 On ch=1 n=d4 v=0
+76069 On ch=1 n=e4 v=0
+76070 On ch=1 n=d4 v=88
+76310 On ch=1 n=c#4 v=86
+76315 On ch=1 n=d4 v=0
+76412 On ch=1 n=e5 v=0
+76543 On ch=1 n=b3 v=83
+76545 On ch=1 n=c#4 v=0
+76773 Tempo 329670
+76790 On ch=1 n=a3 v=79
+76794 On ch=1 n=a4 v=79
+76798 On ch=1 n=b3 v=0
+76800 Meta Lyric "Il fait de grandes enjamb\xffffff8ees;"
+76896 Meta Lyric "He takes long strides;"
+76959 On ch=1 n=a3 v=0
+77267 On ch=1 n=e4 v=81
+77270 On ch=1 n=a4 v=0
+77273 On ch=1 n=d4 v=81
+77273 On ch=1 n=d3 v=81
+77285 Tempo 329670
+77435 On ch=1 n=d4 v=0
+77435 On ch=1 n=d3 v=0
+77441 Tempo 327868
+77508 On ch=1 n=a4 v=81
+77519 On ch=1 n=e4 v=0
+77597 Tempo 326086
+77750 On ch=1 n=c#5 v=82
+77752 On ch=1 n=c#4 v=82
+77752 On ch=1 n=c#3 v=82
+77753 Tempo 324324
+77762 On ch=1 n=a4 v=0
+77891 On ch=1 n=c#4 v=0
+77891 On ch=1 n=c#3 v=0
+77909 Tempo 322580
+77959 On ch=1 n=c#5 v=0
+78013 Tempo 320855
+78169 Tempo 319148
+78228 On ch=1 n=b3 v=84
+78228 On ch=1 n=b2 v=84
+78233 On ch=1 n=c#5 v=84
+78325 Tempo 317460
+78373 On ch=1 n=b3 v=0
+78373 On ch=1 n=b2 v=0
+78460 On ch=1 n=c#5 v=0
+78481 Tempo 315789
+78585 Tempo 314136
+78710 On ch=1 n=a3 v=86
+78710 On ch=1 n=a2 v=86
+78721 On ch=1 n=c#5 v=86
+78849 On ch=1 n=a3 v=0
+78849 On ch=1 n=a2 v=0
+79189 On ch=1 n=g#3 v=88
+79189 On ch=1 n=g#2 v=88
+79193 On ch=1 n=c#5 v=0
+79195 On ch=1 n=a4 v=88
+79332 On ch=1 n=g#3 v=0
+79332 On ch=1 n=g#2 v=0
+79431 On ch=1 n=c#5 v=89
+79439 On ch=1 n=a4 v=0
+79672 On ch=1 n=e5 v=90
+79672 On ch=1 n=f#3 v=90
+79672 On ch=1 n=f#2 v=90
+79684 On ch=1 n=c#5 v=0
+79792 On ch=1 n=f#3 v=0
+79792 On ch=1 n=f#2 v=0
+79816 On ch=1 n=e5 v=0
+80149 On ch=1 n=a5 v=91
+80153 On ch=1 n=e3 v=92
+80153 On ch=1 n=e2 v=92
+80285 On ch=1 n=a5 v=0
+80293 On ch=1 n=e3 v=0
+80293 On ch=1 n=e2 v=0
+80625 On ch=1 n=e5 v=93
+80627 On ch=1 n=c#5 v=93
+80652 On ch=1 n=e3 v=93
+80652 On ch=1 n=e4 v=93
+80741 On ch=1 n=c#5 v=0
+80754 On ch=1 n=e5 v=0
+80777 On ch=1 n=e3 v=0
+80808 On ch=1 n=e4 v=0
+81110 On ch=1 n=b4 v=90
+81110 On ch=1 n=d5 v=90
+81128 On ch=1 n=f#3 v=90
+81128 On ch=1 n=f#4 v=90
+81230 On ch=1 n=b4 v=0
+81230 On ch=1 n=d5 v=0
+81241 On ch=1 n=f#4 v=0
+81261 On ch=1 n=f#3 v=0
+81509 Tempo 320855
+81592 On ch=1 n=c#5 v=86
+81593 On ch=1 n=a4 v=86
+81605 On ch=1 n=e3 v=86
+81606 On ch=1 n=e4 v=86
+81613 Tempo 322580
+81717 Tempo 324324
+81719 On ch=1 n=c#5 v=0
+81727 On ch=1 n=e3 v=0
+81735 On ch=1 n=e4 v=0
+81739 On ch=1 n=a4 v=0
+81821 Tempo 326086
+81925 Tempo 327868
+82029 Tempo 329670
+82075 On ch=1 n=g#4 v=81
+82077 On ch=1 n=b4 v=81
+82082 On ch=1 n=f#3 v=81
+82085 On ch=1 n=f#4 v=81
+82133 Tempo 331491
+82175 On ch=1 n=g#4 v=0
+82201 On ch=1 n=b4 v=0
+82201 On ch=1 n=f#3 v=0
+82237 Tempo 333333
+82239 On ch=1 n=f#4 v=0
+82341 Tempo 335195
+82445 Tempo 337078
+82528 Meta Lyric "se pr\xffffff8ecipite dans l'escalier qu'il monte sur son dos."
+82550 On ch=1 n=a2 v=76
+82551 On ch=1 n=a3 v=76
+82552 On ch=1 n=a5 v=76
+82565 Tempo 342857
+82590 Tempo 320855
+82624 Meta Lyric "rushes at the stairs and mounts them upon his back."
+82791 On ch=1 n=b5 v=78
+82793 On ch=1 n=a5 v=0
+82902 Tempo 319148
+83029 On ch=1 n=c#6 v=80
+83033 On ch=1 n=b5 v=0
+83214 Tempo 317460
+83269 On ch=1 n=c#6 v=0
+83270 On ch=1 n=d6 v=82
+83307 On ch=1 n=a3 v=0
+83309 On ch=1 n=a2 v=0
+83510 On ch=1 n=e6 v=85
+83510 On ch=1 n=e5 v=85
+83516 On ch=1 n=d6 v=0
+83745 On ch=1 n=f#6 v=87
+83745 On ch=1 n=f#5 v=87
+83751 On ch=1 n=e6 v=0
+83751 On ch=1 n=e5 v=0
+83997 On ch=1 n=g#6 v=89
+83997 On ch=1 n=g#5 v=89
+84014 On ch=1 n=f#6 v=0
+84014 On ch=1 n=f#5 v=0
+84227 On ch=1 n=g#6 v=0
+84227 On ch=1 n=g#5 v=0
+84240 On ch=1 n=a6 v=91
+84240 On ch=1 n=a5 v=91
+84440 On ch=1 n=a6 v=0
+84440 On ch=1 n=a5 v=0
+84462 On ch=1 n=b5 v=93
+84481 On ch=1 n=g#5 v=93
+84591 On ch=1 n=b5 v=0
+84591 On ch=1 n=g#5 v=0
+84947 On ch=1 n=f#5 v=63
+84950 On ch=1 n=f#6 v=63
+84951 On ch=1 n=b6 v=63
+85064 On ch=1 n=f#6 v=0
+85070 On ch=1 n=b6 v=0
+85073 On ch=1 n=f#5 v=0
+85425 On ch=1 n=g#6 v=61
+85427 On ch=1 n=b6 v=61
+85431 On ch=1 n=g#5 v=61
+85557 On ch=1 n=g#5 v=0
+85565 On ch=1 n=g#6 v=0
+85566 On ch=1 n=b6 v=0
+85909 On ch=1 n=e5 v=59
+85910 On ch=1 n=b6 v=59
+85911 On ch=1 n=e6 v=59
+86023 On ch=1 n=b6 v=0
+86033 On ch=1 n=e5 v=0
+86039 On ch=1 n=e6 v=0
+86392 On ch=1 n=c#4 v=70
+86629 On ch=1 n=d4 v=72
+86635 On ch=1 n=c#4 v=0
+86872 On ch=1 n=e4 v=74
+86875 On ch=1 n=e6 v=74
+86877 On ch=1 n=c#6 v=74
+86878 On ch=1 n=d4 v=0
+86997 On ch=1 n=c#6 v=0
+87010 On ch=1 n=e6 v=0
+87115 On ch=1 n=f#4 v=77
+87129 On ch=1 n=e4 v=0
+87353 On ch=1 n=g#4 v=79
+87357 On ch=1 n=d6 v=79
+87360 On ch=1 n=b5 v=79
+87363 On ch=1 n=f#4 v=0
+87478 On ch=1 n=b5 v=0
+87483 On ch=1 n=d6 v=0
+87596 On ch=1 n=a4 v=81
+87601 On ch=1 n=g#4 v=0
+87838 On ch=1 n=a5 v=84
+87839 On ch=1 n=c#6 v=84
+87839 On ch=1 n=b4 v=84
+87845 On ch=1 n=a4 v=0
+87952 On ch=1 n=c#6 v=0
+87966 On ch=1 n=a5 v=0
+88072 On ch=1 n=c#5 v=86
+88075 On ch=1 n=b4 v=0
+88316 On ch=1 n=d5 v=88
+88321 On ch=1 n=b5 v=89
+88328 On ch=1 n=c#5 v=0
+88464 On ch=1 n=b5 v=0
+88509 On ch=1 n=d5 v=0
+88796 On ch=1 n=f#5 v=89
+88797 On ch=1 n=d4 v=89
+88923 On ch=1 n=d4 v=0
+89269 On ch=1 n=d4 v=89
+89281 On ch=1 n=g#5 v=89
+89295 On ch=1 n=f#5 v=0
+89395 On ch=1 n=d4 v=0
+89749 On ch=1 n=d4 v=89
+89762 On ch=1 n=e5 v=89
+89772 On ch=1 n=g#5 v=0
+89895 On ch=1 n=d4 v=0
+89989 On ch=1 n=e5 v=0
+90225 On ch=1 n=c#4 v=53
+90247 On ch=1 n=e4 v=53
+90483 On ch=1 n=f#4 v=55
+90486 On ch=1 n=e4 v=0
+90724 On ch=1 n=g#4 v=57
+90733 On ch=1 n=f#4 v=0
+90828 On ch=1 n=c#4 v=0
+90958 On ch=1 n=g#4 v=0
+90961 On ch=1 n=a4 v=59
+91201 On ch=1 n=b4 v=61
+91204 On ch=1 n=a4 v=0
+91436 On ch=1 n=c#5 v=63
+91441 On ch=1 n=b4 v=0
+91676 On ch=1 n=c#5 v=0
+91677 On ch=1 n=d5 v=65
+91909 On ch=1 n=d5 v=0
+91912 On ch=1 n=e5 v=67
+92155 On ch=1 n=f#5 v=69
+92170 On ch=1 n=e5 v=0
+92319 On ch=1 n=f#5 v=0
+92636 On ch=1 n=b5 v=58
+92636 On ch=1 n=f#6 v=58
+92636 On ch=1 n=b4 v=58
+92764 On ch=1 n=b4 v=0
+92781 On ch=1 n=f#6 v=0
+92784 On ch=1 n=b5 v=0
+92862 Tempo 315789
+93108 On ch=1 n=c#5 v=57
+93109 On ch=1 n=c#6 v=57
+93110 On ch=1 n=f#6 v=57
+93242 On ch=1 n=c#6 v=0
+93242 On ch=1 n=f#6 v=0
+93253 On ch=1 n=c#5 v=0
+93589 On ch=1 n=d6 v=57
+93591 On ch=1 n=f#6 v=57
+93592 On ch=1 n=d5 v=57
+93719 On ch=1 n=f#6 v=0
+93741 On ch=1 n=d5 v=0
+93748 On ch=1 n=d6 v=0
+94072 On ch=1 n=e5 v=64
+94074 On ch=1 n=g#5 v=64
+94209 On ch=1 n=e5 v=0
+94316 On ch=1 n=a5 v=66
+94324 On ch=1 n=g#5 v=0
+94474 Tempo 314136
+94553 On ch=1 n=f#5 v=68
+94557 On ch=1 n=b5 v=68
+94561 On ch=1 n=a5 v=0
+94682 On ch=1 n=f#5 v=0
+94793 On ch=1 n=c#6 v=70
+94800 On ch=1 n=b5 v=0
+95033 On ch=1 n=d6 v=72
+95034 On ch=1 n=g#5 v=72
+95035 On ch=1 n=c#6 v=0
+95185 On ch=1 n=g#5 v=0
+95264 Meta Lyric "Quel coup de vent!"
+95267 On ch=1 n=e6 v=74
+95269 On ch=1 n=d6 v=0
+95456 Meta Lyric "What a wind!"
+95502 On ch=1 n=f#6 v=76
+95506 On ch=1 n=e6 v=0
+95517 On ch=1 n=b5 v=77
+95683 On ch=1 n=b5 v=0
+95743 On ch=1 n=g#6 v=79
+95759 On ch=1 n=f#6 v=0
+95986 On ch=1 n=a6 v=81
+95992 On ch=1 n=g#6 v=0
+95997 On ch=1 n=a5 v=81
+96155 On ch=1 n=a5 v=0
+96227 On ch=1 n=b6 v=83
+96235 On ch=1 n=a6 v=0
+96465 On ch=1 n=c#7 v=85
+96473 On ch=1 n=b6 v=0
+96475 On ch=1 n=f#5 v=85
+96629 On ch=1 n=f#5 v=0
+96701 On ch=1 n=d7 v=87
+96715 On ch=1 n=c#7 v=0
+96945 On ch=1 n=e7 v=90
+96953 On ch=1 n=e5 v=90
+96958 On ch=1 n=d7 v=0
+97146 On ch=1 n=e5 v=0
+97152 On ch=1 n=e7 v=0
+97427 On ch=1 n=f#7 v=94
+97567 On ch=1 n=f#7 v=0
+97910 On ch=1 n=a7 v=104
+97923 On ch=1 n=e5 v=104
+98075 On ch=1 n=e5 v=0
+98147 On ch=1 n=e7 v=103
+98160 On ch=1 n=a7 v=0
+98389 On ch=1 n=c#7 v=100
+98399 On ch=1 n=d5 v=100
+98486 On ch=1 n=e7 v=0
+98519 On ch=1 n=d5 v=0
+98632 On ch=1 n=a6 v=98
+98633 On ch=1 n=c#7 v=0
+98868 On ch=1 n=a6 v=0
+98869 On ch=1 n=e7 v=96
+98875 On ch=1 n=c#5 v=96
+99016 On ch=1 n=c#5 v=0
+99112 On ch=1 n=c#7 v=94
+99126 On ch=1 n=e7 v=0
+99353 On ch=1 n=a6 v=91
+99357 On ch=1 n=b4 v=91
+99370 On ch=1 n=c#7 v=0
+99488 On ch=1 n=b4 v=0
+99580 On ch=1 n=a6 v=0
+99588 On ch=1 n=e6 v=89
+99827 On ch=1 n=g#6 v=88
+99829 On ch=1 n=e6 v=0
+99831 On ch=1 n=e4 v=88
+99833 On ch=1 n=b3 v=88
+100006 On ch=1 n=b3 v=0
+100073 On ch=1 n=f#6 v=89
+100088 On ch=1 n=g#6 v=0
+100311 On ch=1 n=c#4 v=90
+100313 On ch=1 n=a6 v=90
+100320 On ch=1 n=f#6 v=0
+100468 On ch=1 n=c#4 v=0
+100555 On ch=1 n=g#6 v=92
+100563 On ch=1 n=a6 v=0
+100670 Tempo 312500
+100797 On ch=1 n=b6 v=93
+100804 On ch=1 n=d4 v=93
+100805 On ch=1 n=g#6 v=0
+100922 On ch=1 n=d4 v=0
+101034 Tempo 310880
+101035 On ch=1 n=a6 v=94
+101040 On ch=1 n=b6 v=0
+101155 On ch=1 n=e4 v=0
+101271 On ch=1 n=g#6 v=96
+101280 On ch=1 n=e4 v=96
+101358 On ch=1 n=a6 v=0
+101398 Tempo 309278
+101438 On ch=1 n=e4 v=0
+101506 On ch=1 n=f#6 v=97
+101514 On ch=1 n=g#6 v=0
+101659 On ch=1 n=f#6 v=0
+101751 On ch=1 n=f#6 v=98
+101753 On ch=1 n=g#4 v=98
+101754 On ch=1 n=d4 v=98
+101885 On ch=1 n=d4 v=0
+101995 On ch=1 n=e6 v=92
+102009 On ch=1 n=f#6 v=0
+102234 On ch=1 n=e4 v=93
+102239 On ch=1 n=d6 v=93
+102243 On ch=1 n=e6 v=0
+102352 On ch=1 n=e4 v=0
+102478 On ch=1 n=c#6 v=93
+102486 On ch=1 n=d6 v=0
+102720 On ch=1 n=e6 v=93
+102722 On ch=1 n=d4 v=93
+102728 On ch=1 n=c#6 v=0
+102750 Tempo 315789
+102802 Tempo 317460
+102854 Tempo 319148
+102856 On ch=1 n=d4 v=0
+102906 Tempo 320855
+102956 On ch=1 n=d6 v=93
+102958 Tempo 322580
+102961 On ch=1 n=e6 v=0
+103010 Tempo 324324
+103062 Tempo 326086
+103114 Tempo 327868
+103166 Tempo 329670
+103197 On ch=1 n=c#6 v=93
+103201 On ch=1 n=e4 v=93
+103209 On ch=1 n=d6 v=0
+103218 Tempo 331491
+103270 Tempo 333333
+103303 On ch=1 n=e4 v=0
+103322 Tempo 335195
+103374 Tempo 337078
+103381 On ch=1 n=g#4 v=0
+103426 Tempo 338983
+103435 On ch=1 n=b5 v=93
+103445 On ch=1 n=c#6 v=0
+103478 Tempo 340909
+103530 Tempo 342857
+103582 Tempo 344827
+103634 Tempo 346820
+103675 On ch=1 n=a5 v=93
+103678 Tempo 307692
+103678 On ch=1 n=a4 v=93
+103680 On ch=1 n=b5 v=0
+103680 Meta Lyric "Assis dans son fauteuil il est heurex, et le fait voir."
+103680 On ch=1 n=a3 v=93
+103710 Tempo 300000
+103808 Meta Lyric "Once in his armchair, he is happy, and shows it."
+103920 On ch=1 n=c#4 v=84
+103923 On ch=1 n=a3 v=0
+104141 On ch=1 n=a4 v=0
+104150 On ch=1 n=a5 v=0
+104155 On ch=1 n=e4 v=87
+104161 On ch=1 n=c#4 v=0
+104386 On ch=1 n=e4 v=0
+104392 On ch=1 n=a4 v=91
+104639 On ch=1 n=a3 v=94
+104645 On ch=1 n=a4 v=0
+104779 On ch=1 n=a3 v=0
+105119 On ch=1 n=b5 v=87
+105119 On ch=1 n=a4 v=87
+105121 On ch=1 n=d5 v=87
+105121 On ch=1 n=f#5 v=87
+105226 On ch=1 n=d5 v=0
+105240 On ch=1 n=f#5 v=0
+105246 On ch=1 n=b5 v=0
+105277 On ch=1 n=a4 v=0
+105596 On ch=1 n=a3 v=95
+105835 On ch=1 n=d4 v=84
+105838 On ch=1 n=a3 v=0
+106072 On ch=1 n=f#4 v=88
+106073 On ch=1 n=d4 v=0
+106308 On ch=1 n=f#4 v=0
+106310 On ch=1 n=a4 v=91
+106552 On ch=1 n=a3 v=95
+106556 On ch=1 n=a4 v=0
+106710 On ch=1 n=a3 v=0
+107026 On ch=1 n=a4 v=88
+107036 On ch=1 n=d6 v=88
+107037 On ch=1 n=f#5 v=88
+107037 On ch=1 n=a5 v=88
+107151 On ch=1 n=f#5 v=0
+107168 On ch=1 n=a5 v=0
+107170 On ch=1 n=d6 v=0
+107188 On ch=1 n=a4 v=0
+107524 On ch=1 n=a3 v=61
+107761 On ch=1 n=c#4 v=49
+107763 On ch=1 n=a3 v=0
+108003 On ch=1 n=e4 v=51
+108009 On ch=1 n=c#4 v=0
+108236 On ch=1 n=e4 v=0
+108239 On ch=1 n=a4 v=54
+108481 On ch=1 n=a3 v=56
+108487 On ch=1 n=a4 v=0
+108639 On ch=1 n=a3 v=0
+108955 On ch=1 n=d5 v=56
+108955 On ch=1 n=f#5 v=56
+108956 On ch=1 n=b5 v=56
+108959 On ch=1 n=a4 v=56
+109089 On ch=1 n=d5 v=0
+109100 On ch=1 n=b5 v=0
+109108 On ch=1 n=a4 v=0
+109109 On ch=1 n=f#5 v=0
+109443 On ch=1 n=a3 v=56
+109687 On ch=1 n=d4 v=44
+109689 On ch=1 n=a3 v=0
+109922 On ch=1 n=d4 v=0
+109924 On ch=1 n=f#4 v=47
+110157 On ch=1 n=f#4 v=0
+110158 On ch=1 n=a4 v=50
+110403 On ch=1 n=a3 v=52
+110413 On ch=1 n=a4 v=0
+110584 On ch=1 n=a3 v=0
+110846 Tempo 307692
+110874 On ch=1 n=f#5 v=56
+110876 On ch=1 n=d6 v=56
+110877 On ch=1 n=a5 v=56
+110879 On ch=1 n=a4 v=56
+110898 Tempo 312500
+110950 Tempo 319148
+110982 On ch=1 n=f#5 v=0
+110991 On ch=1 n=a5 v=0
+111002 Tempo 324324
+111018 On ch=1 n=a4 v=0
+111023 On ch=1 n=d6 v=0
+111054 Tempo 331491
+111106 Tempo 337078
+111158 Tempo 344827
+111210 Tempo 350877
+111262 Tempo 359281
+111326 Tempo 320855
+111356 On ch=1 n=a3 v=89
+111357 On ch=1 n=a5 v=89
+111358 Tempo 312500
+111410 Tempo 314136
+111462 Tempo 317460
+111514 Tempo 319148
+111566 Tempo 322580
+111592 On ch=1 n=c#6 v=73
+111593 On ch=1 n=c#4 v=73
+111595 On ch=1 n=a3 v=0
+111597 On ch=1 n=a5 v=0
+111618 Tempo 324324
+111670 Tempo 327868
+111722 Tempo 329670
+111774 Tempo 333333
+111826 Tempo 337078
+111833 On ch=1 n=e4 v=79
+111834 On ch=1 n=e6 v=79
+111840 On ch=1 n=c#4 v=0
+111878 Tempo 338983
+111925 On ch=1 n=c#6 v=0
+111930 Tempo 342857
+111982 Tempo 344827
+112034 Tempo 348837
+112070 On ch=1 n=a6 v=85
+112071 On ch=1 n=e6 v=0
+112072 On ch=1 n=a4 v=85
+112074 On ch=1 n=e4 v=0
+112086 Tempo 350877
+112138 Tempo 355029
+112190 Tempo 359281
+112218 On ch=1 n=a6 v=0
+112226 On ch=1 n=a4 v=0
+112242 Tempo 361445
+112294 Tempo 346820
+112317 On ch=1 n=a5 v=91
+112321 On ch=1 n=a3 v=91
+112811 On ch=1 n=a5 v=0
+112865 On ch=1 n=a3 v=0
+114046 Tempo 631578
+114306 Tempo 625000
+114526 Tempo 517241
+114585 On ch=1 n=d4 v=48
+114605 On ch=1 n=a5 v=48
+114994 On ch=1 n=a5 v=0
+115010 On ch=1 n=f#4 v=49
+115021 On ch=1 n=d4 v=0
+115045 On ch=1 n=b5 v=49
+115242 On ch=1 n=b5 v=0
+115242 On ch=1 n=a5 v=50
+115358 On ch=1 n=f#4 v=0
+115379 On ch=1 n=a4 v=50
+115380 On ch=1 n=g#5 v=50
+115388 On ch=1 n=a5 v=0
+115539 On ch=1 n=a5 v=50
+115572 On ch=1 n=g#5 v=0
+115728 On ch=1 n=a4 v=0
+115738 Meta Lyric "Il r\xffffff8efl\xffffff8echit \xffffff88 son avancement."
+115745 On ch=1 n=g4 v=51
+115757 On ch=1 n=b5 v=51
+115834 On ch=1 n=a5 v=0
+115834 Meta Lyric "He reflects upon his promotion."
+116051 On ch=1 n=f#4 v=52
+116093 Par ch=1 c=64 v=127
+116103 On ch=1 n=g4 v=0
+116331 On ch=1 n=g4 v=53
+116361 On ch=1 n=f#4 v=0
+116462 Par ch=1 c=64 v=0
+116581 On ch=1 n=g4 v=0
+116605 On ch=1 n=c#6 v=53
+116613 On ch=1 n=a4 v=53
+116665 On ch=1 n=b5 v=0
+116846 Par ch=1 c=64 v=127
+116876 On ch=1 n=f#4 v=54
+116902 On ch=1 n=a4 v=0
+117127 On ch=1 n=f#4 v=0
+117150 On ch=1 n=a4 v=55
+117353 Par ch=1 c=64 v=0
+117398 On ch=1 n=a4 v=0
+117430 On ch=1 n=b4 v=56
+117451 On ch=1 n=d6 v=56
+117499 On ch=1 n=c#6 v=0
+117697 Par ch=1 c=64 v=127
+117744 On ch=1 n=c#6 v=57
+117762 On ch=1 n=d6 v=0
+117982 On ch=1 n=a#4 v=57
+117997 On ch=1 n=b4 v=0
+118009 On ch=1 n=d6 v=57
+118028 On ch=1 n=c#6 v=0
+118154 Par ch=1 c=64 v=0
+118269 On ch=1 n=a4 v=58
+118281 On ch=1 n=a#4 v=0
+118282 On ch=1 n=e6 v=58
+118329 On ch=1 n=d6 v=0
+118537 On ch=1 n=d6 v=59
+118554 Par ch=1 c=64 v=127
+118575 On ch=1 n=e6 v=0
+118803 On ch=1 n=e6 v=59
+118914 On ch=1 n=d6 v=0
+119058 On ch=1 n=d4 v=60
+119061 Par ch=1 c=64 v=0
+119075 On ch=1 n=f#6 v=60
+119089 On ch=1 n=a4 v=0
+119142 On ch=1 n=e6 v=0
+119341 Par ch=1 c=64 v=127
+119372 On ch=1 n=a6 v=61
+119405 On ch=1 n=f#6 v=0
+119605 On ch=1 n=d5 v=62
+119620 On ch=1 n=d4 v=0
+119635 On ch=1 n=f#6 v=62
+119711 On ch=1 n=a6 v=0
+119835 Par ch=1 c=64 v=0
+119896 On ch=1 n=c#5 v=61
+119908 On ch=1 n=d5 v=0
+119941 On ch=1 n=e6 v=61
+119993 On ch=1 n=f#6 v=0
+120115 Par ch=1 c=64 v=127
+120175 On ch=1 n=g6 v=60
+120209 On ch=1 n=b4 v=60
+120212 On ch=1 n=e6 v=0
+120216 On ch=1 n=c#5 v=0
+120422 On ch=1 n=e6 v=59
+120425 On ch=1 n=c#5 v=59
+120430 On ch=1 n=b4 v=0
+120456 On ch=1 n=g6 v=0
+120535 Par ch=1 c=64 v=0
+120677 On ch=1 n=d5 v=58
+120701 On ch=1 n=c#5 v=0
+120705 On ch=1 n=d6 v=58
+120729 On ch=1 n=e6 v=0
+120877 Par ch=1 c=64 v=127
+120928 On ch=1 n=f#6 v=57
+120962 On ch=1 n=d6 v=0
+121188 On ch=1 n=d4 v=56
+121190 On ch=1 n=d6 v=56
+121217 On ch=1 n=d5 v=0
+121277 On ch=1 n=f#6 v=0
+121397 Par ch=1 c=64 v=0
+121442 On ch=1 n=d4 v=0
+121481 On ch=1 n=e4 v=54
+121485 On ch=1 n=a5 v=54
+121505 On ch=1 n=d6 v=0
+121673 Par ch=1 c=64 v=127
+121780 On ch=1 n=g5 v=53
+121805 On ch=1 n=a5 v=0
+122061 On ch=1 n=e5 v=52
+122078 On ch=1 n=g5 v=0
+122165 Par ch=1 c=64 v=0
+122344 On ch=1 n=f#4 v=51
+122356 On ch=1 n=d5 v=51
+122368 On ch=1 n=e4 v=0
+122373 On ch=1 n=e5 v=0
+122514 Par ch=1 c=64 v=127
+122621 On ch=1 n=f#4 v=0
+122645 On ch=1 n=a4 v=50
+122882 On ch=1 n=f#4 v=49
+122898 On ch=1 n=a4 v=0
+122899 On ch=1 n=a5 v=48
+123038 Tempo 600000
+123070 Tempo 517241
+123071 On ch=1 n=a5 v=0
+123125 Par ch=1 c=64 v=0
+123134 Tempo 530973
+123153 On ch=1 n=f#4 v=0
+123167 On ch=1 n=e4 v=47
+123186 Tempo 535714
+123196 On ch=1 n=b5 v=47
+123204 On ch=1 n=a5 v=47
+123238 Tempo 540540
+123290 Tempo 545454
+123341 Par ch=1 c=64 v=127
+123342 Tempo 550458
+123378 On ch=1 n=a5 v=0
+123394 Tempo 560747
+123437 On ch=1 n=g4 v=46
+123446 Tempo 566037
+123447 On ch=1 n=e4 v=0
+123498 Tempo 571428
+123509 On ch=1 n=b5 v=0
+123550 Tempo 576923
+123602 Tempo 588235
+123654 Tempo 594059
+123677 On ch=1 n=e4 v=45
+123685 On ch=1 n=g4 v=0
+123690 On ch=1 n=c#6 v=45
+123701 On ch=1 n=g5 v=45
+123706 Tempo 600000
+123758 Tempo 606060
+123805 On ch=1 n=g5 v=0
+123810 Tempo 612244
+123835 On ch=1 n=c#6 v=0
+123862 Tempo 625000
+123914 Tempo 631578
+123927 Par ch=1 c=64 v=0
+123944 On ch=1 n=e4 v=0
+123951 On ch=1 n=d4 v=44
+123960 On ch=1 n=d6 v=44
+123966 Tempo 638297
+123973 On ch=1 n=f#5 v=44
+124018 Tempo 645161
+124070 Tempo 659340
+124122 Tempo 666666
+124133 Par ch=1 c=64 v=127
+124174 Tempo 674157
+124206 On ch=1 n=f#4 v=43
+124221 On ch=1 n=d4 v=0
+124226 Tempo 681818
+124270 On ch=1 n=d5 v=0
+124278 Tempo 697674
+124355 On ch=1 n=f#5 v=0
+124372 On ch=1 n=d6 v=0
+124465 On ch=1 n=d4 v=42
+124472 On ch=1 n=f#4 v=0
+124607 On ch=1 n=d4 v=0
+124751 On ch=1 n=c#4 v=43
+124798 Tempo 530973
+124802 On ch=1 n=a5 v=44
+124825 Par ch=1 c=64 v=0
+125035 On ch=1 n=e4 v=45
+125047 Par ch=1 c=64 v=127
+125061 On ch=1 n=c#4 v=0
+125074 On ch=1 n=b5 v=45
+125089 On ch=1 n=a5 v=0
+125220 On ch=1 n=a5 v=46
+125232 On ch=1 n=b5 v=0
+125301 On ch=1 n=a4 v=46
+125309 On ch=1 n=e4 v=0
+125341 On ch=1 n=g#5 v=46
+125358 On ch=1 n=a5 v=0
+125458 On ch=1 n=a5 v=47
+125470 On ch=1 n=g#5 v=0
+125482 Par ch=1 c=64 v=0
+125534 Tempo 600000
+125568 On ch=1 n=a4 v=0
+125579 On ch=1 n=g#4 v=47
+125621 On ch=1 n=b5 v=48
+125659 On ch=1 n=a5 v=0
+125690 Tempo 594059
+125794 Tempo 588235
+125819 Par ch=1 c=64 v=127
+125869 On ch=1 n=a5 v=49
+125898 Tempo 582524
+125929 On ch=1 n=b5 v=0
+126002 Tempo 576923
+126082 On ch=1 n=e4 v=50
+126089 On ch=1 n=g#4 v=0
+126101 On ch=1 n=g#5 v=50
+126106 Tempo 571428
+126125 On ch=1 n=a5 v=0
+126155 Par ch=1 c=64 v=0
+126210 Tempo 566037
+126314 Tempo 560747
+126329 On ch=1 n=a5 v=51
+126346 On ch=1 n=a4 v=51
+126351 On ch=1 n=e4 v=0
+126373 On ch=1 n=g#5 v=0
+126418 Tempo 555555
+126460 Par ch=1 c=64 v=127
+126522 Tempo 550458
+126617 On ch=1 n=b5 v=53
+126617 On ch=1 n=a5 v=0
+126626 Tempo 545454
+126676 On ch=1 n=a4 v=0
+126884 On ch=1 n=c#6 v=54
+126913 On ch=1 n=b5 v=0
+127010 Par ch=1 c=64 v=0
+127099 On ch=1 n=c#6 v=0
+127146 Meta Lyric "Peut-\xffffff90tre aura-t-il de l'augmentation sans avoir besoin davancer."
+127171 On ch=1 n=e6 v=56
+127411 On ch=1 n=c#6 v=57
+127421 Par ch=1 c=64 v=127
+127434 Meta Lyric "Maybe he'll get an increase without needing promotion."
+127501 On ch=1 n=e6 v=0
+127608 On ch=1 n=c#6 v=0
+127661 On ch=1 n=b5 v=58
+127677 On ch=1 n=e6 v=58
+127897 On ch=1 n=b5 v=0
+127904 Par ch=1 c=64 v=0
+127920 On ch=1 n=c#6 v=59
+127947 On ch=1 n=a6 v=59
+127963 On ch=1 n=e6 v=0
+128144 Par ch=1 c=64 v=127
+128163 On ch=1 n=c#6 v=0
+128193 On ch=1 n=d6 v=61
+128421 On ch=1 n=d6 v=0
+128439 On ch=1 n=g6 v=60
+128464 On ch=1 n=e6 v=60
+128471 On ch=1 n=a6 v=0
+128617 Par ch=1 c=64 v=0
+128701 On ch=1 n=a5 v=58
+128709 On ch=1 n=e6 v=0
+128709 On ch=1 n=a6 v=58
+128756 On ch=1 n=g6 v=0
+128766 Tempo 540540
+128818 Tempo 550458
+128870 Tempo 566037
+128887 Par ch=1 c=64 v=127
+128922 Tempo 582524
+128936 On ch=1 n=a5 v=0
+128941 On ch=1 n=c#6 v=57
+128974 Tempo 600000
+129026 Tempo 618556
+129078 Tempo 638297
+129130 Tempo 659340
+129176 On ch=1 n=b5 v=56
+129182 Tempo 681818
+129205 On ch=1 n=g6 v=56
+129221 On ch=1 n=a6 v=0
+129234 Tempo 705882
+129241 On ch=1 n=c#6 v=0
+129286 Tempo 731707
+129310 Tempo 750000
+129362 Tempo 714285
+129363 Par ch=1 c=64 v=0
+129414 Tempo 674157
+129451 On ch=1 n=g6 v=0
+129463 On ch=1 n=a6 v=55
+129466 Tempo 638297
+129471 On ch=1 n=a5 v=55
+129474 On ch=1 n=b5 v=0
+129518 Tempo 606060
+129570 Tempo 576923
+129622 Tempo 550458
+129662 Tempo 530973
+129719 On ch=1 n=b6 v=54
+129723 On ch=1 n=a6 v=0
+129792 On ch=1 n=a5 v=0
+129945 On ch=1 n=c7 v=52
+129980 On ch=1 n=b6 v=0
+130179 On ch=1 n=c6 v=51
+130216 On ch=1 n=b6 v=51
+130248 On ch=1 n=c7 v=0
+130260 On ch=1 n=c6 v=0
+130450 On ch=1 n=c6 v=50
+130451 On ch=1 n=a6 v=50
+130502 On ch=1 n=b6 v=0
+130515 On ch=1 n=c6 v=0
+130686 On ch=1 n=a6 v=0
+130690 On ch=1 n=c6 v=49
+130698 On ch=1 n=g6 v=49
+130771 On ch=1 n=c6 v=0
+130937 On ch=1 n=g6 v=0
+130938 On ch=1 n=c6 v=48
+130943 On ch=1 n=a6 v=48
+131030 On ch=1 n=c6 v=0
+131155 Par ch=1 c=64 v=127
+131191 On ch=1 n=c6 v=46
+131274 On ch=1 n=c6 v=0
+131419 On ch=1 n=a6 v=0
+131422 On ch=1 n=g6 v=45
+131425 On ch=1 n=c6 v=45
+131514 On ch=1 n=c6 v=0
+131729 On ch=1 n=g6 v=0
+131736 Par ch=1 c=64 v=0
+131746 On ch=1 n=f5 v=44
+131752 On ch=1 n=f6 v=44
+131967 Par ch=1 c=64 v=127
+132034 On ch=1 n=d5 v=42
+132046 On ch=1 n=f5 v=0
+132261 On ch=1 n=f5 v=41
+132292 On ch=1 n=c6 v=41
+132334 On ch=1 n=d5 v=0
+132396 On ch=1 n=c6 v=0
+132434 On ch=1 n=f5 v=0
+132537 On ch=1 n=a5 v=40
+132543 On ch=1 n=d6 v=40
+132565 On ch=1 n=d7 v=40
+132598 Par ch=1 c=64 v=0
+132783 Par ch=1 c=64 v=127
+132807 On ch=1 n=g5 v=39
+132832 On ch=1 n=a5 v=0
+133064 On ch=1 n=f5 v=37
+133073 On ch=1 n=e6 v=37
+133079 On ch=1 n=g5 v=0
+133137 On ch=1 n=d6 v=0
+133192 On ch=1 n=f6 v=0
+133214 Tempo 540540
+133266 Tempo 545454
+133310 Tempo 540540
+133362 Tempo 550458
+133402 On ch=1 n=f6 v=36
+133404 On ch=1 n=d7 v=0
+133407 On ch=1 n=a5 v=36
+133414 Tempo 566037
+133423 On ch=1 n=f5 v=0
+133442 On ch=1 n=c7 v=36
+133443 Par ch=1 c=64 v=0
+133466 Tempo 582524
+133471 On ch=1 n=e6 v=0
+133518 Tempo 600000
+133570 Tempo 618556
+133622 Tempo 638297
+133666 Par ch=1 c=64 v=127
+133674 Tempo 659340
+133710 On ch=1 n=g5 v=34
+133726 Tempo 674157
+133743 On ch=1 n=a5 v=0
+133778 Tempo 697674
+133781 On ch=1 n=c7 v=0
+133830 Tempo 722891
+133833 On ch=1 n=f6 v=0
+133882 Tempo 750000
+133923 On ch=1 n=g5 v=0
+133934 Tempo 779220
+133959 On ch=1 n=f5 v=33
+133986 Tempo 810810
+134038 Tempo 845070
+134090 Tempo 869565
+134118 Tempo 1153846
+134136 On ch=1 n=f5 v=0
+134142 Par ch=1 c=64 v=0
+134170 Tempo 1132075
+134185 On ch=1 n=a5 v=34
+134206 Tempo 540540
+134308 On ch=1 n=a5 v=0
+134443 On ch=1 n=a5 v=34
+134527 On ch=1 n=a5 v=0
+134687 On ch=1 n=a5 v=35
+134815 On ch=1 n=a5 v=0
+134858 Meta Lyric "Il compte d\xffffff8em\xffffff8enager au prochain terme."
+134895 On ch=1 n=c6 v=42
+134911 On ch=1 n=c4 v=43
+134986 Meta Lyric "He hopes to move next quarter."
+135167 On ch=1 n=b3 v=44
+135171 On ch=1 n=b5 v=44
+135185 On ch=1 n=c6 v=0
+135196 On ch=1 n=c4 v=0
+135393 On ch=1 n=a3 v=46
+135394 On ch=1 n=b3 v=0
+135402 On ch=1 n=a5 v=46
+135462 On ch=1 n=b5 v=0
+135631 On ch=1 n=g5 v=47
+135634 On ch=1 n=a5 v=0
+135638 On ch=1 n=g3 v=47
+135651 On ch=1 n=a3 v=0
+135856 On ch=1 n=f#5 v=49
+135862 On ch=1 n=f#3 v=49
+135876 On ch=1 n=g5 v=0
+135891 On ch=1 n=g3 v=0
+136117 On ch=1 n=e5 v=50
+136130 On ch=1 n=a#3 v=51
+136138 Par ch=1 c=64 v=127
+136149 On ch=1 n=f#5 v=0
+136162 On ch=1 n=f#3 v=0
+136327 Par ch=1 c=64 v=0
+136370 On ch=1 n=d#5 v=52
+136380 On ch=1 n=a#3 v=0
+136391 On ch=1 n=b3 v=52
+136416 On ch=1 n=e5 v=0
+136616 On ch=1 n=f#5 v=54
+136669 On ch=1 n=d#5 v=0
+136696 Par ch=1 c=64 v=127
+136877 On ch=1 n=b4 v=55
+136883 On ch=1 n=f#5 v=0
+137034 Par ch=1 c=64 v=0
+137124 On ch=1 n=e5 v=57
+137130 On ch=1 n=c4 v=57
+137154 On ch=1 n=b3 v=0
+137194 On ch=1 n=b4 v=0
+137383 On ch=1 n=g5 v=59
+137413 On ch=1 n=e5 v=0
+137450 Par ch=1 c=64 v=127
+137577 On ch=1 n=c4 v=0
+137596 On ch=1 n=g5 v=0
+137611 On ch=1 n=b4 v=60
+137619 On ch=1 n=d4 v=60
+137730 Par ch=1 c=64 v=0
+137846 On ch=1 n=d#4 v=60
+137868 On ch=1 n=f#5 v=60
+137877 On ch=1 n=d4 v=0
+137938 On ch=1 n=b4 v=0
+138043 Par ch=1 c=64 v=127
+138126 On ch=1 n=a5 v=53
+138164 On ch=1 n=f#5 v=0
+138366 On ch=1 n=b4 v=47
+138405 Par ch=1 c=64 v=0
+138573 On ch=1 n=a5 v=0
+138597 On ch=1 n=b4 v=0
+138602 On ch=1 n=d#4 v=0
+138637 On ch=1 n=e4 v=43
+138646 On ch=1 n=g5 v=43
+138730 Meta Lyric "Il a un appartement en vue."
+138768 On ch=1 n=g5 v=0
+138826 Meta Lyric "He has a flat in view."
+138833 On ch=1 n=e4 v=0
+138914 On ch=1 n=g5 v=45
+139031 On ch=1 n=g5 v=0
+139178 On ch=1 n=g5 v=48
+139318 On ch=1 n=g5 v=0
+139419 On ch=1 n=b5 v=50
+139678 On ch=1 n=a5 v=53
+139741 On ch=1 n=b5 v=0
+139919 On ch=1 n=a5 v=0
+139931 On ch=1 n=g5 v=54
+140153 On ch=1 n=f#5 v=54
+140185 On ch=1 n=g5 v=0
+140420 On ch=1 n=e5 v=53
+140489 On ch=1 n=f#5 v=0
+140618 On ch=1 n=g#3 v=53
+140634 On ch=1 n=e5 v=0
+140643 On ch=1 n=d5 v=53
+140890 On ch=1 n=a3 v=53
+140896 On ch=1 n=c#5 v=53
+140917 On ch=1 n=d5 v=0
+140923 On ch=1 n=g#3 v=0
+141074 Par ch=1 c=64 v=127
+141146 On ch=1 n=e5 v=52
+141194 On ch=1 n=c#5 v=0
+141398 On ch=1 n=a4 v=52
+141415 On ch=1 n=a3 v=0
+141429 On ch=1 n=e5 v=0
+141618 Par ch=1 c=64 v=0
+141635 On ch=1 n=f#3 v=51
+141669 On ch=1 n=d5 v=51
+141695 On ch=1 n=a4 v=0
+141852 Par ch=1 c=64 v=127
+141888 On ch=1 n=f#5 v=51
+141950 On ch=1 n=d5 v=0
+142136 On ch=1 n=a5 v=50
+142142 On ch=1 n=d4 v=50
+142145 On ch=1 n=f#3 v=0
+142184 On ch=1 n=f#5 v=0
+142304 Par ch=1 c=64 v=0
+142322 On ch=1 n=a5 v=0
+142382 On ch=1 n=d4 v=0
+142438 On ch=1 n=c#4 v=50
+142438 On ch=1 n=a5 v=50
+142589 On ch=1 n=c#4 v=0
+142635 Par ch=1 c=64 v=127
+142684 On ch=1 n=c#4 v=49
+142699 On ch=1 n=g5 v=49
+142731 On ch=1 n=a5 v=0
+142848 On ch=1 n=c#4 v=0
+142944 On ch=1 n=d4 v=49
+142954 On ch=1 n=f#5 v=49
+142997 On ch=1 n=g5 v=0
+143111 On ch=1 n=d4 v=0
+143144 On ch=1 n=f#5 v=0
+143220 On ch=1 n=e4 v=48
+143261 On ch=1 n=f#5 v=48
+143273 Par ch=1 c=64 v=0
+143473 On ch=1 n=e4 v=0
+143506 On ch=1 n=f#4 v=48
+143657 Par ch=1 c=64 v=127
+143754 On ch=1 n=g4 v=47
+143811 On ch=1 n=f#4 v=0
+143962 Par ch=1 c=64 v=0
+144018 On ch=1 n=a4 v=47
+144022 On ch=1 n=e5 v=47
+144029 On ch=1 n=g4 v=0
+144068 On ch=1 n=f#5 v=0
+144310 On ch=1 n=a4 v=0
+144328 On ch=1 n=e5 v=0
+144347 On ch=1 n=a5 v=45
+144466 On ch=1 n=a5 v=0
+144554 Meta Lyric "Pourvu qu'il avance ou augmente!"
+144595 On ch=1 n=a5 v=44
+144707 On ch=1 n=a5 v=0
+144714 Meta Lyric "Provided the rise or promotion comes off!"
+144817 On ch=1 n=a5 v=44
+145073 On ch=1 n=g5 v=43
+145122 On ch=1 n=a5 v=0
+145339 On ch=1 n=f#5 v=42
+145406 On ch=1 n=g5 v=0
+145542 On ch=1 n=f#5 v=0
+145680 On ch=1 n=c#5 v=41
+145711 On ch=1 n=f#5 v=41
+145941 Par ch=1 c=64 v=127
+145963 On ch=1 n=d5 v=40
+145995 On ch=1 n=c#5 v=0
+146202 On ch=1 n=b4 v=40
+146215 On ch=1 n=d5 v=0
+146263 Par ch=1 c=64 v=0
+146463 On ch=1 n=b4 v=0
+146468 On ch=1 n=c#5 v=39
+146491 On ch=1 n=e5 v=39
+146517 On ch=1 n=f#5 v=0
+146734 On ch=1 n=a4 v=37
+146737 On ch=1 n=e5 v=0
+146743 On ch=1 n=c#5 v=0
+146840 On ch=1 n=a4 v=0
+146968 On ch=1 n=a4 v=37
+147091 On ch=1 n=a4 v=0
+147222 On ch=1 n=a4 v=36
+147479 On ch=1 n=g4 v=35
+147503 On ch=1 n=a4 v=0
+147503 Par ch=1 c=64 v=127
+147720 On ch=1 n=f#4 v=35
+147742 On ch=1 n=g4 v=0
+147879 On ch=1 n=f#4 v=0
+147954 Par ch=1 c=64 v=0
+148009 On ch=1 n=f#4 v=34
+148035 On ch=1 n=c#5 v=34
+148241 Par ch=1 c=64 v=127
+148287 On ch=1 n=d5 v=33
+148328 On ch=1 n=c#5 v=0
+148532 On ch=1 n=d5 v=0
+148555 On ch=1 n=b4 v=33
+148715 Par ch=1 c=64 v=0
+148787 On ch=1 n=f#4 v=0
+148836 On ch=1 n=e4 v=32
+148853 On ch=1 n=c#5 v=32
+148903 On ch=1 n=b4 v=0
+148966 Par ch=1 c=64 v=127
+148966 Tempo 555555
+149101 On ch=1 n=c#5 v=0
+149122 Tempo 560747
+149139 On ch=1 n=e4 v=0
+149151 On ch=1 n=a3 v=35
+149203 Par ch=1 c=64 v=0
+149251 On ch=1 n=a3 v=0
+149278 Tempo 566037
+149434 Tempo 571428
+149439 On ch=1 n=a3 v=37
+149498 On ch=1 n=a3 v=0
+149590 Tempo 576923
+149688 On ch=1 n=a3 v=38
+149969 On ch=1 n=g3 v=39
+150034 On ch=1 n=a3 v=0
+150053 Par ch=1 c=64 v=127
+150279 On ch=1 n=f#3 v=41
+150322 On ch=1 n=g3 v=0
+150447 On ch=1 n=f#3 v=0
+150611 On ch=1 n=c#4 v=42
+150638 On ch=1 n=f#3 v=42
+150654 Par ch=1 c=64 v=0
+150926 On ch=1 n=d4 v=44
+150965 On ch=1 n=c#4 v=0
+150976 Par ch=1 c=64 v=127
+151194 On ch=1 n=d4 v=0
+151220 On ch=1 n=b3 v=45
+151276 On ch=1 n=f#3 v=0
+151341 On ch=1 n=b3 v=0
+151481 Par ch=1 c=64 v=0
+151599 On ch=1 n=c#4 v=47
+151603 On ch=1 n=e3 v=47
+151619 Par ch=1 c=64 v=127
+151686 On ch=1 n=e3 v=0
+151705 On ch=1 n=c#4 v=0
+151878 Tempo 540540
+152157 On ch=1 n=c#6 v=59
+152170 On ch=1 n=g5 v=59
+152177 On ch=1 n=b6 v=59
+152181 On ch=1 n=e5 v=59
+152457 On ch=1 n=c#6 v=0
+152470 On ch=1 n=g5 v=0
+152477 On ch=1 n=b6 v=0
+152481 On ch=1 n=e5 v=0
+152550 On ch=1 n=a5 v=56
+152551 On ch=1 n=f#5 v=56
+152558 On ch=1 n=d6 v=56
+152584 On ch=1 n=a6 v=56
+152850 On ch=1 n=a5 v=0
+152851 On ch=1 n=f#5 v=0
+152858 On ch=1 n=d6 v=0
+152884 On ch=1 n=a6 v=0
+152885 On ch=1 n=b5 v=54
+152886 On ch=1 n=g5 v=54
+152896 On ch=1 n=g6 v=53
+152912 On ch=1 n=e6 v=53
+153003 Par ch=1 c=64 v=0
+153221 Par ch=1 c=64 v=127
+153237 On ch=1 n=b5 v=0
+153238 On ch=1 n=g5 v=0
+153250 On ch=1 n=g6 v=0
+153269 On ch=1 n=e6 v=0
+153336 On ch=1 n=c#6 v=50
+153347 On ch=1 n=a5 v=50
+153371 On ch=1 n=f#6 v=50
+153696 On ch=1 n=c#6 v=0
+153707 On ch=1 n=a5 v=0
+153731 On ch=1 n=f#6 v=0
+153887 On ch=1 n=e6 v=46
+153894 On ch=1 n=a5 v=46
+153898 On ch=1 n=c#6 v=46
+153990 Par ch=1 c=64 v=0
+154230 Par ch=1 c=64 v=127
+154247 On ch=1 n=e6 v=0
+154254 On ch=1 n=a5 v=0
+154257 On ch=1 n=c#6 v=0
+154593 On ch=1 n=a5 v=40
+154599 On ch=1 n=d4 v=39
+154835 Par ch=1 c=64 v=0
+154929 On ch=1 n=b5 v=36
+154949 On ch=1 n=a5 v=0
+154966 On ch=1 n=f#4 v=36
+154993 On ch=1 n=d4 v=0
+155091 On ch=1 n=a5 v=37
+155112 On ch=1 n=b5 v=0
+155146 Par ch=1 c=64 v=127
+155219 On ch=1 n=g#5 v=38
+155229 On ch=1 n=f#4 v=0
+155240 On ch=1 n=a5 v=0
+155241 On ch=1 n=a4 v=38
+155366 On ch=1 n=a5 v=38
+155373 On ch=1 n=g#5 v=0
+155493 On ch=1 n=a4 v=0
+155511 On ch=1 n=g4 v=39
+155538 On ch=1 n=b5 v=39
+155549 Par ch=1 c=64 v=0
+155580 On ch=1 n=a5 v=0
+155769 On ch=1 n=g4 v=0
+155785 On ch=1 n=f#4 v=40
+155892 Par ch=1 c=64 v=127
+156046 On ch=1 n=g4 v=41
+156079 On ch=1 n=f#4 v=0
+156292 On ch=1 n=c#6 v=43
+156317 Par ch=1 c=64 v=0
+156317 On ch=1 n=a4 v=43
+156322 On ch=1 n=g4 v=0
+156347 On ch=1 n=b5 v=0
+156554 On ch=1 n=f#4 v=44
+156589 On ch=1 n=a4 v=0
+156623 Par ch=1 c=64 v=127
+156682 Meta Lyric "Nouveau songe sur  l'avancement."
+156778 Meta Lyric "More daydreams of promotion."
+156793 On ch=1 n=f#4 v=0
+156798 On ch=1 n=a4 v=45
+157051 On ch=1 n=d6 v=46
+157059 On ch=1 n=a4 v=0
+157070 On ch=1 n=b4 v=46
+157090 On ch=1 n=c#6 v=0
+157158 Par ch=1 c=64 v=0
+157292 On ch=1 n=c#6 v=47
+157346 On ch=1 n=d6 v=0
+157465 Par ch=1 c=64 v=127
+157505 On ch=1 n=a#4 v=48
+157535 On ch=1 n=b4 v=0
+157546 On ch=1 n=d6 v=48
+157585 On ch=1 n=c#6 v=0
+157774 On ch=1 n=a4 v=50
+157777 On ch=1 n=a#4 v=0
+157789 On ch=1 n=e6 v=50
+157852 On ch=1 n=d6 v=0
+157898 Par ch=1 c=64 v=0
+158029 On ch=1 n=d6 v=51
+158047 On ch=1 n=e6 v=0
+158162 Par ch=1 c=64 v=127
+158260 On ch=1 n=e6 v=52
+158267 On ch=1 n=d4 v=52
+158272 On ch=1 n=d6 v=0
+158281 On ch=1 n=a4 v=0
+158504 On ch=1 n=d5 v=53
+158512 On ch=1 n=d4 v=0
+158520 On ch=1 n=f#6 v=53
+158596 Par ch=1 c=64 v=0
+158598 On ch=1 n=e6 v=0
+158787 On ch=1 n=a6 v=54
+158818 On ch=1 n=f#6 v=0
+158844 Par ch=1 c=64 v=127
+158900 On ch=1 n=d5 v=0
+159049 On ch=1 n=f#6 v=55
+159071 On ch=1 n=d5 v=56
+159147 On ch=1 n=a6 v=0
+159332 On ch=1 n=e6 v=56
+159337 On ch=1 n=c#5 v=56
+159356 On ch=1 n=d5 v=0
+159406 On ch=1 n=f#6 v=0
+159477 Par ch=1 c=64 v=0
+159570 On ch=1 n=g6 v=55
+159593 On ch=1 n=b4 v=55
+159616 On ch=1 n=c#5 v=0
+159628 On ch=1 n=e6 v=0
+159767 Par ch=1 c=64 v=127
+159792 On ch=1 n=c#5 v=54
+159813 On ch=1 n=b4 v=0
+159830 On ch=1 n=e6 v=54
+159924 On ch=1 n=g6 v=0
+160050 On ch=1 n=d5 v=53
+160052 On ch=1 n=c#5 v=0
+160072 On ch=1 n=d6 v=53
+160104 On ch=1 n=e6 v=0
+160159 Par ch=1 c=64 v=0
+160274 On ch=1 n=d6 v=0
+160292 On ch=1 n=f#6 v=53
+160538 On ch=1 n=d4 v=52
+160557 On ch=1 n=d6 v=52
+160558 On ch=1 n=d5 v=0
+160624 On ch=1 n=f#6 v=0
+160792 On ch=1 n=d4 v=0
+160809 On ch=1 n=e4 v=51
+160814 On ch=1 n=a5 v=51
+160823 On ch=1 n=d6 v=0
+161078 On ch=1 n=g5 v=50
+161085 On ch=1 n=a5 v=0
+161257 Par ch=1 c=64 v=127
+161320 On ch=1 n=e5 v=49
+161360 On ch=1 n=g5 v=0
+161588 On ch=1 n=f#4 v=48
+161592 On ch=1 n=d5 v=48
+161601 Par ch=1 c=64 v=0
+161615 On ch=1 n=e4 v=0
+161627 On ch=1 n=e5 v=0
+161842 On ch=1 n=f#4 v=0
+161868 On ch=1 n=a4 v=47
+161980 Par ch=1 c=64 v=127
+162122 On ch=1 n=a5 v=47
+162125 On ch=1 n=f#4 v=47
+162135 On ch=1 n=a4 v=0
+162278 Tempo 530973
+162289 On ch=1 n=a5 v=0
+162330 Tempo 535714
+162366 On ch=1 n=f#4 v=0
+162382 Tempo 540540
+162398 On ch=1 n=e4 v=46
+162404 On ch=1 n=a5 v=46
+162409 On ch=1 n=b5 v=46
+162434 Tempo 545454
+162486 Tempo 550458
+162538 Tempo 555555
+162539 Par ch=1 c=64 v=0
+162590 Tempo 566037
+162642 Tempo 571428
+162655 On ch=1 n=g4 v=45
+162663 On ch=1 n=e4 v=0
+162694 Tempo 576923
+162705 On ch=1 n=b5 v=0
+162718 On ch=1 n=a5 v=0
+162746 Tempo 582524
+162789 Par ch=1 c=64 v=127
+162798 Tempo 588235
+162850 Tempo 594059
+162892 On ch=1 n=e4 v=44
+162895 On ch=1 n=c#6 v=44
+162899 On ch=1 n=g5 v=44
+162902 Tempo 606060
+162920 On ch=1 n=g4 v=0
+162954 Tempo 612244
+163006 Tempo 618556
+163008 On ch=1 n=g5 v=0
+163058 On ch=1 n=c#6 v=0
+163058 Tempo 625000
+163162 On ch=1 n=e4 v=0
+163187 On ch=1 n=d4 v=43
+163200 On ch=1 n=d6 v=43
+163208 On ch=1 n=f#5 v=43
+163335 Par ch=1 c=64 v=0
+163458 On ch=1 n=f#4 v=42
+163464 On ch=1 n=d4 v=0
+163516 Par ch=1 c=64 v=127
+163580 On ch=1 n=d5 v=0
+163606 On ch=1 n=f#5 v=0
+163697 On ch=1 n=f#4 v=0
+163713 On ch=1 n=d6 v=0
+163724 On ch=1 n=d4 v=41
+163777 On ch=1 n=d4 v=0
+163974 Tempo 555555
+164082 On ch=1 n=f#5 v=40
+164090 On ch=1 n=d6 v=40
+164344 On ch=1 n=f#5 v=0
+164365 On ch=1 n=a5 v=39
+164368 Par ch=1 c=64 v=0
+164576 Par ch=1 c=64 v=127
+164614 On ch=1 n=f#5 v=39
+164632 On ch=1 n=a5 v=0
+164632 On ch=1 n=a6 v=38
+164756 On ch=1 n=f#5 v=0
+164762 On ch=1 n=a6 v=0
+164929 On ch=1 n=a6 v=38
+164938 On ch=1 n=e5 v=38
+164950 On ch=1 n=b6 v=37
+165121 Par ch=1 c=64 v=0
+165158 Tempo 555555
+165201 On ch=1 n=e5 v=0
+165239 On ch=1 n=g5 v=37
+165246 On ch=1 n=b6 v=0
+165266 On ch=1 n=a6 v=0
+165281 Par ch=1 c=64 v=127
+165314 Tempo 560747
+165470 Tempo 566037
+165532 On ch=1 n=c#7 v=36
+165533 On ch=1 n=e5 v=36
+165540 On ch=1 n=g5 v=0
+165557 On ch=1 n=g6 v=36
+165574 Tempo 571428
+165627 On ch=1 n=g6 v=0
+165699 On ch=1 n=c#7 v=0
+165730 Tempo 576923
+165818 On ch=1 n=e5 v=0
+165882 On ch=1 n=d5 v=34
+165886 Tempo 582524
+165919 On ch=1 n=d7 v=34
+165920 On ch=1 n=f#6 v=34
+165990 Tempo 588235
+166090 Par ch=1 c=64 v=0
+166146 Tempo 594059
+166204 On ch=1 n=f#5 v=33
+166214 On ch=1 n=d7 v=0
+166218 On ch=1 n=d5 v=0
+166232 On ch=1 n=f#6 v=0
+166282 On ch=1 n=d6 v=0
+166283 Par ch=1 c=64 v=127
+166302 Tempo 600000
+166366 On ch=1 n=f#5 v=0
+166406 Tempo 606060
+166577 On ch=1 n=d5 v=32
+166627 On ch=1 n=d5 v=0
+167081 On ch=1 n=d3 v=31
+167086 On ch=1 n=g4 v=31
+167088 On ch=1 n=e5 v=31
+167335 Par ch=1 c=64 v=0
+167541 Par ch=1 c=64 v=127
+167543 On ch=1 n=a3 v=29
+167571 On ch=1 n=d3 v=0
+167802 On ch=1 n=a3 v=0
+167829 On ch=1 n=c#4 v=28
+168165 On ch=1 n=c#4 v=0
+168172 On ch=1 n=d3 v=27
+168576 On ch=1 n=a3 v=26
+168600 On ch=1 n=d3 v=0
+169049 On ch=1 n=a3 v=0
+169064 On ch=1 n=c#4 v=24
+169254 Tempo 612244
+169358 Tempo 618556
+169410 Tempo 625000
+169462 Tempo 631578
+169506 On ch=1 n=c#4 v=0
+169514 Tempo 638297
+169566 Tempo 645161
+169670 Tempo 652173
+169722 Tempo 659340
+169727 On ch=1 n=e5 v=0
+169774 Tempo 666666
+169785 On ch=1 n=f#4 v=22
+169791 On ch=1 n=d4 v=22
+169800 On ch=1 n=d5 v=22
+169811 On ch=1 n=g4 v=0
+169826 Tempo 674157
+170057 Par ch=1 c=64 v=0
+170278 Tempo 833333
+171323 On ch=1 n=d5 v=0
+171328 On ch=1 n=f#4 v=0
+171362 On ch=1 n=d4 v=0
+172166 Tempo 540540
+172930 TimeSig 3/8 36 8
+172930 Tempo 444444
+172934 Tempo 458015
+174369 On ch=1 n=e5 v=51
+174370 On ch=1 n=c#6 v=43
+174473 On ch=1 n=d6 v=44
+174486 On ch=1 n=c#6 v=0
+174596 On ch=1 n=d6 v=0
+174601 On ch=1 n=e6 v=46
+174602 Meta Lyric "Il chantonne un vieil air p\xffffff8eruvien..."
+174618 On ch=1 n=a4 v=37
+174686 On ch=1 n=a4 v=0
+174705 On ch=1 n=e6 v=0
+174730 Meta Lyric "He hums an old Peruvian air..."
+174841 On ch=1 n=f#6 v=48
+174853 On ch=1 n=a4 v=37
+174912 On ch=1 n=e5 v=0
+174923 On ch=1 n=a4 v=0
+174948 On ch=1 n=f#6 v=0
+175096 On ch=1 n=f#5 v=49
+175112 On ch=1 n=c#6 v=54
+175331 On ch=1 n=a4 v=37
+175398 On ch=1 n=a4 v=0
+175459 On ch=1 n=c#6 v=0
+175568 On ch=1 n=a4 v=37
+175574 On ch=1 n=a6 v=47
+175642 On ch=1 n=a4 v=0
+175654 On ch=1 n=f#5 v=0
+175701 On ch=1 n=b6 v=50
+175741 On ch=1 n=a6 v=0
+175816 On ch=1 n=e5 v=50
+175823 On ch=1 n=c#7 v=54
+175868 On ch=1 n=b6 v=0
+175931 On ch=1 n=c#7 v=0
+176049 On ch=1 n=a4 v=37
+176061 On ch=1 n=b6 v=54
+176112 On ch=1 n=a4 v=0
+176127 On ch=1 n=b6 v=0
+176293 On ch=1 n=a4 v=37
+176300 On ch=1 n=a6 v=52
+176348 On ch=1 n=a4 v=0
+176372 On ch=1 n=e5 v=0
+176408 On ch=1 n=a6 v=0
+176535 On ch=1 n=f#5 v=48
+176538 On ch=1 n=g#6 v=50
+176649 On ch=1 n=g#6 v=0
+176770 On ch=1 n=a4 v=37
+176775 On ch=1 n=f#6 v=47
+176842 On ch=1 n=a4 v=0
+176849 On ch=1 n=f#6 v=0
+177010 On ch=1 n=a4 v=37
+177013 On ch=1 n=e6 v=45
+177087 On ch=1 n=a4 v=0
+177088 On ch=1 n=f#5 v=0
+177094 On ch=1 n=e6 v=0
+177226 Meta Lyric "qu'il a recueili en Bass-Bretagne..."
+177253 On ch=1 n=c#6 v=43
+177256 On ch=1 n=e5 v=47
+177354 Meta Lyric "which he collected in Lower Brittany..."
+177379 On ch=1 n=d6 v=45
+177381 On ch=1 n=c#6 v=0
+177495 On ch=1 n=a4 v=36
+177498 On ch=1 n=e6 v=47
+177500 On ch=1 n=d6 v=0
+177561 On ch=1 n=a4 v=0
+177613 On ch=1 n=e6 v=0
+177733 On ch=1 n=a4 v=36
+177736 On ch=1 n=f#6 v=50
+177792 On ch=1 n=e5 v=0
+177794 On ch=1 n=a4 v=0
+177809 On ch=1 n=f#6 v=0
+177976 On ch=1 n=f#5 v=48
+177984 On ch=1 n=c#6 v=56
+178211 On ch=1 n=a4 v=36
+178276 On ch=1 n=a4 v=0
+178340 On ch=1 n=c#6 v=0
+178451 On ch=1 n=a4 v=36
+178459 On ch=1 n=a6 v=48
+178523 On ch=1 n=a4 v=0
+178560 On ch=1 n=f#5 v=0
+178571 On ch=1 n=a6 v=0
+178579 On ch=1 n=b6 v=51
+178697 On ch=1 n=c#7 v=53
+178697 On ch=1 n=e5 v=48
+178699 On ch=1 n=b6 v=0
+178821 On ch=1 n=b6 v=57
+178822 On ch=1 n=c#7 v=0
+178930 On ch=1 n=b6 v=0
+178934 On ch=1 n=a4 v=36
+178936 On ch=1 n=a6 v=57
+178995 On ch=1 n=a4 v=0
+179053 On ch=1 n=a6 v=0
+179056 On ch=1 n=g#6 v=54
+179171 On ch=1 n=a4 v=36
+179179 On ch=1 n=f#6 v=51
+179182 On ch=1 n=g#6 v=0
+179243 On ch=1 n=a4 v=0
+179264 On ch=1 n=e5 v=0
+179292 On ch=1 n=f#6 v=0
+179302 On ch=1 n=d6 v=47
+179415 On ch=1 n=f#5 v=50
+179418 On ch=1 n=c#6 v=45
+179420 On ch=1 n=d6 v=0
+179649 On ch=1 n=a4 v=36
+179711 On ch=1 n=a4 v=0
+179765 On ch=1 n=c#6 v=0
+179888 On ch=1 n=a4 v=36
+179889 On ch=1 n=f#5 v=0
+179955 On ch=1 n=a4 v=0
+180106 Meta Lyric "chez un soud-muet."
+180137 On ch=1 n=c#5 v=32
+180137 On ch=1 n=a5 v=36
+180137 On ch=1 n=c#6 v=36
+180137 On ch=1 n=f#6 v=36
+180198 On ch=1 n=a5 v=0
+180241 On ch=1 n=c#6 v=0
+180241 On ch=1 n=f#6 v=0
+180261 On ch=1 n=d5 v=32
+180277 On ch=1 n=c#5 v=0
+180377 On ch=1 n=e5 v=32
+180377 On ch=1 n=b5 v=38
+180377 On ch=1 n=d6 v=38
+180377 On ch=1 n=g#6 v=38
+180391 On ch=1 n=d5 v=0
+180426 Meta Lyric "from a deaf-mute."
+180433 On ch=1 n=g#6 v=0
+180434 On ch=1 n=b5 v=0
+180439 On ch=1 n=d6 v=0
+180448 On ch=1 n=e5 v=0
+180617 On ch=1 n=f#5 v=32
+180617 On ch=1 n=c#6 v=41
+180617 On ch=1 n=e6 v=41
+180617 On ch=1 n=a6 v=41
+180675 On ch=1 n=c#6 v=0
+180677 On ch=1 n=a6 v=0
+180681 On ch=1 n=e6 v=0
+180686 On ch=1 n=f#5 v=0
+180857 On ch=1 n=c#5 v=47
+180857 On ch=1 n=d6 v=43
+180857 On ch=1 n=f#6 v=43
+180857 On ch=1 n=b6 v=43
+180915 On ch=1 n=d6 v=0
+180927 On ch=1 n=f#6 v=0
+180934 On ch=1 n=b6 v=0
+181097 On ch=1 n=e6 v=45
+181097 On ch=1 n=g#6 v=45
+181097 On ch=1 n=c#7 v=45
+181146 On ch=1 n=g#6 v=0
+181165 On ch=1 n=e6 v=0
+181180 On ch=1 n=c#7 v=0
+181337 On ch=1 n=a5 v=33
+181337 On ch=1 n=f#6 v=48
+181337 On ch=1 n=a6 v=48
+181337 On ch=1 n=d7 v=48
+181338 On ch=1 n=c#5 v=0
+181410 On ch=1 n=a6 v=0
+181418 On ch=1 n=f#6 v=0
+181420 On ch=1 n=d7 v=0
+181452 On ch=1 n=a5 v=0
+181457 On ch=1 n=b5 v=33
+181571 On ch=1 n=e7 v=50
+181573 On ch=1 n=g#6 v=50
+181573 On ch=1 n=b6 v=50
+181574 On ch=1 n=c#6 v=33
+181581 On ch=1 n=b5 v=0
+181638 On ch=1 n=b6 v=0
+181645 On ch=1 n=g#6 v=0
+181645 On ch=1 n=e7 v=0
+181654 On ch=1 n=c#6 v=0
+181810 On ch=1 n=a6 v=46
+181811 On ch=1 n=f#6 v=46
+181811 On ch=1 n=d7 v=46
+181814 On ch=1 n=b5 v=34
+181882 On ch=1 n=d7 v=0
+181886 On ch=1 n=a6 v=0
+181887 On ch=1 n=b5 v=0
+181889 On ch=1 n=f#6 v=0
+182052 On ch=1 n=c#7 v=43
+182052 On ch=1 n=a5 v=34
+182054 On ch=1 n=e6 v=43
+182054 On ch=1 n=g#6 v=43
+182124 On ch=1 n=g#6 v=0
+182124 On ch=1 n=a5 v=0
+182170 On ch=1 n=c#7 v=0
+182172 On ch=1 n=e6 v=0
+182293 On ch=1 n=g#5 v=34
+182296 On ch=1 n=b6 v=41
+182299 On ch=1 n=f#6 v=41
+182300 On ch=1 n=d6 v=41
+182361 On ch=1 n=d6 v=0
+182366 On ch=1 n=f#6 v=0
+182376 On ch=1 n=g#5 v=0
+182409 On ch=1 n=b6 v=0
+182533 On ch=1 n=f#5 v=34
+182536 On ch=1 n=c#6 v=38
+182536 On ch=1 n=a6 v=38
+182539 On ch=1 n=e6 v=38
+182600 On ch=1 n=f#5 v=0
+182603 On ch=1 n=c#6 v=0
+182649 On ch=1 n=e6 v=0
+182650 On ch=1 n=a6 v=0
+182775 On ch=1 n=e5 v=35
+182776 On ch=1 n=b5 v=36
+182778 On ch=1 n=g#6 v=36
+182779 On ch=1 n=d6 v=36
+182849 On ch=1 n=d6 v=0
+182851 On ch=1 n=b5 v=0
+182858 On ch=1 n=e5 v=0
+182888 On ch=1 n=g#6 v=0
+183016 On ch=1 n=c#6 v=33
+183016 On ch=1 n=c#5 v=35
+183018 On ch=1 n=a5 v=33
+183019 On ch=1 n=f#6 v=33
+183092 On ch=1 n=c#6 v=0
+183128 On ch=1 n=f#6 v=0
+183129 On ch=1 n=a5 v=0
+183134 On ch=1 n=d5 v=35
+183146 On ch=1 n=c#5 v=0
+183254 On ch=1 n=g#6 v=34
+183256 On ch=1 n=d6 v=34
+183256 On ch=1 n=e5 v=35
+183257 On ch=1 n=b5 v=34
+183264 On ch=1 n=d5 v=0
+183323 On ch=1 n=b5 v=0
+183330 On ch=1 n=d6 v=0
+183343 On ch=1 n=e5 v=0
+183372 On ch=1 n=g#6 v=0
+183493 On ch=1 n=c#6 v=37
+183494 On ch=1 n=a6 v=37
+183496 On ch=1 n=f#5 v=35
+183498 On ch=1 n=e6 v=37
+183552 On ch=1 n=e6 v=0
+183569 On ch=1 n=f#5 v=0
+183609 On ch=1 n=a6 v=0
+183612 On ch=1 n=c#6 v=0
+183736 On ch=1 n=f#6 v=40
+183738 On ch=1 n=d6 v=40
+183738 On ch=1 n=b6 v=40
+183741 On ch=1 n=c#5 v=47
+183800 On ch=1 n=d6 v=0
+183809 On ch=1 n=b6 v=0
+183849 On ch=1 n=f#6 v=0
+183974 On ch=1 n=g#6 v=43
+183975 On ch=1 n=e6 v=43
+183978 On ch=1 n=c#7 v=43
+184076 On ch=1 n=g#6 v=0
+184089 On ch=1 n=e6 v=0
+184090 On ch=1 n=c#7 v=0
+184213 On ch=1 n=f#6 v=46
+184213 On ch=1 n=a6 v=46
+184213 On ch=1 n=d7 v=46
+184214 On ch=1 n=a5 v=36
+184221 On ch=1 n=c#5 v=0
+184285 On ch=1 n=a6 v=0
+184328 On ch=1 n=a5 v=0
+184330 On ch=1 n=f#6 v=0
+184330 On ch=1 n=d7 v=0
+184333 On ch=1 n=b5 v=36
+184438 On ch=1 n=b6 v=49
+184451 On ch=1 n=g#6 v=49
+184453 On ch=1 n=e7 v=49
+184454 On ch=1 n=b5 v=0
+184455 On ch=1 n=c#6 v=36
+184486 Tempo 447761
+184527 On ch=1 n=e7 v=0
+184544 On ch=1 n=b6 v=0
+184571 On ch=1 n=g#6 v=0
+184578 On ch=1 n=b5 v=41
+184582 On ch=1 n=c#6 v=0
+184590 Tempo 444444
+184642 Tempo 441176
+184687 On ch=1 n=b5 v=0
+184689 On ch=1 n=c#7 v=52
+184691 On ch=1 n=a6 v=52
+184691 On ch=1 n=f#7 v=52
+184693 On ch=1 n=a5 v=45
+184746 Tempo 437956
+184769 On ch=1 n=c#7 v=0
+184798 Tempo 434782
+184808 On ch=1 n=a6 v=0
+184809 On ch=1 n=f#7 v=0
+184812 On ch=1 n=a5 v=0
+184815 On ch=1 n=g#5 v=49
+184850 Tempo 431654
+184931 On ch=1 n=g#5 v=0
+184931 On ch=1 n=b6 v=55
+184931 On ch=1 n=d7 v=55
+184931 On ch=1 n=g#7 v=55
+184932 On ch=1 n=f#5 v=52
+184954 Tempo 428571
+185006 Tempo 425531
+185012 On ch=1 n=d7 v=0
+185042 On ch=1 n=f#5 v=0
+185046 On ch=1 n=d5 v=56
+185049 On ch=1 n=b6 v=0
+185050 On ch=1 n=g#7 v=0
+185058 Tempo 422535
+185162 Tempo 419580
+185170 On ch=1 n=e7 v=62
+185170 On ch=1 n=a7 v=62
+185171 On ch=1 n=c#7 v=62
+185176 On ch=1 n=c#5 v=60
+185184 On ch=1 n=d5 v=0
+185222 Tempo 410958
+185253 On ch=1 n=e7 v=0
+185274 Tempo 434782
+185280 On ch=1 n=c#5 v=0
+185290 On ch=1 n=a7 v=0
+185292 On ch=1 n=c#7 v=0
+185326 Tempo 461538
+185378 Tempo 491803
+185408 On ch=1 n=d7 v=90
+185409 On ch=1 n=f#7 v=90
+185409 On ch=1 n=b7 v=90
+185414 On ch=1 n=b5 v=85
+185430 Tempo 526315
+185482 Tempo 566037
+185488 On ch=1 n=b5 v=0
+185491 On ch=1 n=f#7 v=0
+185530 On ch=1 n=d7 v=0
+185530 On ch=1 n=b7 v=0
+185534 Tempo 612244
+185586 Tempo 666666
+185638 Tempo 731707
+185650 On ch=1 n=c#8 v=102
+185651 On ch=1 n=g#7 v=103
+185652 On ch=1 n=c#6 v=90
+185656 On ch=1 n=e7 v=103
+185690 Tempo 810810
+185702 On ch=1 n=e7 v=0
+185712 On ch=1 n=c#8 v=0
+185714 On ch=1 n=g#7 v=0
+185724 On ch=1 n=c#6 v=0
+185742 Tempo 909090
+185794 Tempo 1034482
+185846 Tempo 1200000
+185866 Meta Lyric "Un piano voisin joue du Clementi."
+185891 On ch=1 n=a3 v=78
+185894 Tempo 447761
+185899 On ch=1 n=e5 v=78
+185989 On ch=1 n=a3 v=0
+186016 On ch=1 n=e5 v=0
+186019 On ch=1 n=d5 v=67
+186026 Meta Lyric "A nearby piano plays Clementi."
+186128 On ch=1 n=a2 v=67
+186139 On ch=1 n=c#5 v=67
+186143 On ch=1 n=d5 v=0
+186190 On ch=1 n=a2 v=0
+186249 On ch=1 n=c#5 v=0
+186366 On ch=1 n=a3 v=67
+186373 On ch=1 n=c#5 v=67
+186446 On ch=1 n=a3 v=0
+186495 On ch=1 n=c#5 v=0
+186606 On ch=1 n=a2 v=76
+186614 On ch=1 n=f#5 v=76
+186677 On ch=1 n=a2 v=0
+186738 On ch=1 n=e5 v=66
+186786 On ch=1 n=f#5 v=0
+186848 On ch=1 n=a3 v=66
+186856 On ch=1 n=e5 v=0
+186856 On ch=1 n=d5 v=66
+186920 On ch=1 n=a3 v=0
+186979 On ch=1 n=d5 v=0
+187088 On ch=1 n=a2 v=66
+187095 On ch=1 n=d5 v=66
+187162 On ch=1 n=a2 v=0
+187212 On ch=1 n=d5 v=0
+187330 On ch=1 n=a3 v=67
+187338 On ch=1 n=b4 v=68
+187411 On ch=1 n=a3 v=0
+187455 On ch=1 n=b4 v=0
+187459 On ch=1 n=d5 v=69
+187568 On ch=1 n=a2 v=71
+187578 On ch=1 n=g#5 v=71
+187579 On ch=1 n=d5 v=0
+187642 On ch=1 n=a2 v=0
+187696 On ch=1 n=g#5 v=0
+187696 On ch=1 n=d5 v=73
+187805 On ch=1 n=a3 v=75
+187818 On ch=1 n=g#5 v=75
+187820 On ch=1 n=d5 v=0
+187881 On ch=1 n=a3 v=0
+187936 On ch=1 n=d5 v=77
+187941 On ch=1 n=g#5 v=0
+188045 On ch=1 n=a2 v=86
+188056 On ch=1 n=d5 v=0
+188060 On ch=1 n=c#5 v=86
+188118 On ch=1 n=a2 v=0
+188169 On ch=1 n=c#5 v=0
+188283 On ch=1 n=a3 v=75
+188297 On ch=1 n=e5 v=75
+188355 On ch=1 n=a3 v=0
+188370 On ch=1 n=e5 v=0
+188525 On ch=1 n=a2 v=70
+188535 On ch=1 n=a5 v=70
+188591 On ch=1 n=a2 v=0
+188651 On ch=1 n=a5 v=0
+188774 On ch=1 n=b4 v=75
+188777 On ch=1 n=f#5 v=75
+188858 On ch=1 n=b4 v=0
+188899 On ch=1 n=e5 v=68
+188942 On ch=1 n=f#5 v=0
+189013 On ch=1 n=b3 v=70
+189016 On ch=1 n=d5 v=70
+189020 On ch=1 n=e5 v=0
+189084 On ch=1 n=b3 v=0
+189133 On ch=1 n=d5 v=0
+189255 On ch=1 n=d5 v=72
+189256 On ch=1 n=b4 v=72
+189334 On ch=1 n=b4 v=0
+189373 On ch=1 n=d5 v=0
+189494 On ch=1 n=g5 v=77
+189499 On ch=1 n=b3 v=77
+189590 On ch=1 n=b3 v=0
+189613 On ch=1 n=f#5 v=70
+189623 On ch=1 n=g5 v=0
+189733 On ch=1 n=e5 v=71
+189739 On ch=1 n=f#5 v=0
+189739 On ch=1 n=b4 v=71
+189812 On ch=1 n=b4 v=0
+189852 On ch=1 n=e5 v=0
+189974 On ch=1 n=e5 v=73
+189981 On ch=1 n=b3 v=73
+190058 On ch=1 n=b3 v=0
+190091 On ch=1 n=e5 v=0
+190213 On ch=1 n=c#5 v=69
+190220 On ch=1 n=b4 v=70
+190295 On ch=1 n=b4 v=0
+190335 On ch=1 n=e5 v=72
+190339 On ch=1 n=c#5 v=0
+190454 On ch=1 n=a#5 v=75
+190455 On ch=1 n=e5 v=0
+190459 On ch=1 n=b3 v=75
+190524 On ch=1 n=b3 v=0
+190574 On ch=1 n=e5 v=78
+190576 On ch=1 n=a#5 v=0
+190693 On ch=1 n=b4 v=81
+190694 On ch=1 n=a#5 v=81
+190698 On ch=1 n=e5 v=0
+190768 On ch=1 n=b4 v=0
+190814 On ch=1 n=e5 v=84
+190820 On ch=1 n=a#5 v=0
+190930 On ch=1 n=b3 v=88
+190931 On ch=1 n=e5 v=0
+190941 On ch=1 n=d5 v=88
+190999 On ch=1 n=b3 v=0
+191001 On ch=1 n=d5 v=0
+191170 On ch=1 n=b4 v=77
+191176 On ch=1 n=f#5 v=77
+191238 Tempo 476190
+191248 On ch=1 n=b4 v=0
+191253 On ch=1 n=f#5 v=0
+191290 Tempo 483870
+191342 Tempo 495867
+191394 Tempo 508474
+191412 On ch=1 n=b3 v=69
+191414 On ch=1 n=b5 v=69
+191446 Tempo 521739
+191471 On ch=1 n=b3 v=0
+191482 On ch=1 n=b5 v=0
+191498 Tempo 535714
+191550 Tempo 550458
+191602 Tempo 566037
+191622 Tempo 517241
+191626 Meta Lyric "Combien cela est triste."
+191644 On ch=1 n=a2 v=30
+191652 On ch=1 n=a3 v=30
+191656 On ch=1 n=a4 v=30
+191658 On ch=1 n=e4 v=30
+191754 Meta Lyric "How sad it is."
+192124 On ch=1 n=a2 v=0
+192124 On ch=1 n=g2 v=30
+192132 On ch=1 n=a3 v=0
+192132 On ch=1 n=g3 v=30
+192133 On ch=1 n=g4 v=30
+192134 On ch=1 n=d4 v=30
+192140 On ch=1 n=a4 v=0
+192141 On ch=1 n=e4 v=0
+192364 On ch=1 n=g2 v=0
+192364 On ch=1 n=a2 v=30
+192369 On ch=1 n=d4 v=0
+192371 On ch=1 n=g3 v=0
+192372 On ch=1 n=a3 v=30
+192376 On ch=1 n=g4 v=0
+192381 On ch=1 n=e4 v=30
+192386 On ch=1 n=a4 v=30
+192844 On ch=1 n=a2 v=0
+192844 On ch=1 n=g2 v=30
+192852 On ch=1 n=a3 v=0
+192852 On ch=1 n=g3 v=30
+192853 On ch=1 n=a4 v=0
+192856 On ch=1 n=e4 v=0
+192856 On ch=1 n=d4 v=30
+192863 On ch=1 n=g4 v=30
+192985 On ch=1 n=g4 v=0
+193030 Tempo 468750
+193040 On ch=1 n=d4 v=0
+193084 On ch=1 n=g2 v=0
+193091 On ch=1 n=g3 v=0
+193096 On ch=1 n=d#5 v=43
+193098 On ch=1 n=b3 v=43
+193101 On ch=1 n=f#4 v=43
+193150 On ch=1 n=f#4 v=0
+193156 On ch=1 n=b3 v=0
+193215 On ch=1 n=e5 v=44
+193219 On ch=1 n=d#5 v=0
+193334 On ch=1 n=f#5 v=45
+193337 On ch=1 n=e5 v=0
+193350 On ch=1 n=b3 v=46
+193351 On ch=1 n=f#4 v=46
+193410 On ch=1 n=f#4 v=0
+193414 On ch=1 n=b3 v=0
+193451 On ch=1 n=g#5 v=47
+193456 On ch=1 n=f#5 v=0
+193571 On ch=1 n=a5 v=48
+193577 On ch=1 n=b3 v=48
+193583 On ch=1 n=g#5 v=0
+193583 On ch=1 n=f#4 v=48
+193647 On ch=1 n=b3 v=0
+193649 On ch=1 n=f#4 v=0
+193688 On ch=1 n=f#5 v=49
+193694 On ch=1 n=a5 v=0
+193811 On ch=1 n=e5 v=51
+193815 On ch=1 n=g#4 v=51
+193816 On ch=1 n=e4 v=51
+193823 On ch=1 n=f#5 v=0
+193900 On ch=1 n=e4 v=0
+193906 On ch=1 n=g#4 v=0
+194052 On ch=1 n=e5 v=0
+194052 On ch=1 n=e4 v=39
+194054 On ch=1 n=g#4 v=39
+194148 On ch=1 n=g#4 v=0
+194163 On ch=1 n=e4 v=0
+194502 Tempo 458015
+194518 On ch=1 n=b6 v=91
+194536 On ch=1 n=b5 v=91
+194538 Meta Lyric "Il ose valser! "
+194602 Meta Lyric "He dares to waltz!"
+194776 On ch=1 n=f#6 v=80
+194778 On ch=1 n=d6 v=80
+194976 On ch=1 n=f#6 v=0
+194978 On ch=1 n=d6 v=0
+194991 On ch=1 n=b6 v=0
+195012 On ch=1 n=c#6 v=71
+195016 On ch=1 n=b5 v=0
+195028 On ch=1 n=e6 v=71
+195028 On ch=1 n=a6 v=71
+195099 On ch=1 n=a6 v=0
+195178 On ch=1 n=e6 v=0
+195248 On ch=1 n=f#6 v=88
+195254 On ch=1 n=c#6 v=0
+195259 On ch=1 n=f#5 v=88
+195475 On ch=1 n=c#6 v=79
+195480 On ch=1 n=a5 v=78
+195675 On ch=1 n=c#6 v=0
+195680 On ch=1 n=a5 v=0
+195724 On ch=1 n=e6 v=69
+195731 On ch=1 n=f#6 v=0
+195731 On ch=1 n=f#5 v=0
+195732 On ch=1 n=g#5 v=69
+195744 On ch=1 n=b5 v=68
+195835 On ch=1 n=g#5 v=0
+195877 On ch=1 n=b5 v=0
+195896 On ch=1 n=e6 v=0
+195970 On ch=1 n=c#6 v=85
+195976 On ch=1 n=c#5 v=85
+196216 On ch=1 n=e5 v=70
+196221 On ch=1 n=g#5 v=70
+196298 Meta Lyric "(Lui, pas le piano)"
+196447 On ch=1 n=b5 v=59
+196448 On ch=1 n=f#5 v=59
+196453 On ch=1 n=g#5 v=0
+196454 On ch=1 n=d5 v=58
+196455 On ch=1 n=c#6 v=0
+196456 On ch=1 n=c#5 v=0
+196469 On ch=1 n=e5 v=0
+196518 On ch=1 n=b5 v=0
+196553 On ch=1 n=d5 v=0
+196583 On ch=1 n=f#5 v=0
+196586 Meta Lyric "(He, not the piano)"
+196689 On ch=1 n=g#5 v=83
+196695 On ch=1 n=g#4 v=83
+196934 Tempo 447761
+196953 On ch=1 n=b4 v=68
+196954 On ch=1 n=d5 v=68
+196986 Tempo 454545
+197038 Tempo 461538
+197090 Tempo 472440
+197142 Tempo 480000
+197153 On ch=1 n=b4 v=0
+197164 On ch=1 n=d5 v=0
+197175 On ch=1 n=g#5 v=0
+197177 On ch=1 n=g#4 v=0
+197181 On ch=1 n=a4 v=60
+197190 On ch=1 n=f#5 v=60
+197193 On ch=1 n=c#5 v=60
+197194 Tempo 491803
+197246 Tempo 500000
+197257 On ch=1 n=a4 v=0
+197261 On ch=1 n=c#5 v=0
+197298 Tempo 512820
+197315 On ch=1 n=f#5 v=0
+197382 Tempo 495867
+197412 On ch=1 n=e3 v=36
+197416 On ch=1 n=e4 v=36
+197421 On ch=1 n=e2 v=36
+197422 On ch=1 n=b3 v=36
+197514 Meta Lyric "Tout cela et bien triste."
+197642 Meta Lyric "It's all very sad."
+197860 On ch=1 n=e2 v=0
+197881 On ch=1 n=e3 v=0
+197897 On ch=1 n=a3 v=35
+197899 On ch=1 n=b3 v=0
+197899 On ch=1 n=d4 v=35
+197903 On ch=1 n=e4 v=0
+197904 On ch=1 n=d2 v=35
+197906 On ch=1 n=d3 v=35
+198133 On ch=1 n=a3 v=0
+198138 On ch=1 n=d4 v=0
+198139 On ch=1 n=e4 v=34
+198140 On ch=1 n=d2 v=0
+198140 On ch=1 n=b3 v=34
+198142 On ch=1 n=e2 v=34
+198144 On ch=1 n=e3 v=34
+198145 On ch=1 n=d3 v=0
+198609 On ch=1 n=e3 v=0
+198609 On ch=1 n=e2 v=0
+198614 On ch=1 n=d2 v=32
+198616 On ch=1 n=d3 v=32
+198619 On ch=1 n=a3 v=32
+198620 On ch=1 n=e4 v=0
+198620 On ch=1 n=d4 v=32
+198621 On ch=1 n=b3 v=0
+198853 On ch=1 n=a3 v=0
+198856 On ch=1 n=d4 v=0
+198859 On ch=1 n=e4 v=32
+198860 On ch=1 n=b3 v=32
+198861 On ch=1 n=e2 v=32
+198864 On ch=1 n=e3 v=32
+198886 Tempo 508474
+198911 On ch=1 n=d2 v=0
+198971 On ch=1 n=d3 v=0
+199042 Tempo 512820
+199198 Tempo 517241
+199302 Tempo 521739
+199330 On ch=1 n=e4 v=0
+199336 On ch=1 n=e3 v=0
+199336 On ch=1 n=d4 v=30
+199338 On ch=1 n=d2 v=30
+199338 On ch=1 n=d3 v=30
+199340 On ch=1 n=b3 v=0
+199340 On ch=1 n=a3 v=30
+199341 On ch=1 n=e2 v=0
+199458 Tempo 526315
+199562 Tempo 530973
+199573 On ch=1 n=a3 v=0
+199580 On ch=1 n=d4 v=0
+199581 On ch=1 n=e4 v=29
+199583 On ch=1 n=b3 v=29
+199585 On ch=1 n=e3 v=29
+199586 On ch=1 n=e2 v=29
+199592 On ch=1 n=d2 v=0
+199649 On ch=1 n=d3 v=0
+199718 Tempo 535714
+199822 Tempo 540540
+199978 Tempo 545454
+200049 On ch=1 n=e4 v=0
+200052 On ch=1 n=b3 v=0
+200052 On ch=1 n=e3 v=0
+200056 On ch=1 n=e2 v=0
+200056 On ch=1 n=d4 v=28
+200058 On ch=1 n=d2 v=28
+200059 On ch=1 n=a3 v=28
+200060 On ch=1 n=d3 v=28
+200082 Tempo 550458
+200171 On ch=1 n=d3 v=0
+200223 On ch=1 n=d4 v=0
+200224 On ch=1 n=a3 v=0
+200251 On ch=1 n=d2 v=0
+200262 Tempo 447761
+200299 On ch=1 n=b6 v=79
+200303 On ch=1 n=g#4 v=79
+200305 On ch=1 n=e4 v=79
+200362 Meta Lyric "Le piano reprend son travail."
+200374 On ch=1 n=e4 v=0
+200387 On ch=1 n=g#4 v=0
+200419 On ch=1 n=b6 v=0
+200424 On ch=1 n=a6 v=80
+200426 Meta Lyric "The piano resumes its work."
+200536 On ch=1 n=a6 v=0
+200539 On ch=1 n=g#6 v=81
+200539 On ch=1 n=g#4 v=81
+200540 On ch=1 n=e4 v=81
+200609 On ch=1 n=e4 v=0
+200610 On ch=1 n=g#4 v=0
+200656 On ch=1 n=f#6 v=82
+200665 On ch=1 n=g#6 v=0
+200774 On ch=1 n=f#6 v=0
+200774 On ch=1 n=e4 v=83
+200775 On ch=1 n=e6 v=83
+200775 On ch=1 n=g#4 v=83
+200863 On ch=1 n=e4 v=0
+200864 On ch=1 n=g#4 v=0
+200893 On ch=1 n=d#6 v=84
+200896 On ch=1 n=e6 v=0
+201011 On ch=1 n=e4 v=85
+201012 On ch=1 n=a4 v=85
+201014 On ch=1 n=c#6 v=85
+201024 On ch=1 n=d#6 v=0
+201095 On ch=1 n=e4 v=0
+201098 On ch=1 n=a4 v=0
+201133 On ch=1 n=b5 v=86
+201143 On ch=1 n=c#6 v=0
+201249 On ch=1 n=e4 v=86
+201251 On ch=1 n=a5 v=86
+201251 On ch=1 n=a4 v=86
+201253 On ch=1 n=b5 v=0
+201328 On ch=1 n=a4 v=0
+201344 On ch=1 n=e4 v=0
+201369 On ch=1 n=g#5 v=87
+201376 On ch=1 n=a5 v=0
+201485 On ch=1 n=e4 v=88
+201489 On ch=1 n=f#5 v=88
+201489 On ch=1 n=a4 v=88
+201503 On ch=1 n=g#5 v=0
+201554 On ch=1 n=a4 v=0
+201566 On ch=1 n=e4 v=0
+201608 On ch=1 n=e5 v=89
+201615 On ch=1 n=f#5 v=0
+201725 On ch=1 n=a4 v=90
+201725 On ch=1 n=e4 v=90
+201727 On ch=1 n=d#5 v=90
+201738 On ch=1 n=e5 v=0
+201805 On ch=1 n=a4 v=0
+201816 On ch=1 n=e4 v=0
+201853 On ch=1 n=e5 v=92
+201856 On ch=1 n=d#5 v=0
+201960 On ch=1 n=f#5 v=92
+201965 On ch=1 n=e4 v=92
+201965 On ch=1 n=a4 v=92
+201973 On ch=1 n=e5 v=0
+202037 On ch=1 n=e4 v=0
+202047 On ch=1 n=a4 v=0
+202072 On ch=1 n=g#5 v=92
+202080 On ch=1 n=f#5 v=0
+202192 On ch=1 n=g#5 v=0
+202195 On ch=1 n=a5 v=92
+202197 On ch=1 n=e4 v=92
+202200 On ch=1 n=a4 v=92
+202241 On ch=1 n=a4 v=0
+202263 On ch=1 n=e4 v=0
+202315 On ch=1 n=a5 v=0
+202321 On ch=1 n=f#5 v=92
+202441 On ch=1 n=f#5 v=0
+202449 On ch=1 n=g#4 v=92
+202450 On ch=1 n=e5 v=92
+202450 On ch=1 n=e4 v=92
+202529 On ch=1 n=e4 v=0
+202544 On ch=1 n=g#4 v=0
+202619 On ch=1 n=e5 v=0
+202693 On ch=1 n=e4 v=82
+202693 On ch=1 n=g#4 v=82
+202784 On ch=1 n=g#4 v=0
+202785 On ch=1 n=e4 v=0
+202982 Tempo 530973
+203168 On ch=1 n=a5 v=28
+203169 On ch=1 n=f#5 v=28
+203172 On ch=1 n=d5 v=28
+203174 Tempo 508474
+203176 On ch=1 n=d7 v=28
+203184 On ch=1 n=d6 v=28
+203238 On ch=1 n=d6 v=0
+203245 On ch=1 n=d7 v=0
+203259 On ch=1 n=a5 v=0
+203262 On ch=1 n=d5 v=0
+203265 On ch=1 n=f#5 v=0
+203274 Meta Lyric "Notre ami s'interroge avec bienveillance."
+203411 On ch=1 n=f#5 v=23
+203411 On ch=1 n=a5 v=23
+203415 On ch=1 n=d5 v=23
+203419 On ch=1 n=d6 v=23
+203423 On ch=1 n=d7 v=23
+203478 On ch=1 n=d6 v=0
+203480 On ch=1 n=d7 v=0
+203483 On ch=1 n=d5 v=0
+203494 On ch=1 n=f#5 v=0
+203498 Meta Lyric "Our friend benevolently questions himself."
+203511 On ch=1 n=a5 v=0
+203897 On ch=1 n=e7 v=30
+203899 On ch=1 n=b5 v=30
+203900 On ch=1 n=e5 v=30
+203901 On ch=1 n=e6 v=30
+203901 On ch=1 n=g#5 v=30
+203959 On ch=1 n=e6 v=0
+203964 On ch=1 n=g#5 v=0
+203973 On ch=1 n=e5 v=0
+203974 On ch=1 n=b5 v=0
+203981 On ch=1 n=e7 v=0
+204137 On ch=1 n=e7 v=23
+204139 On ch=1 n=e6 v=23
+204142 On ch=1 n=g#5 v=23
+204143 On ch=1 n=e5 v=23
+204143 On ch=1 n=b5 v=23
+204216 On ch=1 n=b5 v=0
+204218 On ch=1 n=e6 v=0
+204222 On ch=1 n=e7 v=0
+204223 On ch=1 n=e5 v=0
+204225 On ch=1 n=g#5 v=0
+204616 On ch=1 n=d7 v=30
+204621 On ch=1 n=d5 v=30
+204622 On ch=1 n=f#5 v=30
+204622 On ch=1 n=a5 v=30
+204624 On ch=1 n=d6 v=30
+204678 On ch=1 n=d6 v=0
+204685 On ch=1 n=d7 v=0
+204688 On ch=1 n=d5 v=0
+204689 On ch=1 n=f#5 v=0
+204693 On ch=1 n=a5 v=0
+204859 On ch=1 n=d6 v=23
+204861 On ch=1 n=a5 v=23
+204862 On ch=1 n=f#5 v=23
+204863 On ch=1 n=d7 v=23
+204863 On ch=1 n=d5 v=23
+204918 On ch=1 n=d6 v=0
+204920 On ch=1 n=d7 v=0
+204922 On ch=1 n=d5 v=0
+204930 On ch=1 n=f#5 v=0
+204943 On ch=1 n=a5 v=0
+205338 On ch=1 n=e5 v=30
+205340 On ch=1 n=e6 v=30
+205340 On ch=1 n=g#5 v=30
+205341 On ch=1 n=b5 v=30
+205342 On ch=1 n=e7 v=30
+205401 On ch=1 n=g#5 v=0
+205404 On ch=1 n=b5 v=0
+205406 On ch=1 n=e5 v=0
+205408 On ch=1 n=e6 v=0
+205408 On ch=1 n=e7 v=0
+205579 On ch=1 n=b5 v=23
+205581 On ch=1 n=e7 v=23
+205581 On ch=1 n=g#5 v=23
+205582 On ch=1 n=e6 v=23
+205582 On ch=1 n=e5 v=23
+205643 On ch=1 n=g#5 v=0
+205645 On ch=1 n=e5 v=0
+205661 On ch=1 n=b5 v=0
+205688 On ch=1 n=e7 v=0
+205692 On ch=1 n=e6 v=0
+206049 On ch=1 n=a5 v=45
+206049 On ch=1 n=f#5 v=45
+206055 On ch=1 n=c#6 v=45
+206170 On ch=1 n=c#6 v=0
+206233 On ch=1 n=f#5 v=0
+206272 On ch=1 n=a5 v=0
+206285 On ch=1 n=f5 v=41
+206288 On ch=1 n=g#5 v=41
+206294 On ch=1 n=c#6 v=41
+206353 On ch=1 n=c#6 v=0
+206405 On ch=1 n=f5 v=0
+206412 On ch=1 n=g#5 v=0
+206522 On ch=1 n=b6 v=42
+206639 On ch=1 n=b6 v=0
+206641 On ch=1 n=g#6 v=46
+206762 On ch=1 n=g#6 v=0
+206768 On ch=1 n=a5 v=50
+206770 On ch=1 n=c#6 v=50
+206771 On ch=1 n=f#5 v=50
+206890 On ch=1 n=c#6 v=0
+206981 On ch=1 n=a5 v=0
+207000 On ch=1 n=f5 v=41
+207011 On ch=1 n=c#6 v=41
+207012 On ch=1 n=f#5 v=0
+207013 On ch=1 n=g#5 v=41
+207074 On ch=1 n=g#5 v=0
+207081 On ch=1 n=f5 v=0
+207132 On ch=1 n=c#6 v=0
+207486 On ch=1 n=f#5 v=52
+207491 On ch=1 n=a5 v=52
+207494 On ch=1 n=d6 v=52
+207613 On ch=1 n=d6 v=0
+207704 On ch=1 n=f#5 v=0
+207718 On ch=1 n=a5 v=0
+207736 On ch=1 n=d6 v=41
+207736 On ch=1 n=e5 v=41
+207739 On ch=1 n=g#5 v=41
+207812 On ch=1 n=d6 v=0
+207825 On ch=1 n=e5 v=0
+207836 On ch=1 n=g#5 v=0
+207978 On ch=1 n=b6 v=46
+208095 On ch=1 n=b6 v=0
+208097 On ch=1 n=g#6 v=48
+208203 On ch=1 n=f#5 v=50
+208208 On ch=1 n=a5 v=51
+208218 On ch=1 n=g#6 v=0
+208219 On ch=1 n=d6 v=51
+208286 On ch=1 n=d6 v=0
+208421 On ch=1 n=a5 v=0
+208444 On ch=1 n=f#5 v=0
+208456 On ch=1 n=e5 v=42
+208462 On ch=1 n=d6 v=42
+208469 On ch=1 n=g#5 v=42
+208530 On ch=1 n=g#5 v=0
+208537 On ch=1 n=e5 v=0
+208573 On ch=1 n=d6 v=0
+208870 Tempo 476190
+208902 Tempo 495867
+208945 On ch=1 n=e4 v=44
+208946 On ch=1 n=e6 v=44
+208947 On ch=1 n=d6 v=44
+208948 On ch=1 n=a4 v=44
+209179 On ch=1 n=a4 v=0
+209180 On ch=1 n=e6 v=0
+209182 On ch=1 n=b4 v=43
+209184 On ch=1 n=f#6 v=43
+209407 On ch=1 n=b4 v=0
+209408 On ch=1 n=f#6 v=0
+209416 On ch=1 n=e5 v=42
+209422 Tempo 500000
+209422 On ch=1 n=b6 v=42
+209653 On ch=1 n=b6 v=0
+209654 On ch=1 n=e5 v=0
+209662 On ch=1 n=e6 v=41
+209662 On ch=1 n=a4 v=41
+209885 On ch=1 n=a4 v=0
+209892 On ch=1 n=b4 v=40
+209896 On ch=1 n=e6 v=0
+209904 On ch=1 n=f#6 v=40
+209942 Tempo 504201
+210129 On ch=1 n=f#6 v=0
+210131 On ch=1 n=e5 v=39
+210135 On ch=1 n=b4 v=0
+210139 On ch=1 n=b6 v=39
+210374 Tempo 508474
+210374 On ch=1 n=a4 v=36
+210375 On ch=1 n=b6 v=0
+210377 On ch=1 n=e5 v=0
+210382 On ch=1 n=e6 v=36
+210478 Tempo 512820
+210582 Tempo 517241
+210616 On ch=1 n=b4 v=34
+210618 On ch=1 n=e6 v=0
+210618 On ch=1 n=a4 v=0
+210621 On ch=1 n=f#6 v=34
+210686 Tempo 521739
+210738 Tempo 526315
+210842 Tempo 530973
+210847 On ch=1 n=b4 v=0
+210850 On ch=1 n=f#6 v=0
+210852 On ch=1 n=e5 v=33
+210863 On ch=1 n=b6 v=33
+210946 Tempo 535714
+211050 Tempo 540540
+211053 On ch=1 n=b6 v=0
+211094 On ch=1 n=a4 v=31
+211095 On ch=1 n=e5 v=0
+211095 On ch=1 n=e6 v=31
+211102 Tempo 545454
+211206 Tempo 550458
+211310 Tempo 555555
+211327 On ch=1 n=a4 v=0
+211333 On ch=1 n=b4 v=30
+211336 On ch=1 n=f#6 v=30
+211341 On ch=1 n=e6 v=0
+211362 Tempo 560747
+211466 Tempo 566037
+211570 On ch=1 n=f#6 v=0
+211570 Tempo 571428
+211572 On ch=1 n=b4 v=0
+211574 On ch=1 n=e5 v=28
+211575 On ch=1 n=b6 v=28
+211629 On ch=1 n=d6 v=0
+211674 Tempo 576923
+211682 On ch=1 n=e5 v=0
+211688 On ch=1 n=e4 v=0
+211740 On ch=1 n=b6 v=0
+211782 Tempo 458015
+211809 On ch=1 n=e5 v=51
+211810 On ch=1 n=c#6 v=43
+211913 On ch=1 n=d6 v=44
+211926 On ch=1 n=c#6 v=0
+211978 Meta Lyric "L'air froid p\xffffff8eruvien lui remonte \xffffff88 la t\xffffff90te."
+212036 On ch=1 n=d6 v=0
+212041 On ch=1 n=e6 v=46
+212058 On ch=1 n=a4 v=37
+212126 On ch=1 n=a4 v=0
+212145 On ch=1 n=e6 v=0
+212202 Meta Lyric "The cold Peruvian air goes to his head again."
+212281 On ch=1 n=f#6 v=48
+212293 On ch=1 n=a4 v=37
+212352 On ch=1 n=e5 v=0
+212363 On ch=1 n=a4 v=0
+212388 On ch=1 n=f#6 v=0
+212536 On ch=1 n=f#5 v=49
+212552 On ch=1 n=c#6 v=54
+212771 On ch=1 n=a4 v=37
+212838 On ch=1 n=a4 v=0
+212899 On ch=1 n=c#6 v=0
+213008 On ch=1 n=a4 v=37
+213014 On ch=1 n=a6 v=47
+213082 On ch=1 n=a4 v=0
+213094 On ch=1 n=f#5 v=0
+213141 On ch=1 n=b6 v=50
+213181 On ch=1 n=a6 v=0
+213256 On ch=1 n=e5 v=50
+213263 On ch=1 n=c#7 v=54
+213308 On ch=1 n=b6 v=0
+213371 On ch=1 n=c#7 v=0
+213489 On ch=1 n=a4 v=37
+213501 On ch=1 n=b6 v=54
+213552 On ch=1 n=a4 v=0
+213567 On ch=1 n=b6 v=0
+213733 On ch=1 n=a4 v=37
+213740 On ch=1 n=a6 v=52
+213788 On ch=1 n=a4 v=0
+213812 On ch=1 n=e5 v=0
+213848 On ch=1 n=a6 v=0
+213975 On ch=1 n=f#5 v=48
+213978 On ch=1 n=g#6 v=50
+214089 On ch=1 n=g#6 v=0
+214210 On ch=1 n=a4 v=37
+214215 On ch=1 n=f#6 v=47
+214282 On ch=1 n=a4 v=0
+214289 On ch=1 n=f#6 v=0
+214450 On ch=1 n=a4 v=37
+214453 On ch=1 n=e6 v=45
+214527 On ch=1 n=a4 v=0
+214528 On ch=1 n=f#5 v=0
+214534 On ch=1 n=e6 v=0
+214693 On ch=1 n=c#6 v=43
+214696 On ch=1 n=e5 v=47
+214819 On ch=1 n=d6 v=45
+214821 On ch=1 n=c#6 v=0
+214935 On ch=1 n=a4 v=36
+214938 On ch=1 n=e6 v=47
+214940 On ch=1 n=d6 v=0
+215001 On ch=1 n=a4 v=0
+215053 On ch=1 n=e6 v=0
+215173 On ch=1 n=a4 v=36
+215176 On ch=1 n=f#6 v=50
+215232 On ch=1 n=e5 v=0
+215234 On ch=1 n=a4 v=0
+215249 On ch=1 n=f#6 v=0
+215416 On ch=1 n=f#5 v=48
+215424 On ch=1 n=c#6 v=56
+215651 On ch=1 n=a4 v=36
+215716 On ch=1 n=a4 v=0
+215780 On ch=1 n=c#6 v=0
+215891 On ch=1 n=a4 v=36
+215899 On ch=1 n=a6 v=48
+215963 On ch=1 n=a4 v=0
+216000 On ch=1 n=f#5 v=0
+216011 On ch=1 n=a6 v=0
+216019 On ch=1 n=b6 v=51
+216137 On ch=1 n=c#7 v=53
+216137 On ch=1 n=e5 v=48
+216139 On ch=1 n=b6 v=0
+216261 On ch=1 n=b6 v=57
+216262 On ch=1 n=c#7 v=0
+216370 On ch=1 n=b6 v=0
+216374 On ch=1 n=a4 v=36
+216376 On ch=1 n=a6 v=57
+216435 On ch=1 n=a4 v=0
+216493 On ch=1 n=a6 v=0
+216496 On ch=1 n=g#6 v=54
+216611 On ch=1 n=a4 v=36
+216619 On ch=1 n=f#6 v=51
+216622 On ch=1 n=g#6 v=0
+216683 On ch=1 n=a4 v=0
+216704 On ch=1 n=e5 v=0
+216732 On ch=1 n=f#6 v=0
+216742 On ch=1 n=d6 v=47
+216855 On ch=1 n=f#5 v=50
+216858 On ch=1 n=c#6 v=45
+216860 On ch=1 n=d6 v=0
+217089 On ch=1 n=a4 v=36
+217151 On ch=1 n=a4 v=0
+217205 On ch=1 n=c#6 v=0
+217328 On ch=1 n=a4 v=36
+217329 On ch=1 n=f#5 v=0
+217395 On ch=1 n=a4 v=0
+217556 Tempo 476190
+217577 On ch=1 n=c#5 v=32
+217577 On ch=1 n=a5 v=36
+217577 On ch=1 n=c#6 v=36
+217577 On ch=1 n=f#6 v=36
+217638 On ch=1 n=a5 v=0
+217681 On ch=1 n=f#6 v=0
+217681 On ch=1 n=c#6 v=0
+217701 On ch=1 n=d5 v=32
+217717 On ch=1 n=c#5 v=0
+217817 On ch=1 n=e5 v=32
+217817 On ch=1 n=b5 v=38
+217817 On ch=1 n=d6 v=38
+217817 On ch=1 n=g#6 v=38
+217831 On ch=1 n=d5 v=0
+217873 On ch=1 n=g#6 v=0
+217874 On ch=1 n=b5 v=0
+217879 On ch=1 n=d6 v=0
+217888 On ch=1 n=e5 v=0
+218057 On ch=1 n=f#5 v=32
+218057 On ch=1 n=c#6 v=41
+218057 On ch=1 n=e6 v=41
+218057 On ch=1 n=a6 v=41
+218115 On ch=1 n=c#6 v=0
+218117 On ch=1 n=a6 v=0
+218121 On ch=1 n=e6 v=0
+218126 On ch=1 n=f#5 v=0
+218297 On ch=1 n=c#5 v=47
+218297 On ch=1 n=d6 v=43
+218297 On ch=1 n=f#6 v=43
+218297 On ch=1 n=b6 v=43
+218355 On ch=1 n=d6 v=0
+218367 On ch=1 n=f#6 v=0
+218374 On ch=1 n=b6 v=0
+218537 On ch=1 n=e6 v=45
+218537 On ch=1 n=g#6 v=45
+218537 On ch=1 n=c#7 v=45
+218586 On ch=1 n=g#6 v=0
+218605 On ch=1 n=e6 v=0
+218620 On ch=1 n=c#7 v=0
+218777 On ch=1 n=a5 v=33
+218777 On ch=1 n=f#6 v=48
+218777 On ch=1 n=a6 v=48
+218777 On ch=1 n=d7 v=48
+218778 On ch=1 n=c#5 v=0
+218850 On ch=1 n=a6 v=0
+218858 On ch=1 n=f#6 v=0
+218860 On ch=1 n=d7 v=0
+218892 On ch=1 n=a5 v=0
+218897 On ch=1 n=b5 v=33
+219011 On ch=1 n=e7 v=50
+219013 On ch=1 n=g#6 v=50
+219013 On ch=1 n=b6 v=50
+219014 On ch=1 n=c#6 v=33
+219021 On ch=1 n=b5 v=0
+219078 On ch=1 n=b6 v=0
+219085 On ch=1 n=e7 v=0
+219085 On ch=1 n=g#6 v=0
+219094 On ch=1 n=c#6 v=0
+219250 On ch=1 n=a6 v=46
+219251 On ch=1 n=f#6 v=46
+219251 On ch=1 n=d7 v=46
+219254 On ch=1 n=b5 v=34
+219322 On ch=1 n=d7 v=0
+219326 On ch=1 n=a6 v=0
+219327 On ch=1 n=b5 v=0
+219329 On ch=1 n=f#6 v=0
+219492 On ch=1 n=c#7 v=43
+219492 On ch=1 n=a5 v=34
+219494 On ch=1 n=e6 v=43
+219494 On ch=1 n=g#6 v=43
+219564 On ch=1 n=a5 v=0
+219564 On ch=1 n=g#6 v=0
+219610 On ch=1 n=c#7 v=0
+219612 On ch=1 n=e6 v=0
+219733 On ch=1 n=g#5 v=34
+219736 On ch=1 n=b6 v=41
+219739 On ch=1 n=f#6 v=41
+219740 On ch=1 n=d6 v=41
+219801 On ch=1 n=d6 v=0
+219806 On ch=1 n=f#6 v=0
+219816 On ch=1 n=g#5 v=0
+219828 Tempo 476190
+219849 On ch=1 n=b6 v=0
+219932 Tempo 480000
+219973 On ch=1 n=f#5 v=34
+219976 On ch=1 n=c#6 v=38
+219976 On ch=1 n=a6 v=38
+219979 On ch=1 n=e6 v=38
+219984 Tempo 483870
+220036 Tempo 487804
+220040 On ch=1 n=f#5 v=0
+220043 On ch=1 n=c#6 v=0
+220089 On ch=1 n=e6 v=0
+220090 On ch=1 n=a6 v=0
+220140 Tempo 491803
+220192 Tempo 495867
+220215 On ch=1 n=e5 v=35
+220216 On ch=1 n=b5 v=36
+220218 On ch=1 n=g#6 v=36
+220219 On ch=1 n=d6 v=36
+220244 Tempo 500000
+220289 On ch=1 n=d6 v=0
+220291 On ch=1 n=b5 v=0
+220298 On ch=1 n=e5 v=0
+220328 On ch=1 n=g#6 v=0
+220348 Tempo 504201
+220456 On ch=1 n=c#6 v=33
+220456 On ch=1 n=c#5 v=35
+220458 On ch=1 n=a5 v=33
+220459 On ch=1 n=f#6 v=33
+220468 Tempo 458015
+220532 On ch=1 n=c#6 v=0
+220568 On ch=1 n=f#6 v=0
+220569 On ch=1 n=a5 v=0
+220574 On ch=1 n=d5 v=35
+220586 On ch=1 n=c#5 v=0
+220694 On ch=1 n=g#6 v=34
+220696 On ch=1 n=d6 v=34
+220696 On ch=1 n=e5 v=35
+220697 On ch=1 n=b5 v=34
+220704 On ch=1 n=d5 v=0
+220763 On ch=1 n=b5 v=0
+220770 On ch=1 n=d6 v=0
+220783 On ch=1 n=e5 v=0
+220812 On ch=1 n=g#6 v=0
+220933 On ch=1 n=c#6 v=37
+220934 On ch=1 n=a6 v=37
+220936 On ch=1 n=f#5 v=35
+220938 On ch=1 n=e6 v=37
+220992 On ch=1 n=e6 v=0
+221009 On ch=1 n=f#5 v=0
+221049 On ch=1 n=a6 v=0
+221052 On ch=1 n=c#6 v=0
+221176 On ch=1 n=f#6 v=40
+221178 On ch=1 n=d6 v=40
+221178 On ch=1 n=b6 v=40
+221181 On ch=1 n=c#5 v=47
+221240 On ch=1 n=d6 v=0
+221249 On ch=1 n=b6 v=0
+221289 On ch=1 n=f#6 v=0
+221414 On ch=1 n=g#6 v=43
+221415 On ch=1 n=e6 v=43
+221418 On ch=1 n=c#7 v=43
+221516 On ch=1 n=g#6 v=0
+221529 On ch=1 n=e6 v=0
+221530 On ch=1 n=c#7 v=0
+221653 On ch=1 n=f#6 v=46
+221653 On ch=1 n=a6 v=46
+221653 On ch=1 n=d7 v=46
+221654 On ch=1 n=a5 v=36
+221661 On ch=1 n=c#5 v=0
+221725 On ch=1 n=a6 v=0
+221768 On ch=1 n=a5 v=0
+221770 On ch=1 n=d7 v=0
+221770 On ch=1 n=f#6 v=0
+221773 On ch=1 n=b5 v=36
+221780 Tempo 447761
+221878 On ch=1 n=b6 v=49
+221884 Tempo 444444
+221891 On ch=1 n=g#6 v=49
+221893 On ch=1 n=e7 v=49
+221894 On ch=1 n=b5 v=0
+221895 On ch=1 n=c#6 v=36
+221967 On ch=1 n=e7 v=0
+221984 On ch=1 n=b6 v=0
+221988 Tempo 441176
+222011 On ch=1 n=g#6 v=0
+222018 On ch=1 n=b5 v=41
+222022 On ch=1 n=c#6 v=0
+222040 Tempo 437956
+222127 On ch=1 n=b5 v=0
+222129 On ch=1 n=c#7 v=52
+222131 On ch=1 n=a6 v=52
+222131 On ch=1 n=f#7 v=52
+222133 On ch=1 n=a5 v=45
+222144 Tempo 434782
+222196 Tempo 431654
+222209 On ch=1 n=c#7 v=0
+222248 On ch=1 n=a6 v=0
+222249 On ch=1 n=f#7 v=0
+222252 On ch=1 n=a5 v=0
+222255 On ch=1 n=g#5 v=49
+222300 Tempo 428571
+222371 On ch=1 n=g#5 v=0
+222371 On ch=1 n=b6 v=55
+222371 On ch=1 n=d7 v=55
+222371 On ch=1 n=g#7 v=55
+222372 On ch=1 n=f#5 v=52
+222404 Tempo 425531
+222452 On ch=1 n=d7 v=0
+222456 Tempo 422535
+222482 On ch=1 n=f#5 v=0
+222486 On ch=1 n=d5 v=56
+222489 On ch=1 n=b6 v=0
+222490 On ch=1 n=g#7 v=0
+222560 Tempo 419580
+222610 On ch=1 n=e7 v=62
+222610 On ch=1 n=a7 v=62
+222611 On ch=1 n=c#7 v=62
+222612 Tempo 416666
+222616 On ch=1 n=c#5 v=60
+222624 On ch=1 n=d5 v=0
+222664 Tempo 437956
+222693 On ch=1 n=e7 v=0
+222716 Tempo 461538
+222720 On ch=1 n=c#5 v=0
+222730 On ch=1 n=a7 v=0
+222732 On ch=1 n=c#7 v=0
+222768 Tempo 487804
+222820 Tempo 517241
+222848 On ch=1 n=d7 v=90
+222849 On ch=1 n=f#7 v=90
+222849 On ch=1 n=b7 v=90
+222854 On ch=1 n=b5 v=85
+222872 Tempo 550458
+222924 Tempo 588235
+222928 On ch=1 n=b5 v=0
+222931 On ch=1 n=f#7 v=0
+222970 On ch=1 n=b7 v=0
+222970 On ch=1 n=d7 v=0
+222976 Tempo 631578
+223028 Tempo 681818
+223080 Tempo 740740
+223090 On ch=1 n=c#8 v=102
+223091 On ch=1 n=g#7 v=103
+223092 On ch=1 n=c#6 v=90
+223096 On ch=1 n=e7 v=103
+223132 Tempo 810810
+223142 On ch=1 n=e7 v=0
+223152 On ch=1 n=c#8 v=0
+223154 On ch=1 n=g#7 v=0
+223164 On ch=1 n=c#6 v=0
+223184 Tempo 895522
+223236 Tempo 1000000
+223284 Tempo 447761
+223316 Tempo 468750
+223337 On ch=1 n=f#3 v=36
+223339 On ch=1 n=c#5 v=36
+223370 Meta Lyric "Le piano continue."
+223429 On ch=1 n=f#3 v=0
+223462 On ch=1 n=b4 v=35
+223465 On ch=1 n=c#5 v=0
+223530 Meta Lyric "The piano continues."
+223571 On ch=1 n=f#2 v=34
+223582 On ch=1 n=a4 v=34
+223585 On ch=1 n=b4 v=0
+223649 On ch=1 n=f#2 v=0
+223692 On ch=1 n=a4 v=0
+223808 On ch=1 n=f#3 v=32
+223821 On ch=1 n=a4 v=32
+223883 On ch=1 n=f#3 v=0
+223932 On ch=1 n=a4 v=0
+224045 On ch=1 n=f#2 v=39
+224059 On ch=1 n=d5 v=39
+224136 On ch=1 n=f#2 v=0
+224182 On ch=1 n=c#5 v=37
+224185 On ch=1 n=d5 v=0
+224287 On ch=1 n=f#3 v=36
+224302 On ch=1 n=b4 v=35
+224305 On ch=1 n=c#5 v=0
+224377 On ch=1 n=f#3 v=0
+224412 On ch=1 n=b4 v=0
+224527 On ch=1 n=f#2 v=32
+224541 On ch=1 n=b4 v=32
+224604 On ch=1 n=f#2 v=0
+224652 On ch=1 n=b4 v=0
+224766 On ch=1 n=f#3 v=37
+224783 On ch=1 n=g#4 v=37
+224855 On ch=1 n=f#3 v=0
+224902 On ch=1 n=g#4 v=0
+224902 On ch=1 n=b4 v=39
+225007 On ch=1 n=f#2 v=41
+225014 On ch=1 n=b4 v=0
+225022 On ch=1 n=f5 v=41
+225086 On ch=1 n=f#2 v=0
+225134 On ch=1 n=f5 v=0
+225142 On ch=1 n=b4 v=43
+225246 On ch=1 n=f#3 v=44
+225252 On ch=1 n=b4 v=0
+225262 On ch=1 n=f5 v=44
+225330 On ch=1 n=f#3 v=0
+225370 On ch=1 n=f5 v=0
+225375 On ch=1 n=b4 v=42
+225485 On ch=1 n=f#2 v=40
+225495 On ch=1 n=a4 v=40
+225500 On ch=1 n=b4 v=0
+225569 On ch=1 n=f#2 v=0
+225613 On ch=1 n=a4 v=0
+225723 On ch=1 n=f#3 v=37
+225734 On ch=1 n=c#5 v=36
+225796 On ch=1 n=f#3 v=0
+225848 On ch=1 n=c#5 v=0
+225963 On ch=1 n=f#2 v=33
+225974 On ch=1 n=f#5 v=33
+226029 On ch=1 n=f#2 v=0
+226050 On ch=1 n=f#5 v=0
+226211 On ch=1 n=e5 v=68
+226211 On ch=1 n=a4 v=68
+226228 Tempo 447761
+226290 On ch=1 n=a4 v=0
+226333 On ch=1 n=d5 v=67
+226335 On ch=1 n=e5 v=0
+226451 On ch=1 n=a3 v=65
+226452 On ch=1 n=c#5 v=65
+226458 On ch=1 n=d5 v=0
+226534 On ch=1 n=a3 v=0
+226568 On ch=1 n=c#5 v=0
+226690 On ch=1 n=a4 v=62
+226691 On ch=1 n=c#5 v=62
+226775 On ch=1 n=a4 v=0
+226809 On ch=1 n=c#5 v=0
+226930 On ch=1 n=f#5 v=70
+226934 On ch=1 n=a3 v=70
+227013 On ch=1 n=a3 v=0
+227055 On ch=1 n=e5 v=68
+227064 On ch=1 n=f#5 v=0
+227171 On ch=1 n=d5 v=66
+227174 On ch=1 n=e5 v=0
+227174 On ch=1 n=a4 v=66
+227251 On ch=1 n=a4 v=0
+227289 On ch=1 n=d5 v=0
+227410 On ch=1 n=d5 v=62
+227414 On ch=1 n=a3 v=62
+227499 On ch=1 n=a3 v=0
+227529 On ch=1 n=d5 v=0
+227650 On ch=1 n=b4 v=69
+227652 On ch=1 n=a4 v=70
+227749 On ch=1 n=a4 v=0
+227770 On ch=1 n=d5 v=71
+227776 On ch=1 n=b4 v=0
+227889 On ch=1 n=g#5 v=72
+227892 On ch=1 n=a3 v=72
+227898 On ch=1 n=d5 v=0
+227972 On ch=1 n=a3 v=0
+228007 On ch=1 n=d5 v=73
+228012 On ch=1 n=g#5 v=0
+228127 On ch=1 n=g#5 v=74
+228132 On ch=1 n=a4 v=74
+228138 On ch=1 n=d5 v=0
+228210 On ch=1 n=a4 v=0
+228248 On ch=1 n=d5 v=76
+228256 On ch=1 n=g#5 v=0
+228370 On ch=1 n=c#5 v=77
+228370 On ch=1 n=a3 v=77
+228373 On ch=1 n=d5 v=0
+228436 Tempo 447761
+228448 On ch=1 n=c#5 v=0
+228452 On ch=1 n=a3 v=0
+228488 Tempo 458015
+228540 Tempo 468750
+228592 Tempo 480000
+228611 On ch=1 n=e5 v=73
+228611 On ch=1 n=a4 v=73
+228644 Tempo 495867
+228671 On ch=1 n=e5 v=0
+228686 On ch=1 n=a4 v=0
+228696 Tempo 508474
+228748 Tempo 521739
+228800 Tempo 535714
+228849 On ch=1 n=a5 v=68
+228850 On ch=1 n=a3 v=68
+228852 Tempo 555555
+228904 Tempo 571428
+228923 On ch=1 n=a5 v=0
+228931 On ch=1 n=a3 v=0
+228956 Tempo 588235
+229008 Tempo 606060
+229076 Tempo 487804
+229086 On ch=1 n=e2 v=34
+229086 On ch=1 n=e3 v=34
+229096 On ch=1 n=e4 v=34
+229099 On ch=1 n=b3 v=34
+229556 On ch=1 n=e3 v=0
+229559 On ch=1 n=d3 v=32
+229561 On ch=1 n=d2 v=32
+229564 On ch=1 n=e2 v=0
+229574 On ch=1 n=a3 v=32
+229577 On ch=1 n=d4 v=32
+229578 On ch=1 n=b3 v=0
+229581 On ch=1 n=e4 v=0
+229807 On ch=1 n=e3 v=30
+229808 On ch=1 n=e2 v=30
+229812 Tempo 495867
+229814 On ch=1 n=d2 v=0
+229815 On ch=1 n=a3 v=0
+229817 On ch=1 n=d4 v=0
+229822 On ch=1 n=b3 v=30
+229823 On ch=1 n=e4 v=30
+229862 On ch=1 n=d3 v=0
+229916 Tempo 500000
+229968 Tempo 504201
+230020 Tempo 508474
+230072 Tempo 512820
+230176 Tempo 517241
+230228 Tempo 521739
+230277 On ch=1 n=d2 v=28
+230278 On ch=1 n=e3 v=0
+230279 On ch=1 n=e2 v=0
+230280 Tempo 526315
+230283 On ch=1 n=d3 v=28
+230290 On ch=1 n=b3 v=0
+230293 On ch=1 n=a3 v=28
+230294 On ch=1 n=e4 v=0
+230298 On ch=1 n=d4 v=28
+230355 On ch=1 n=d3 v=0
+230424 On ch=1 n=a3 v=0
+230427 On ch=1 n=d2 v=0
+230467 On ch=1 n=d4 v=0
+230516 Tempo 468750
+230532 On ch=1 n=e4 v=40
+230534 On ch=1 n=b4 v=40
+230535 On ch=1 n=g#5 v=40
+230597 On ch=1 n=b4 v=0
+230603 On ch=1 n=e4 v=0
+230656 On ch=1 n=a5 v=39
+230661 On ch=1 n=g#5 v=0
+230764 On ch=1 n=e4 v=38
+230766 On ch=1 n=b4 v=38
+230779 On ch=1 n=b5 v=38
+230780 On ch=1 n=a5 v=0
+230829 On ch=1 n=b4 v=0
+230835 On ch=1 n=e4 v=0
+230894 On ch=1 n=c#6 v=37
+230900 On ch=1 n=b5 v=0
+231012 On ch=1 n=d6 v=36
+231014 On ch=1 n=e4 v=36
+231015 On ch=1 n=b4 v=36
+231023 On ch=1 n=c#6 v=0
+231076 On ch=1 n=e4 v=0
+231084 On ch=1 n=b4 v=0
+231132 On ch=1 n=d6 v=0
+231132 On ch=1 n=b5 v=35
+231254 On ch=1 n=a5 v=41
+231256 On ch=1 n=a4 v=41
+231256 On ch=1 n=c#5 v=41
+231262 On ch=1 n=b5 v=0
+231328 On ch=1 n=a4 v=0
+231330 On ch=1 n=c#5 v=0
+231498 On ch=1 n=a4 v=32
+231498 On ch=1 n=c#5 v=32
+231563 On ch=1 n=a4 v=0
+231573 On ch=1 n=c#5 v=0
+231678 On ch=1 n=a5 v=0
+231963 On ch=1 n=e6 v=85
+231965 On ch=1 n=e5 v=85
+232215 On ch=1 n=g5 v=77
+232221 On ch=1 n=b5 v=77
+232415 On ch=1 n=g5 v=0
+232421 On ch=1 n=b5 v=0
+232436 On ch=1 n=e6 v=0
+232445 On ch=1 n=f#5 v=70
+232447 On ch=1 n=e5 v=0
+232457 On ch=1 n=a5 v=69
+232457 On ch=1 n=d6 v=69
+232528 On ch=1 n=d6 v=0
+232607 On ch=1 n=a5 v=0
+232621 On ch=1 n=f#5 v=0
+232693 On ch=1 n=b5 v=85
+232700 On ch=1 n=b4 v=84
+232920 On ch=1 n=f#5 v=74
+232925 On ch=1 n=d5 v=74
+233120 On ch=1 n=f#5 v=0
+233125 On ch=1 n=d5 v=0
+233169 On ch=1 n=a5 v=64
+233170 On ch=1 n=c#5 v=64
+233176 On ch=1 n=b5 v=0
+233182 On ch=1 n=b4 v=0
+233189 On ch=1 n=e5 v=64
+233286 On ch=1 n=c#5 v=0
+233322 On ch=1 n=e5 v=0
+233341 On ch=1 n=a5 v=0
+233412 On ch=1 n=f#4 v=76
+233415 On ch=1 n=f#5 v=76
+233645 On ch=1 n=a4 v=64
+233650 On ch=1 n=c#5 v=64
+233882 On ch=1 n=c#5 v=0
+233892 On ch=1 n=e5 v=56
+233893 On ch=1 n=b4 v=56
+233896 On ch=1 n=f#4 v=0
+233898 On ch=1 n=a4 v=0
+233899 On ch=1 n=g4 v=56
+233900 On ch=1 n=f#5 v=0
+233963 On ch=1 n=e5 v=0
+234028 On ch=1 n=b4 v=0
+234048 On ch=1 n=g4 v=0
+234068 Tempo 476190
+234134 On ch=1 n=c#5 v=78
+234140 On ch=1 n=c#4 v=78
+234172 Tempo 480000
+234224 Tempo 483870
+234328 Tempo 487804
+234366 On ch=1 n=e4 v=70
+234367 On ch=1 n=g4 v=70
+234380 Tempo 491803
+234432 Tempo 495867
+234536 Tempo 500000
+234588 Tempo 504201
+234605 On ch=1 n=e4 v=0
+234606 On ch=1 n=g4 v=0
+234620 On ch=1 n=c#5 v=0
+234622 On ch=1 n=c#4 v=0
+234622 On ch=1 n=f#4 v=61
+234624 On ch=1 n=d4 v=61
+234635 On ch=1 n=b4 v=61
+234640 Tempo 508474
+234690 On ch=1 n=f#4 v=0
+234744 Tempo 512820
+234760 On ch=1 n=b4 v=0
+234784 On ch=1 n=d4 v=0
+234845 On ch=1 n=e4 v=34
+234859 On ch=1 n=a4 v=34
+234865 On ch=1 n=a3 v=34
+235328 On ch=1 n=d4 v=33
+235331 On ch=1 n=a3 v=0
+235332 On ch=1 n=g4 v=33
+235335 On ch=1 n=g3 v=33
+235336 On ch=1 n=a4 v=0
+235379 On ch=1 n=e4 v=0
+235510 On ch=1 n=d4 v=0
+235560 On ch=1 n=e4 v=32
+235571 On ch=1 n=g4 v=0
+235574 On ch=1 n=a4 v=32
+235581 On ch=1 n=a3 v=32
+235588 On ch=1 n=g3 v=0
+236048 On ch=1 n=g4 v=30
+236049 On ch=1 n=d4 v=30
+236052 On ch=1 n=e4 v=0
+236054 On ch=1 n=a3 v=0
+236054 On ch=1 n=g3 v=30
+236055 On ch=1 n=a4 v=0
+236254 On ch=1 n=d4 v=0
+236276 Tempo 508474
+236288 On ch=1 n=e4 v=30
+236291 On ch=1 n=a4 v=30
+236293 On ch=1 n=g4 v=0
+236295 On ch=1 n=a3 v=30
+236297 On ch=1 n=g3 v=0
+236432 Tempo 512820
+236588 Tempo 517241
+236729 On ch=1 n=a3 v=0
+236744 Tempo 521739
+236751 On ch=1 n=a4 v=0
+236751 On ch=1 n=g4 v=28
+236764 On ch=1 n=g3 v=28
+236769 On ch=1 n=d4 v=28
+236772 On ch=1 n=e4 v=0
+236848 Tempo 526315
+236905 On ch=1 n=d4 v=0
+237003 On ch=1 n=g3 v=0
+237004 Tempo 530973
+237006 On ch=1 n=g4 v=0
+237008 On ch=1 n=a4 v=27
+237013 On ch=1 n=a3 v=27
+237015 On ch=1 n=e4 v=27
+237160 Tempo 535714
+237264 Tempo 540540
+237420 Tempo 545454
+237488 On ch=1 n=g4 v=26
+237490 On ch=1 n=a3 v=0
+237492 On ch=1 n=a4 v=0
+237492 On ch=1 n=d4 v=26
+237492 On ch=1 n=g3 v=26
+237499 On ch=1 n=e4 v=0
+237576 Tempo 550458
+237625 On ch=1 n=d4 v=0
+237673 On ch=1 n=g4 v=0
+237729 On ch=1 n=g3 v=0
+237735 On ch=1 n=c#5 v=82
+237739 On ch=1 n=a4 v=82
+237746 On ch=1 n=e7 v=82
+237748 Tempo 458015
+237810 On ch=1 n=a4 v=0
+237823 On ch=1 n=c#5 v=0
+237865 On ch=1 n=d7 v=77
+237871 On ch=1 n=e7 v=0
+237973 On ch=1 n=c#5 v=79
+237978 On ch=1 n=a4 v=79
+237983 On ch=1 n=c#7 v=79
+237988 On ch=1 n=d7 v=0
+238040 On ch=1 n=a4 v=0
+238060 On ch=1 n=c#5 v=0
+238104 On ch=1 n=b6 v=80
+238111 On ch=1 n=c#7 v=0
+238213 On ch=1 n=c#5 v=82
+238218 On ch=1 n=b6 v=0
+238219 On ch=1 n=a4 v=82
+238223 On ch=1 n=a6 v=82
+238283 On ch=1 n=a4 v=0
+238313 On ch=1 n=c#5 v=0
+238338 On ch=1 n=a6 v=0
+238340 On ch=1 n=g#6 v=83
+238452 On ch=1 n=a4 v=85
+238452 On ch=1 n=d5 v=85
+238460 On ch=1 n=f#6 v=85
+238464 On ch=1 n=g#6 v=0
+238536 On ch=1 n=d5 v=0
+238537 On ch=1 n=a4 v=0
+238581 On ch=1 n=f#6 v=0
+238584 On ch=1 n=e6 v=87
+238692 On ch=1 n=a4 v=88
+238692 On ch=1 n=d5 v=88
+238701 On ch=1 n=e6 v=0
+238703 On ch=1 n=d6 v=88
+238755 On ch=1 n=d5 v=0
+238764 On ch=1 n=a4 v=0
+238821 On ch=1 n=c#6 v=90
+238822 On ch=1 n=d6 v=0
+238933 On ch=1 n=d5 v=91
+238934 On ch=1 n=a4 v=91
+238943 On ch=1 n=b5 v=91
+238949 On ch=1 n=c#6 v=0
+239000 On ch=1 n=a4 v=0
+239005 On ch=1 n=d5 v=0
+239063 On ch=1 n=a5 v=93
+239066 On ch=1 n=b5 v=0
+239176 On ch=1 n=a4 v=94
+239176 On ch=1 n=d5 v=94
+239185 On ch=1 n=g#5 v=94
+239191 On ch=1 n=a5 v=0
+239253 On ch=1 n=d5 v=0
+239254 On ch=1 n=a4 v=0
+239309 On ch=1 n=a5 v=94
+239316 On ch=1 n=g#5 v=0
+239418 On ch=1 n=a4 v=93
+239418 On ch=1 n=d5 v=93
+239425 On ch=1 n=a5 v=0
+239428 On ch=1 n=b5 v=93
+239486 On ch=1 n=a4 v=0
+239486 On ch=1 n=d5 v=0
+239532 On ch=1 n=c#6 v=93
+239551 On ch=1 n=b5 v=0
+239656 On ch=1 n=d6 v=92
+239659 On ch=1 n=a4 v=92
+239659 On ch=1 n=d5 v=92
+239670 On ch=1 n=c#6 v=0
+239728 On ch=1 n=d5 v=0
+239729 On ch=1 n=a4 v=0
+239775 On ch=1 n=b5 v=91
+239776 On ch=1 n=d6 v=0
+239896 On ch=1 n=c#5 v=91
+239897 On ch=1 n=a5 v=91
+239898 On ch=1 n=a4 v=91
+239901 On ch=1 n=b5 v=0
+239959 On ch=1 n=a4 v=0
+239971 On ch=1 n=c#5 v=0
+240136 On ch=1 n=c#5 v=82
+240139 On ch=1 n=a4 v=82
+240140 On ch=1 n=a5 v=0
+240202 On ch=1 n=a4 v=0
+240211 On ch=1 n=c#5 v=0
+240609 On ch=1 n=d4 v=50
+240612 On ch=1 n=d3 v=50
+240615 On ch=1 n=f#4 v=50
+240618 On ch=1 n=f#5 v=50
+240619 On ch=1 n=c5 v=50
+240628 Tempo 476190
+240681 On ch=1 n=d3 v=0
+240702 On ch=1 n=d4 v=0
+240714 Meta Lyric "H\xffffff8elas! il faut quitter son bureau,--"
+240858 On ch=1 n=d3 v=39
+240859 On ch=1 n=d4 v=39
+240906 Meta Lyric "Alas! he must leave his office,--"
+240926 On ch=1 n=d3 v=0
+240941 On ch=1 n=d4 v=0
+241262 On ch=1 n=f#5 v=0
+241277 On ch=1 n=c5 v=0
+241319 On ch=1 n=g4 v=46
+241322 On ch=1 n=c5 v=46
+241323 On ch=1 n=d5 v=46
+241332 On ch=1 n=e3 v=46
+241334 On ch=1 n=e4 v=46
+241344 On ch=1 n=f#4 v=0
+241408 On ch=1 n=e4 v=0
+241411 On ch=1 n=e3 v=0
+241579 On ch=1 n=e4 v=36
+241580 On ch=1 n=e3 v=36
+241642 On ch=1 n=e3 v=0
+241653 On ch=1 n=e4 v=0
+241880 On ch=1 n=d5 v=0
+241920 On ch=1 n=c5 v=0
+241927 On ch=1 n=g4 v=0
+242039 On ch=1 n=f#4 v=41
+242039 On ch=1 n=f#5 v=41
+242041 On ch=1 n=c5 v=41
+242062 On ch=1 n=d3 v=41
+242063 On ch=1 n=d4 v=41
+242136 On ch=1 n=d4 v=0
+242147 On ch=1 n=d3 v=0
+242304 On ch=1 n=d3 v=31
+242304 On ch=1 n=d4 v=31
+242380 On ch=1 n=d3 v=0
+242394 On ch=1 n=d4 v=0
+242536 On ch=1 n=c5 v=0
+242537 On ch=1 n=f#5 v=0
+242702 On ch=1 n=f#4 v=0
+242763 On ch=1 n=d5 v=37
+242776 On ch=1 n=e3 v=37
+242780 On ch=1 n=e4 v=37
+242786 On ch=1 n=g4 v=37
+242786 On ch=1 n=c5 v=37
+242845 On ch=1 n=e4 v=0
+242850 On ch=1 n=e3 v=0
+243020 On ch=1 n=e3 v=28
+243020 On ch=1 n=e4 v=28
+243094 On ch=1 n=e3 v=0
+243100 On ch=1 n=e4 v=0
+243189 On ch=1 n=d5 v=0
+243213 On ch=1 n=g4 v=0
+243251 On ch=1 n=c5 v=0
+243479 On ch=1 n=b5 v=96
+243488 On ch=1 n=e5 v=96
+243508 Tempo 468750
+243594 Meta Lyric "son bon bureau."
+243600 On ch=1 n=a5 v=97
+243610 On ch=1 n=d5 v=97
+243619 On ch=1 n=e5 v=0
+243702 On ch=1 n=b5 v=0
+243711 On ch=1 n=g#5 v=97
+243713 On ch=1 n=a5 v=0
+243730 On ch=1 n=c#5 v=97
+243734 On ch=1 n=d5 v=0
+243831 On ch=1 n=f#5 v=98
+243841 On ch=1 n=g#5 v=0
+243849 On ch=1 n=b4 v=98
+243850 Meta Lyric "his dear office."
+243855 On ch=1 n=c#5 v=0
+243957 On ch=1 n=f#5 v=0
+243959 On ch=1 n=e5 v=98
+243968 On ch=1 n=b4 v=0
+243969 On ch=1 n=a4 v=98
+244069 On ch=1 n=d5 v=99
+244074 On ch=1 n=e5 v=0
+244088 On ch=1 n=g#4 v=99
+244091 On ch=1 n=a4 v=0
+244191 On ch=1 n=c#5 v=99
+244209 On ch=1 n=f#4 v=100
+244245 On ch=1 n=d5 v=0
+244261 On ch=1 n=g#4 v=0
+244319 On ch=1 n=b4 v=100
+244327 On ch=1 n=c#5 v=0
+244330 On ch=1 n=f#4 v=0
+244332 On ch=1 n=e4 v=100
+244439 On ch=1 n=a4 v=101
+244440 On ch=1 n=b4 v=0
+244450 On ch=1 n=d4 v=101
+244451 On ch=1 n=e4 v=0
+244549 On ch=1 n=g#4 v=101
+244553 On ch=1 n=a4 v=0
+244574 On ch=1 n=c#4 v=101
+244628 On ch=1 n=d4 v=0
+244679 On ch=1 n=f#4 v=102
+244689 On ch=1 n=g#4 v=0
+244692 On ch=1 n=b3 v=102
+244699 On ch=1 n=c#4 v=0
+244800 On ch=1 n=e4 v=102
+244802 On ch=1 n=f#4 v=0
+244808 On ch=1 n=b3 v=0
+244810 On ch=1 n=a3 v=102
+244919 On ch=1 n=d4 v=103
+244921 On ch=1 n=e4 v=0
+244931 On ch=1 n=g#3 v=103
+244937 On ch=1 n=a3 v=0
+245040 On ch=1 n=e4 v=104
+245052 On ch=1 n=g#3 v=0
+245052 On ch=1 n=a3 v=104
+245093 On ch=1 n=d4 v=0
+245159 On ch=1 n=e4 v=0
+245159 On ch=1 n=f#4 v=103
+245167 On ch=1 n=a3 v=0
+245169 On ch=1 n=b3 v=102
+245279 On ch=1 n=g#4 v=101
+245282 On ch=1 n=f#4 v=0
+245289 On ch=1 n=c#4 v=101
+245294 On ch=1 n=b3 v=0
+245399 On ch=1 n=a4 v=99
+245403 On ch=1 n=g#4 v=0
+245412 On ch=1 n=d4 v=99
+245420 On ch=1 n=c#4 v=0
+245519 On ch=1 n=f#4 v=97
+245522 On ch=1 n=a4 v=0
+245533 On ch=1 n=b3 v=97
+245538 On ch=1 n=d4 v=0
+245639 On ch=1 n=e4 v=96
+245640 On ch=1 n=c#4 v=96
+245640 On ch=1 n=a4 v=96
+245651 On ch=1 n=a3 v=95
+245652 Tempo 468750
+245655 On ch=1 n=b3 v=0
+245703 On ch=1 n=f#4 v=0
+245704 Tempo 480000
+245735 On ch=1 n=a3 v=0
+245756 Tempo 491803
+245808 Tempo 504201
+245860 Tempo 517241
+245876 On ch=1 n=c#4 v=0
+245886 On ch=1 n=e4 v=0
+245893 On ch=1 n=b3 v=72
+245912 Tempo 530973
+245964 Tempo 545454
+245969 On ch=1 n=b3 v=0
+246008 On ch=1 n=a4 v=0
+246016 Tempo 566037
+246068 Tempo 582524
+246120 Tempo 600000
+246129 On ch=1 n=c#4 v=53
+246172 Tempo 618556
+246193 On ch=1 n=c#4 v=0
+246224 Tempo 638297
+246355 On ch=1 n=e4 v=30
+246356 Tempo 441176
+246374 On ch=1 n=a3 v=30
+246469 On ch=1 n=f4 v=30
+246475 On ch=1 n=a3 v=0
+246512 Tempo 437956
+246572 On ch=1 n=e4 v=0
+246590 On ch=1 n=g4 v=30
+246593 On ch=1 n=f4 v=0
+246602 Meta Lyric "Du courage: partons, dit-il."
+246608 On ch=1 n=a2 v=30
+246668 Tempo 434782
+246692 On ch=1 n=a2 v=0
+246710 On ch=1 n=a4 v=31
+246719 On ch=1 n=g4 v=0
+246824 Tempo 431654
+246837 On ch=1 n=a4 v=0
+246839 On ch=1 n=a#4 v=31
+246846 On ch=1 n=a3 v=31
+246934 On ch=1 n=a3 v=0
+246949 On ch=1 n=c5 v=31
+246952 On ch=1 n=a#4 v=0
+246980 Tempo 428571
+247068 On ch=1 n=c5 v=0
+247070 On ch=1 n=d5 v=31
+247082 Meta Lyric "Courage: let's be off, says he."
+247089 On ch=1 n=a2 v=35
+247190 On ch=1 n=a2 v=0
+247199 On ch=1 n=e5 v=40
+247207 On ch=1 n=d5 v=0
+247320 On ch=1 n=f5 v=46
+247321 On ch=1 n=e5 v=0
+247329 On ch=1 n=a3 v=46
+247407 On ch=1 n=a3 v=0
+247441 On ch=1 n=f5 v=0
+247442 On ch=1 n=g5 v=51
+247562 On ch=1 n=a5 v=57
+247564 On ch=1 n=g5 v=0
+247567 On ch=1 n=a2 v=57
+247654 On ch=1 n=a2 v=0
+247682 On ch=1 n=a#5 v=62
+247683 On ch=1 n=a5 v=0
+247799 On ch=1 n=a#5 v=0
+247802 On ch=1 n=c6 v=68
+247808 On ch=1 n=a3 v=68
+247901 On ch=1 n=a3 v=0
+247922 On ch=1 n=c6 v=0
+247923 On ch=1 n=d6 v=73
+248043 On ch=1 n=d6 v=0
+248043 On ch=1 n=e6 v=78
+248050 On ch=1 n=a2 v=79
+248129 On ch=1 n=a2 v=0
+248161 On ch=1 n=e6 v=0
+248163 On ch=1 n=f6 v=84
+248281 On ch=1 n=f6 v=0
+248292 On ch=1 n=a3 v=90
+248299 On ch=1 n=g6 v=90
+248370 On ch=1 n=a3 v=0
+248403 On ch=1 n=a6 v=95
+248428 On ch=1 n=g6 v=0
+248534 On ch=1 n=a2 v=101
+248549 On ch=1 n=a#6 v=101
+248558 On ch=1 n=a6 v=0
+248647 On ch=1 n=c7 v=88
+248677 On ch=1 n=a#6 v=0
+248728 On ch=1 n=a2 v=0
+248767 On ch=1 n=c7 v=0
+248767 On ch=1 n=d7 v=88
+248882 On ch=1 n=d7 v=0
+248894 On ch=1 n=e7 v=88
+249028 On ch=1 n=f7 v=88
+249042 On ch=1 n=e7 v=0
+249116 On ch=1 n=g7 v=88
+249204 On ch=1 n=f7 v=0
+249236 Tempo 410958
+249238 On ch=1 n=g7 v=0
+249258 On ch=1 n=c#6 v=99
+249258 On ch=1 n=f#6 v=99
+249259 On ch=1 n=a7 v=99
+249259 On ch=1 n=a5 v=99
+249317 On ch=1 n=a7 v=0
+249329 On ch=1 n=c#6 v=0
+249335 On ch=1 n=a5 v=0
+249342 On ch=1 n=f#6 v=0
+249534 On ch=1 n=a6 v=89
+249604 On ch=1 n=a6 v=0
+249759 On ch=1 n=a7 v=90
+249866 On ch=1 n=a7 v=0
+249972 On ch=1 n=c#6 v=101
+249974 On ch=1 n=g#5 v=101
+249975 On ch=1 n=e5 v=101
+249979 On ch=1 n=e7 v=101
+250047 On ch=1 n=c#6 v=0
+250047 On ch=1 n=g#5 v=0
+250047 On ch=1 n=e5 v=0
+250050 On ch=1 n=e7 v=0
+250214 On ch=1 n=e6 v=91
+250278 On ch=1 n=e6 v=0
+250451 On ch=1 n=e7 v=91
+250527 On ch=1 n=e7 v=0
+250689 On ch=1 n=f#5 v=104
+250690 On ch=1 n=a6 v=104
+250690 On ch=1 n=a4 v=104
+250691 On ch=1 n=c#5 v=104
+250759 On ch=1 n=f#5 v=0
+250764 On ch=1 n=c#5 v=0
+250775 On ch=1 n=a4 v=0
+250812 On ch=1 n=a6 v=0
+250939 On ch=1 n=a5 v=92
+250997 On ch=1 n=a5 v=0
+251175 On ch=1 n=a6 v=93
+251250 On ch=1 n=a6 v=0
+251412 On ch=1 n=c#5 v=107
+251414 On ch=1 n=g#4 v=107
+251415 On ch=1 n=e6 v=107
+251415 On ch=1 n=e4 v=107
+251487 On ch=1 n=e4 v=0
+251487 On ch=1 n=g#4 v=0
+251487 On ch=1 n=c#5 v=0
+251530 On ch=1 n=e6 v=0
+251653 On ch=1 n=e5 v=94
+251725 On ch=1 n=e5 v=0
+251890 On ch=1 n=e6 v=94
+251965 On ch=1 n=e6 v=0
+252129 On ch=1 n=f#4 v=107
+252130 On ch=1 n=a3 v=107
+252132 On ch=1 n=c#4 v=107
+252133 On ch=1 n=a5 v=107
+252193 On ch=1 n=a5 v=0
+252207 On ch=1 n=c#4 v=0
+252208 On ch=1 n=f#4 v=0
+252232 On ch=1 n=a3 v=0
+252381 On ch=1 n=a4 v=95
+252453 On ch=1 n=a4 v=0
+252614 On ch=1 n=a5 v=96
+252681 On ch=1 n=a5 v=0
+252849 On ch=1 n=c#4 v=108
+252850 On ch=1 n=e3 v=108
+252851 On ch=1 n=g#3 v=108
+252855 On ch=1 n=e5 v=108
+252913 On ch=1 n=e3 v=0
+252919 On ch=1 n=c#4 v=0
+252924 On ch=1 n=g#3 v=0
+252974 On ch=1 n=e5 v=0
+253096 On ch=1 n=e4 v=97
+253156 On ch=1 n=e4 v=0
+253334 On ch=1 n=e5 v=97
+253407 On ch=1 n=e5 v=0
+253556 Tempo 394736
+253572 On ch=1 n=a2 v=109
+253572 On ch=1 n=a3 v=109
+253573 On ch=1 n=a4 v=109
+253665 On ch=1 n=a3 v=0
+253682 On ch=1 n=a2 v=0
+253689 On ch=1 n=a4 v=0
+253804 On ch=1 n=e3 v=94
+253817 On ch=1 n=e4 v=94
+253883 On ch=1 n=e3 v=0
+253891 On ch=1 n=e4 v=0
+254044 On ch=1 n=a3 v=95
+254046 On ch=1 n=a2 v=95
+254053 On ch=1 n=a4 v=96
+254124 On ch=1 n=a2 v=0
+254128 On ch=1 n=a4 v=0
+254131 On ch=1 n=a3 v=0
+254281 On ch=1 n=e3 v=109
+254298 On ch=1 n=e4 v=109
+254367 On ch=1 n=e3 v=0
+254411 On ch=1 n=e4 v=0
+254519 On ch=1 n=a3 v=98
+254520 On ch=1 n=a2 v=98
+254535 On ch=1 n=a4 v=98
+254599 On ch=1 n=a2 v=0
+254605 On ch=1 n=a3 v=0
+254649 On ch=1 n=a4 v=0
+254758 On ch=1 n=e3 v=99
+254773 On ch=1 n=e4 v=99
+254835 On ch=1 n=e3 v=0
+254890 On ch=1 n=e4 v=0
+255000 On ch=1 n=a2 v=114
+255000 On ch=1 n=a3 v=114
+255012 On ch=1 n=a4 v=113
+255076 On ch=1 n=a2 v=0
+255078 On ch=1 n=a3 v=0
+255130 On ch=1 n=a4 v=0
+255242 On ch=1 n=e3 v=102
+255255 On ch=1 n=e4 v=102
+255324 On ch=1 n=e3 v=0
+255328 On ch=1 n=e4 v=0
+255482 On ch=1 n=a3 v=103
+255483 On ch=1 n=a2 v=103
+255492 On ch=1 n=a4 v=103
+255545 On ch=1 n=a2 v=0
+255555 On ch=1 n=a3 v=0
+255571 On ch=1 n=a4 v=0
+255721 On ch=1 n=e3 v=118
+255730 On ch=1 n=e4 v=118
+255764 Tempo 389610
+255800 On ch=1 n=e3 v=0
+255816 Tempo 392156
+255849 On ch=1 n=e4 v=0
+255868 Tempo 394736
+255920 Tempo 397350
+255961 On ch=1 n=a2 v=105
+255961 On ch=1 n=a3 v=105
+255969 On ch=1 n=a4 v=106
+255972 Tempo 400000
+256024 Tempo 402684
+256026 On ch=1 n=a3 v=0
+256032 On ch=1 n=a2 v=0
+256050 On ch=1 n=a4 v=0
+256076 Tempo 405405
+256128 Tempo 408163
+256180 Tempo 410958
+256192 On ch=1 n=e4 v=107
+256200 On ch=1 n=e3 v=107
+256232 Tempo 413793
+256260 On ch=1 n=e4 v=0
+256272 On ch=1 n=e3 v=0
+256284 Tempo 416666
+256336 Tempo 419580
+256388 Tempo 422535
+256447 On ch=1 n=a3 v=119
+256449 On ch=1 n=a4 v=119
+256456 On ch=1 n=a2 v=119
+256690 On ch=1 n=a4 v=0
+256782 On ch=1 n=a3 v=0
+256802 On ch=1 n=a2 v=0
+256916 Tempo 530973
+257121 Tempo 600000
+257169 On ch=1 n=e6 v=111
+257169 On ch=1 n=e7 v=111
+257173 Tempo 606060
+257182 On ch=1 n=a5 v=111
+257183 On ch=1 n=c#7 v=111
+257184 On ch=1 n=a6 v=111
+257184 On ch=1 n=a7 v=111
+257184 On ch=1 n=c#6 v=111
+257508 On ch=1 n=e6 v=0
+257525 On ch=1 n=c#6 v=0
+257545 On ch=1 n=a5 v=0
+257571 On ch=1 n=e7 v=0
+257584 On ch=1 n=a6 v=0
+257589 On ch=1 n=a7 v=0
+257608 On ch=1 n=c#7 v=0
+258610 Par ch=1 c=121 v=127
+258610 Meta TrkEnd
+TrkEnd
+MTrk
+0 Meta TrkName "see Clementi's Op. 36 no. 1"
+258610 Meta TrkEnd
+TrkEnd
+MTrk
+0 Meta TrkName "seq by David Siu dss@po.cwru.edu"
+258610 Meta TrkEnd
+TrkEnd
