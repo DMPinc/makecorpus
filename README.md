@@ -24,7 +24,7 @@ Length/Sound
 
 ### Download MIDI files by scaping
 
-Skip this step. MIDI text files are already ready.
+MIDI text files are already ready.
 
 ```
 $ gem install nokogiri
@@ -33,6 +33,9 @@ $ ../bin/scraping.rb
 ```
 
 ### Convert MIDI files to text format
+
+mf2t is accessible from
+https://code.google.com/p/midi2text/downloads/list.
 
 ```
 $ for f in MIDI/*
