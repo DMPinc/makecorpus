@@ -14,6 +14,7 @@
 #include <iterator>
 #include <vector>
 #include <unordered_map>
+#include <sstream>
 
 int main(int argc, const char * argv[])
 {
@@ -33,20 +34,28 @@ int main(int argc, const char * argv[])
     
     string line;
     bool isTrackStarting = false;
-    bool isParsingChord = false;
-    vector<string> chordStack;
+    bool isChordSilentDone = false;
     int countOfTracks = 0;
     int lastEndTime;
     unordered_map<string, int> table;
+    vector<string> chordStack;
     while (std::getline(fin, line)) {
-        //cerr << line << endl;
+        //cerr << "dEbug:" << line << endl;
         
+        //  skip sentence from #
+        if (line.length() > 1 && line[0] == '#') {
+            continue;
+        }
+        
+        // begining of tack
         if (line == "MTrk") {
             isTrackStarting = true;
             cerr << "Track " << countOfTracks << endl;
             table.clear();
             continue;
-        } else if (line == "TrkEnd") {
+        }
+        // end of track
+        else if (line == "TrkEnd") {
             isTrackStarting = false;
             ++countOfTracks;
             //cerr << "FINISH!!!" << endl << endl;
@@ -59,50 +68,77 @@ int main(int argc, const char * argv[])
             continue;
         }
         
-        //  parse data
+        // data part of track
         istringstream iss(line);
         vector<string> tokens;
         copy(istream_iterator<string>(iss), istream_iterator<string>(), back_inserter<vector<string> >(tokens));
-        //for(vector<string>::const_iterator i = tokens.begin(); i != tokens.end(); ++i) cout << *i << ' ';
         
         string type = tokens[1];
-        if (type == "Par" || type == "Meta" || type == "Pb" || type == "PrCh") {
+        if (type == "Par" || type == "Meta" || type == "Pb" || type == "PrCh" || type == "SysEx") {
             continue;
         }
         else if (type == "On") {
-            int time = stoi(tokens[0]);//ok
+            int time = stoi(tokens[0]);
             //  int channel = stoi(tokens[2].substr(3, tokens[2].length()));
             string tone = tokens[3].substr(2, tokens[3].length());
             int volume = stoi(tokens[4].substr(2, tokens[4].length()));
             
-            //  登録
+            //  start plyaing sound
             if (volume == 100) {
                 
-                //  無音処理
-                int nosoundDuration = time - lastEndTime;
-                if (nosoundDuration > 0) {
-                    cout << nosoundDuration << "+" << "sp" << " ";
+                //  no sound duration
+                if (!isChordSilentDone) {
+                    int nosoundDuration = time - lastEndTime;
+                    if (nosoundDuration > 0) {
+                        cout << nosoundDuration << "+" << "sp" << " ";
+                    }
+                    isChordSilentDone = true;
                 }
-                
-                table.insert(make_pair(tone, time));
+            
+                table[tone] = time;
             }
-            //  ゲートタイムを取得
+            //  finish playing sound
             else if (volume == 0) {
+                isChordSilentDone = false;
                 lastEndTime = time;
                 
-                //  和音処理.
                 if (table.find(tone) == table.end()) {
-                    isParsingChord = true;
-                    
+                    //  not found
                 } else {
-                    int startTime = table[tone];
-                    int length = time - startTime;
-                    
-                    //  出力する
-                    cout << length << "+" << tone << " ";
-                    
-                    //  登録済みのを消す
+                    int prevStartTime = table[tone];
                     table.erase(tone);
+                    
+                    //  和音処理. table の要素数が0でない場合、出力せず貯めこむ
+                    if (table.empty()) {
+                        int length = time - prevStartTime;
+                        
+                        string toneString;
+                        if (chordStack.empty()) {
+                            toneString = tone;
+                        } else {
+                            toneString = "{";
+                            stringstream ss;
+                            
+                            chordStack.push_back(tone);
+                            for(size_t i = 0; i < chordStack.size(); ++i)
+                            {
+                                if(i != 0)
+                                    ss << ",";
+                                ss << chordStack[i];
+                            }
+                            toneString += ss.str();
+                            toneString += "}";
+                            
+                            chordStack.clear();
+                        }
+
+                        //  出力する
+                        cout << length << "+" << toneString << " ";
+                    }
+                    else {
+                        //  和音を貯めこむ
+                        chordStack.push_back(tone);
+                    }
                 }
             }
         }

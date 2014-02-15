@@ -1,20 +1,4 @@
 MTrk
-0 SysEx f0 7e 7f 09 01 f7
-480 Par ch=1 c=121 v=0
-500 Meta Text "# Pitch Bend Sensitivity (0-2-24) #"
-500 Par ch=1 c=101 v=0
-505 Par ch=1 c=100 v=0
-510 Par ch=1 c=6 v=2
-515 Pb ch=1 v=8192
-520 Par ch=1 c=0 v=0
-525 Par ch=1 c=32 v=0
-530 PrCh ch=1 p=0
-535 Par ch=1 c=7 v=100
-540 Par ch=1 c=11 v=127
-545 Par ch=1 c=10 v=64
-550 Par ch=1 c=91 v=80
-555 Par ch=1 c=93 v=0
-560 Par ch=1 c=1 v=0
 2160 On ch=1 n=g5 v=100
 2268 On ch=1 n=g5 v=0
 2280 On ch=1 n=c6 v=100

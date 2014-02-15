@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		4777508218AF60F90029D297 /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = main.cpp; path = makecorpus/main.cpp; sourceTree = SOURCE_ROOT; };
-		4777508318AF60F90029D297 /* train_midi.1 */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.man; name = train_midi.1; path = makecorpus/train_midi.1; sourceTree = SOURCE_ROOT; };
+		4777508318AF60F90029D297 /* makecorpus.1 */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.man; name = makecorpus.1; path = makecorpus/makecorpus.1; sourceTree = SOURCE_ROOT; };
 		47FBBAF018AF37EB0087E0B3 /* makecorpus */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = makecorpus; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -59,7 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				4777508218AF60F90029D297 /* main.cpp */,
-				4777508318AF60F90029D297 /* train_midi.1 */,
+				4777508318AF60F90029D297 /* makecorpus.1 */,
 			);
 			name = makecorpus;
 			path = train_midi;
