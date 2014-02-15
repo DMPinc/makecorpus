@@ -1,0 +1,7 @@
+MTrk
+2160 On ch=1 n=g5 v=100
+2268 On ch=1 n=g5 v=0
+2280 On ch=1 n=c6 v=100
+2388 On ch=1 n=c6 v=0
+TrkEnd
+# 108+g5 12+sp 108+c6
