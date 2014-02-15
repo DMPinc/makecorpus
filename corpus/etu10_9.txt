@@ -1,0 +1,3427 @@
+MFile 1 7 480
+MTrk
+0 TimeSig 6/8 12 8
+0 KeySig -4 major
+0 Tempo 333333
+1440 Tempo 845070
+1456 Tempo 833333
+1464 Tempo 821918
+1472 Tempo 810811
+1480 Tempo 800000
+1496 Tempo 789474
+1504 Tempo 779221
+1512 Tempo 769231
+1520 Tempo 759494
+1536 Tempo 750000
+1544 Tempo 740741
+1552 Tempo 731707
+1560 Tempo 722892
+1576 Tempo 714286
+1608 Tempo 705882
+1640 Tempo 697674
+1664 Tempo 689655
+1696 Tempo 681818
+1728 Tempo 674157
+1752 Tempo 666667
+1784 Tempo 659341
+1816 Tempo 652174
+1840 Tempo 645161
+1872 Tempo 638298
+1904 Tempo 631579
+1928 Tempo 625000
+11520 Tempo 666667
+11584 Tempo 670391
+11640 Tempo 674157
+11704 Tempo 677966
+11760 Tempo 681818
+11824 Tempo 685714
+11880 Tempo 689655
+11944 Tempo 693642
+12000 Tempo 697674
+12064 Tempo 701754
+12120 Tempo 705882
+12184 Tempo 710059
+12240 Tempo 714286
+12304 Tempo 718563
+12360 Tempo 722892
+12424 Tempo 727273
+12480 Tempo 731707
+12544 Tempo 736196
+12600 Tempo 740741
+12664 Tempo 745342
+12720 Tempo 750000
+12972 Tempo 750000
+12984 Tempo 745342
+13000 Tempo 736196
+13012 Tempo 727273
+13024 Tempo 722892
+13040 Tempo 714286
+13052 Tempo 705882
+13064 Tempo 701754
+13080 Tempo 693642
+13092 Tempo 685714
+13104 Tempo 681818
+13120 Tempo 674157
+13132 Tempo 666667
+13144 Tempo 662983
+13160 Tempo 655738
+13172 Tempo 648649
+13184 Tempo 645161
+13200 Tempo 638298
+13212 Tempo 625000
+34560 Tempo 612245
+34772 Tempo 609137
+34972 Tempo 606061
+35184 Tempo 603015
+35384 Tempo 600000
+35600 Tempo 597015
+35800 Tempo 594059
+36000 Tempo 591133
+36212 Tempo 588235
+36412 Tempo 585366
+36624 Tempo 582524
+36824 Tempo 579710
+37040 Tempo 576923
+37240 Tempo 574163
+37440 Tempo 571429
+37652 Tempo 568720
+37852 Tempo 566038
+38064 Tempo 563380
+38264 Tempo 560748
+38480 Tempo 558140
+38680 Tempo 555556
+38880 Tempo 555556
+39360 Tempo 552995
+39840 Tempo 576923
+39892 Tempo 579710
+39944 Tempo 582524
+40000 Tempo 585366
+40052 Tempo 588235
+40104 Tempo 591133
+40144 Tempo 594059
+40200 Tempo 597015
+40252 Tempo 600000
+40304 Tempo 603015
+40320 Tempo 701754
+40372 Tempo 697674
+40412 Tempo 693642
+40452 Tempo 689655
+40492 Tempo 685714
+40532 Tempo 681818
+40584 Tempo 677966
+40624 Tempo 674157
+40664 Tempo 670391
+40704 Tempo 666667
+40744 Tempo 662983
+40784 Tempo 659341
+40800 Tempo 666667
+40824 Tempo 670391
+40852 Tempo 674157
+40880 Tempo 677966
+40904 Tempo 681818
+40920 Tempo 685714
+40944 Tempo 689655
+40972 Tempo 693642
+41000 Tempo 697674
+41012 Tempo 701754
+41040 Tempo 705882
+41044 Tempo 805369
+41072 Tempo 810811
+41096 Tempo 816327
+41124 Tempo 821918
+41152 Tempo 827586
+41176 Tempo 833333
+41204 Tempo 839161
+41232 Tempo 845070
+41256 Tempo 851064
+41284 Tempo 660535
+41312 Tempo 666701
+41336 Tempo 672957
+41364 Tempo 679304
+41392 Tempo 685745
+41416 Tempo 692281
+41444 Tempo 698914
+41472 Tempo 705648
+41496 Tempo 712483
+41524 Tempo 719423
+41536 Tempo 965562
+41552 Tempo 950269
+41564 Tempo 942803
+41576 Tempo 935454
+41592 Tempo 928218
+41604 Tempo 717469
+41616 Tempo 710559
+41632 Tempo 703752
+41644 Tempo 697047
+41656 Tempo 683932
+41672 Tempo 677518
+41684 Tempo 671196
+41696 Tempo 664966
+41712 Tempo 849377
+41724 Tempo 843407
+41736 Tempo 837521
+41752 Tempo 831716
+41760 Tempo 750000
+41840 Tempo 745342
+41920 Tempo 740741
+42000 Tempo 736196
+42064 Tempo 731707
+42144 Tempo 727273
+42224 Tempo 722892
+42292 Tempo 718563
+42372 Tempo 714286
+42452 Tempo 710059
+42520 Tempo 705882
+42600 Tempo 701754
+42680 Tempo 697674
+42744 Tempo 693642
+42824 Tempo 689655
+42904 Tempo 685714
+42972 Tempo 681818
+43052 Tempo 677966
+43132 Tempo 674157
+43200 Tempo 750000
+43280 Tempo 745342
+43360 Tempo 740741
+43424 Tempo 736196
+43504 Tempo 731707
+43572 Tempo 727273
+43652 Tempo 722892
+43732 Tempo 718563
+43800 Tempo 714286
+43880 Tempo 710059
+43944 Tempo 705882
+44024 Tempo 701754
+44092 Tempo 697674
+44172 Tempo 693642
+44252 Tempo 689655
+44320 Tempo 685714
+44400 Tempo 681818
+44464 Tempo 677966
+44544 Tempo 674157
+44612 Tempo 670391
+44640 Tempo 714286
+44720 Tempo 710059
+44800 Tempo 705882
+44864 Tempo 701754
+44944 Tempo 697674
+45024 Tempo 693642
+45092 Tempo 689655
+45172 Tempo 685714
+45240 Tempo 681818
+45320 Tempo 677966
+45400 Tempo 674157
+45464 Tempo 670391
+45544 Tempo 666667
+45612 Tempo 666667
+46080 Tempo 710059
+46172 Tempo 705882
+46264 Tempo 701754
+46344 Tempo 697674
+46440 Tempo 693642
+46520 Tempo 689655
+46612 Tempo 685714
+46692 Tempo 681818
+46784 Tempo 677966
+46864 Tempo 674157
+46960 Tempo 670391
+47040 Tempo 666667
+47520 Tempo 750000
+47572 Tempo 745342
+47612 Tempo 740741
+47664 Tempo 736196
+47704 Tempo 731707
+47760 Tempo 727273
+47800 Tempo 722892
+47852 Tempo 718563
+47892 Tempo 714286
+47944 Tempo 710059
+47984 Tempo 705882
+48040 Tempo 701754
+48080 Tempo 697674
+48132 Tempo 693642
+48172 Tempo 689655
+48224 Tempo 685714
+48264 Tempo 681818
+48320 Tempo 677966
+48360 Tempo 674157
+48412 Tempo 670391
+48452 Tempo 666667
+48492 Tempo 662983
+48972 Tempo 754717
+49024 Tempo 750000
+49064 Tempo 745342
+49104 Tempo 740741
+49144 Tempo 736196
+49200 Tempo 731707
+49240 Tempo 727273
+49280 Tempo 722892
+49320 Tempo 718563
+49372 Tempo 714286
+49412 Tempo 710059
+49452 Tempo 705882
+49492 Tempo 701754
+49532 Tempo 697674
+49584 Tempo 693642
+49624 Tempo 689655
+49664 Tempo 685714
+49704 Tempo 681818
+49760 Tempo 677966
+49800 Tempo 674157
+49840 Tempo 670391
+49880 Tempo 666667
+49920 Tempo 662983
+50400 Tempo 754717
+50452 Tempo 750000
+50492 Tempo 745342
+50532 Tempo 740741
+50584 Tempo 736196
+50624 Tempo 731707
+50664 Tempo 727273
+50704 Tempo 722892
+50760 Tempo 718563
+50800 Tempo 714286
+50840 Tempo 710059
+50880 Tempo 705882
+50932 Tempo 701754
+50972 Tempo 697674
+51012 Tempo 693642
+51064 Tempo 689655
+51104 Tempo 685714
+51144 Tempo 681818
+51184 Tempo 677966
+51240 Tempo 674157
+51280 Tempo 670391
+51320 Tempo 666667
+51360 Tempo 662983
+51840 Tempo 754717
+51892 Tempo 750000
+51932 Tempo 745342
+51972 Tempo 740741
+52024 Tempo 736196
+52064 Tempo 731707
+52104 Tempo 727273
+52144 Tempo 722892
+52200 Tempo 718563
+52240 Tempo 714286
+52280 Tempo 710059
+52320 Tempo 710059
+52360 Tempo 714286
+52384 Tempo 718563
+52412 Tempo 722892
+52440 Tempo 727273
+52464 Tempo 731707
+52492 Tempo 736196
+52520 Tempo 740741
+52544 Tempo 745342
+52584 Tempo 750000
+52612 Tempo 754717
+52640 Tempo 759494
+52664 Tempo 764331
+52692 Tempo 769231
+52720 Tempo 774194
+52744 Tempo 779221
+52772 Tempo 784314
+52800 Tempo 789474
+53144 Tempo 789474
+53160 Tempo 784314
+53172 Tempo 774194
+53184 Tempo 764331
+53200 Tempo 754717
+53212 Tempo 745342
+53224 Tempo 736196
+53240 Tempo 727273
+53252 Tempo 718563
+53264 Tempo 710059
+53280 Tempo 701754
+53292 Tempo 693642
+53304 Tempo 689655
+53320 Tempo 681818
+53332 Tempo 674157
+53344 Tempo 666667
+53360 Tempo 659341
+53372 Tempo 652174
+53384 Tempo 645161
+53400 Tempo 638298
+53412 Tempo 631579
+53424 Tempo 625000
+53440 Tempo 618557
+53452 Tempo 625000
+63372 Tempo 677966
+63412 Tempo 674157
+63452 Tempo 670391
+63480 Tempo 666667
+63520 Tempo 662983
+63544 Tempo 659341
+63584 Tempo 655738
+63612 Tempo 652174
+63652 Tempo 648649
+63692 Tempo 645161
+63720 Tempo 641711
+63760 Tempo 638298
+63784 Tempo 634921
+63824 Tempo 631579
+63840 Tempo 628272
+63864 Tempo 631579
+63892 Tempo 634921
+63920 Tempo 638298
+63944 Tempo 641711
+63972 Tempo 645161
+63984 Tempo 648649
+64012 Tempo 652174
+64040 Tempo 655738
+64064 Tempo 659341
+64092 Tempo 662983
+64120 Tempo 666667
+64132 Tempo 670391
+64160 Tempo 674157
+64184 Tempo 677966
+64212 Tempo 681818
+64240 Tempo 685714
+64264 Tempo 689655
+64280 Tempo 693642
+64304 Tempo 697674
+64332 Tempo 701754
+64360 Tempo 705882
+64384 Tempo 710059
+64412 Tempo 714286
+64424 Tempo 718563
+64452 Tempo 722892
+64480 Tempo 727273
+64504 Tempo 731707
+64532 Tempo 736196
+64560 Tempo 740741
+64572 Tempo 745342
+64664 Tempo 750000
+64680 Tempo 745342
+64692 Tempo 736196
+64704 Tempo 731707
+64720 Tempo 722892
+64732 Tempo 714286
+64744 Tempo 710059
+64760 Tempo 701754
+64772 Tempo 693642
+64784 Tempo 689655
+64800 Tempo 681818
+64812 Tempo 674157
+64824 Tempo 670391
+64840 Tempo 662983
+64852 Tempo 659341
+64864 Tempo 652174
+64880 Tempo 645161
+64892 Tempo 641711
+64904 Tempo 634921
+64920 Tempo 628272
+64932 Tempo 625000
+64944 Tempo 618557
+64960 Tempo 625000
+76304 Tempo 618557
+76556 Tempo 615385
+76796 Tempo 612245
+77048 Tempo 609137
+77288 Tempo 606061
+77544 Tempo 603015
+77784 Tempo 600000
+78036 Tempo 597015
+78276 Tempo 594059
+78516 Tempo 591133
+78768 Tempo 588235
+79008 Tempo 585366
+79264 Tempo 582524
+79504 Tempo 579710
+79756 Tempo 576923
+79996 Tempo 574163
+80236 Tempo 571429
+80252 Tempo 568720
+80264 Tempo 571429
+80276 Tempo 574163
+80292 Tempo 576923
+80304 Tempo 579710
+80316 Tempo 582524
+80332 Tempo 585366
+80344 Tempo 588235
+80356 Tempo 591133
+80372 Tempo 594059
+80384 Tempo 597015
+80396 Tempo 600000
+80412 Tempo 603015
+80424 Tempo 606061
+80436 Tempo 609137
+80452 Tempo 612245
+80464 Tempo 615385
+80476 Tempo 618557
+80492 Tempo 621762
+80504 Tempo 625000
+80516 Tempo 628272
+80532 Tempo 631579
+80544 Tempo 634921
+80556 Tempo 638298
+80572 Tempo 641711
+80584 Tempo 645161
+80596 Tempo 648649
+80612 Tempo 652174
+80624 Tempo 714286
+80664 Tempo 710059
+80704 Tempo 705882
+80744 Tempo 701754
+80784 Tempo 697674
+80824 Tempo 693642
+80864 Tempo 689655
+80904 Tempo 685714
+80944 Tempo 681818
+80984 Tempo 677966
+81024 Tempo 674157
+81064 Tempo 670391
+81104 Tempo 666667
+81112 Tempo 851064
+81152 Tempo 660535
+81176 Tempo 666701
+81216 Tempo 672957
+81244 Tempo 679304
+81272 Tempo 685745
+81312 Tempo 692281
+81336 Tempo 698914
+81376 Tempo 705648
+81404 Tempo 712483
+81432 Tempo 719423
+81472 Tempo 923077
+81496 Tempo 930233
+81536 Tempo 937500
+81564 Tempo 944882
+81592 Tempo 952381
+81604 Tempo 952381
+81632 Tempo 944882
+81644 Tempo 937500
+81672 Tempo 930233
+81684 Tempo 923077
+81712 Tempo 719423
+81724 Tempo 712483
+81736 Tempo 705648
+81764 Tempo 698914
+81776 Tempo 692281
+81804 Tempo 685745
+81816 Tempo 810811
+81856 Tempo 805369
+81884 Tempo 800000
+81912 Tempo 794702
+81936 Tempo 789474
+81976 Tempo 784314
+82004 Tempo 779221
+82032 Tempo 774194
+82056 Tempo 769231
+82064 Tempo 705882
+82080 Tempo 731707
+82144 Tempo 727273
+82212 Tempo 722892
+82264 Tempo 718563
+82332 Tempo 714286
+82384 Tempo 710059
+82452 Tempo 705882
+82504 Tempo 701754
+82572 Tempo 697674
+82640 Tempo 693642
+82692 Tempo 689655
+82760 Tempo 685714
+82812 Tempo 681818
+82880 Tempo 677966
+82932 Tempo 674157
+83000 Tempo 670391
+83052 Tempo 666667
+83520 Tempo 705882
+83600 Tempo 701754
+83664 Tempo 697674
+83732 Tempo 693642
+83812 Tempo 689655
+83880 Tempo 685714
+83944 Tempo 681818
+84024 Tempo 677966
+84092 Tempo 674157
+84160 Tempo 670391
+84224 Tempo 666667
+84240 Tempo 666667
+84464 Tempo 666667
+84532 Tempo 662983
+84600 Tempo 659341
+84652 Tempo 655738
+84720 Tempo 652174
+84784 Tempo 648649
+84840 Tempo 645161
+84904 Tempo 641711
+84960 Tempo 701754
+85024 Tempo 697674
+85080 Tempo 693642
+85132 Tempo 689655
+85200 Tempo 685714
+85252 Tempo 681818
+85304 Tempo 677966
+85360 Tempo 674157
+85424 Tempo 670391
+85480 Tempo 666667
+85532 Tempo 662983
+85584 Tempo 659341
+86400 Tempo 710059
+86452 Tempo 705882
+86492 Tempo 701754
+86532 Tempo 697674
+86584 Tempo 693642
+86624 Tempo 689655
+86664 Tempo 685714
+86704 Tempo 681818
+86760 Tempo 677966
+86800 Tempo 674157
+86840 Tempo 670391
+86880 Tempo 666667
+86932 Tempo 662983
+86972 Tempo 659341
+87012 Tempo 655738
+87052 Tempo 652174
+87104 Tempo 638298
+87172 Tempo 641711
+87240 Tempo 645161
+87304 Tempo 648649
+87372 Tempo 652174
+87440 Tempo 655738
+87504 Tempo 659341
+87572 Tempo 662983
+87624 Tempo 666667
+87840 Tempo 816327
+87904 Tempo 810811
+87960 Tempo 805369
+88012 Tempo 800000
+88064 Tempo 794702
+88120 Tempo 789474
+88172 Tempo 784314
+88240 Tempo 779221
+88292 Tempo 774194
+88344 Tempo 769231
+88400 Tempo 764331
+88452 Tempo 759494
+88504 Tempo 754717
+88560 Tempo 750000
+88584 Tempo 745342
+88652 Tempo 740741
+88720 Tempo 736196
+88784 Tempo 731707
+88852 Tempo 727273
+88920 Tempo 722892
+88984 Tempo 718563
+89040 Tempo 714286
+89264 Tempo 816327
+89276 Tempo 821918
+89356 Tempo 816327
+89424 Tempo 810811
+89488 Tempo 805369
+89556 Tempo 800000
+89636 Tempo 794702
+89704 Tempo 789474
+89768 Tempo 784314
+89836 Tempo 779221
+89916 Tempo 774194
+89984 Tempo 769231
+90048 Tempo 764331
+90116 Tempo 759494
+90196 Tempo 754717
+90264 Tempo 750000
+90328 Tempo 745342
+90396 Tempo 740741
+90476 Tempo 736196
+90544 Tempo 731707
+90608 Tempo 727273
+90676 Tempo 722892
+90680 Tempo 674157
+90704 Tempo 670391
+90716 Tempo 698914
+90784 Tempo 692281
+90836 Tempo 685745
+90888 Tempo 679304
+90944 Tempo 672957
+91008 Tempo 666701
+91064 Tempo 660535
+91116 Tempo 851064
+91168 Tempo 845070
+91236 Tempo 839161
+91288 Tempo 833333
+91344 Tempo 827586
+91396 Tempo 821918
+91464 Tempo 816327
+91516 Tempo 810811
+91568 Tempo 805369
+91624 Tempo 800000
+91676 Tempo 794702
+92144 Tempo 983607
+92236 Tempo 975610
+92328 Tempo 967742
+92424 Tempo 960000
+92504 Tempo 952381
+92596 Tempo 944882
+92688 Tempo 937500
+92784 Tempo 930233
+92848 Tempo 930233
+92928 Tempo 937500
+92996 Tempo 944882
+93064 Tempo 952381
+93128 Tempo 960000
+93196 Tempo 967742
+93276 Tempo 975610
+93344 Tempo 983607
+93408 Tempo 991736
+93476 Tempo 1000000
+93544 Tempo 1008403
+93600 Tempo 937500
+93600 Meta TrkEnd
+TrkEnd
+MTrk
+0 SeqSpec 43 00 01 00
+0 SysEx f0 41 10 42 12 40 00 7f 00 41 f7
+0 SysEx f0 41 10 42 12 40 01 30 03 0c f7
+0 Meta TrkEnd
+TrkEnd
+MTrk
+0 SeqSpec 43 00 01 00
+0 Meta TrkName "Etude No. 9"
+0 Meta 0x21 00
+240 Par ch=1 c=0 v=0
+248 PrCh ch=1 p=0
+252 Par ch=1 c=7 v=127
+480 Par ch=1 c=91 v=64
+480 Par ch=1 c=0 v=0
+480 Par ch=1 c=93 v=20
+1324 Par ch=1 c=64 v=127
+1440 On ch=1 n=f3 v=56
+1512 On ch=1 n=f3 v=0
+1564 On ch=1 n=c4 v=55
+1684 On ch=1 n=f5 v=60
+1688 On ch=1 n=g#4 v=60
+1700 On ch=1 n=c4 v=0
+1792 On ch=1 n=g#4 v=0
+1796 On ch=1 n=f5 v=0
+1808 On ch=1 n=c4 v=58
+1908 On ch=1 n=c4 v=0
+1924 On ch=1 n=g5 v=61
+1924 On ch=1 n=a#4 v=58
+1932 Par ch=1 c=64 v=0
+2000 On ch=1 n=a#4 v=0
+2036 On ch=1 n=g5 v=0
+2044 On ch=1 n=c4 v=55
+2128 Par ch=1 c=64 v=127
+2132 On ch=1 n=c4 v=0
+2160 On ch=1 n=f3 v=56
+2200 On ch=1 n=f3 v=0
+2272 On ch=1 n=c4 v=58
+2380 On ch=1 n=c4 v=0
+2396 On ch=1 n=g#5 v=62
+2396 On ch=1 n=c5 v=56
+2476 On ch=1 n=c5 v=0
+2504 On ch=1 n=g#5 v=0
+2524 On ch=1 n=c4 v=57
+2580 On ch=1 n=c4 v=0
+2632 On ch=1 n=c#5 v=56
+2640 On ch=1 n=a#5 v=63
+2664 Par ch=1 c=64 v=0
+2720 On ch=1 n=c#5 v=0
+2748 On ch=1 n=a#5 v=0
+2756 On ch=1 n=c4 v=54
+2816 Par ch=1 c=64 v=127
+2872 On ch=1 n=c4 v=0
+2884 On ch=1 n=f3 v=58
+2952 On ch=1 n=f3 v=0
+2992 On ch=1 n=c4 v=60
+3116 On ch=1 n=c5 v=62
+3120 On ch=1 n=c4 v=0
+3132 On ch=1 n=c6 v=67
+3216 On ch=1 n=c5 v=0
+3236 On ch=1 n=c4 v=62
+3256 On ch=1 n=c6 v=0
+3344 Par ch=1 c=64 v=0
+3352 On ch=1 n=c4 v=0
+3352 On ch=1 n=a#4 v=63
+3368 On ch=1 n=c#6 v=73
+3468 On ch=1 n=a#4 v=0
+3472 On ch=1 n=c#6 v=0
+3476 On ch=1 n=c4 v=66
+3556 Par ch=1 c=64 v=127
+3592 On ch=1 n=c4 v=0
+3604 On ch=1 n=c6 v=79
+3604 On ch=1 n=f3 v=70
+3664 On ch=1 n=f3 v=0
+3704 On ch=1 n=c6 v=0
+3716 On ch=1 n=c4 v=71
+3828 On ch=1 n=g#6 v=80
+3844 On ch=1 n=c4 v=0
+3844 On ch=1 n=g#4 v=72
+3908 On ch=1 n=g#4 v=0
+3920 On ch=1 n=g#6 v=0
+3952 On ch=1 n=c4 v=73
+4020 Par ch=1 c=64 v=0
+4072 On ch=1 n=c4 v=0
+4076 On ch=1 n=a#4 v=74
+4084 On ch=1 n=g6 v=85
+4160 On ch=1 n=a#4 v=0
+4168 On ch=1 n=g6 v=0
+4188 On ch=1 n=c4 v=75
+4248 Par ch=1 c=64 v=127
+4252 On ch=1 n=c4 v=0
+4300 On ch=1 n=f6 v=87
+4316 On ch=1 n=f3 v=77
+4404 On ch=1 n=f3 v=0
+4408 On ch=1 n=f6 v=0
+4436 On ch=1 n=c4 v=71
+4536 On ch=1 n=c6 v=87
+4564 On ch=1 n=g#4 v=74
+4588 On ch=1 n=c4 v=0
+4656 Par ch=1 c=64 v=0
+4664 On ch=1 n=g#4 v=0
+4668 On ch=1 n=c6 v=0
+4680 On ch=1 n=c4 v=73
+4792 On ch=1 n=c4 v=0
+4792 On ch=1 n=c#6 v=86
+4796 On ch=1 n=a#4 v=73
+4904 On ch=1 n=a#4 v=0
+4916 On ch=1 n=c#6 v=0
+4916 On ch=1 n=c4 v=71
+4928 Par ch=1 c=64 v=127
+5044 On ch=1 n=c6 v=86
+5048 On ch=1 n=f3 v=74
+5064 On ch=1 n=c4 v=0
+5092 On ch=1 n=f3 v=0
+5148 On ch=1 n=c6 v=0
+5164 On ch=1 n=c4 v=74
+5280 On ch=1 n=g#5 v=84
+5284 On ch=1 n=g#4 v=74
+5292 On ch=1 n=c4 v=0
+5368 On ch=1 n=g#4 v=0
+5380 On ch=1 n=g#5 v=0
+5396 On ch=1 n=c4 v=73
+5428 Par ch=1 c=64 v=0
+5516 On ch=1 n=c4 v=0
+5520 On ch=1 n=f5 v=82
+5528 On ch=1 n=c5 v=74
+5612 On ch=1 n=f5 v=0
+5620 On ch=1 n=c5 v=0
+5644 On ch=1 n=c4 v=77
+5692 Par ch=1 c=64 v=127
+5696 On ch=1 n=c4 v=0
+5764 On ch=1 n=f3 v=77
+5784 On ch=1 n=c5 v=85
+5880 On ch=1 n=f3 v=0
+5884 On ch=1 n=c4 v=75
+6008 On ch=1 n=c4 v=0
+6008 On ch=1 n=g4 v=74
+6104 On ch=1 n=g4 v=0
+6124 On ch=1 n=c4 v=72
+6228 Par ch=1 c=64 v=0
+6240 On ch=1 n=c4 v=0
+6248 On ch=1 n=g#4 v=72
+6336 On ch=1 n=g#4 v=0
+6364 On ch=1 n=c4 v=72
+6404 Par ch=1 c=64 v=127
+6464 On ch=1 n=c4 v=0
+6484 On ch=1 n=f3 v=74
+6556 On ch=1 n=f3 v=0
+6604 On ch=1 n=c4 v=72
+6724 On ch=1 n=a#4 v=69
+6756 On ch=1 n=c4 v=0
+6792 On ch=1 n=a#4 v=0
+6844 On ch=1 n=c4 v=64
+6888 On ch=1 n=c5 v=0
+6936 Par ch=1 c=64 v=0
+6956 On ch=1 n=c4 v=0
+6964 On ch=1 n=g4 v=59
+7064 On ch=1 n=g4 v=0
+7076 On ch=1 n=c4 v=54
+7156 On ch=1 n=c4 v=0
+7200 Par ch=1 c=64 v=127
+7208 On ch=1 n=f3 v=50
+7288 On ch=1 n=f3 v=0
+7324 On ch=1 n=c4 v=45
+7436 On ch=1 n=f5 v=64
+7448 On ch=1 n=g#4 v=53
+7452 On ch=1 n=c4 v=0
+7544 On ch=1 n=g#4 v=0
+7560 On ch=1 n=c4 v=48
+7584 On ch=1 n=f5 v=0
+7676 On ch=1 n=c4 v=0
+7684 On ch=1 n=a#4 v=54
+7688 On ch=1 n=g5 v=65
+7716 Par ch=1 c=64 v=0
+7780 On ch=1 n=a#4 v=0
+7804 On ch=1 n=c4 v=50
+7828 On ch=1 n=g5 v=0
+7924 On ch=1 n=f3 v=54
+7936 Par ch=1 c=64 v=127
+7940 On ch=1 n=c4 v=0
+7992 On ch=1 n=f3 v=0
+8044 On ch=1 n=c4 v=49
+8164 On ch=1 n=c4 v=0
+8164 On ch=1 n=c5 v=55
+8176 On ch=1 n=g#5 v=66
+8252 On ch=1 n=c5 v=0
+8288 On ch=1 n=c4 v=50
+8320 On ch=1 n=g#5 v=0
+8356 On ch=1 n=c4 v=0
+8404 On ch=1 n=c#5 v=56
+8412 On ch=1 n=a#5 v=65
+8444 Par ch=1 c=64 v=0
+8488 On ch=1 n=c#5 v=0
+8524 On ch=1 n=c4 v=49
+8540 On ch=1 n=a#5 v=0
+8648 On ch=1 n=f3 v=56
+8648 Par ch=1 c=64 v=127
+8656 On ch=1 n=c4 v=0
+8680 On ch=1 n=f3 v=0
+8764 On ch=1 n=c4 v=61
+8864 On ch=1 n=c4 v=0
+8884 On ch=1 n=c5 v=61
+8896 On ch=1 n=c6 v=65
+8992 On ch=1 n=c5 v=0
+8996 On ch=1 n=c4 v=61
+9060 On ch=1 n=c6 v=0
+9124 On ch=1 n=a#4 v=59
+9128 On ch=1 n=c4 v=0
+9128 On ch=1 n=c#6 v=71
+9160 Par ch=1 c=64 v=0
+9232 On ch=1 n=a#4 v=0
+9244 On ch=1 n=c4 v=58
+9260 On ch=1 n=c#6 v=0
+9352 Par ch=1 c=64 v=127
+9368 On ch=1 n=c6 v=76
+9368 On ch=1 n=f3 v=62
+9388 On ch=1 n=c4 v=0
+9448 On ch=1 n=f3 v=0
+9484 On ch=1 n=c6 v=0
+9492 On ch=1 n=c4 v=61
+9604 On ch=1 n=c7 v=81
+9608 On ch=1 n=c4 v=0
+9612 On ch=1 n=g#4 v=63
+9720 On ch=1 n=g#4 v=0
+9720 On ch=1 n=c7 v=0
+9728 On ch=1 n=c4 v=67
+9844 On ch=1 n=g#6 v=82
+9844 Par ch=1 c=64 v=0
+9848 On ch=1 n=c5 v=67
+9864 On ch=1 n=c4 v=0
+9924 On ch=1 n=c5 v=0
+9952 On ch=1 n=g#6 v=0
+9956 On ch=1 n=c4 v=67
+10024 On ch=1 n=c4 v=0
+10024 Par ch=1 c=64 v=127
+10084 On ch=1 n=f3 v=74
+10088 On ch=1 n=g6 v=87
+10184 On ch=1 n=f3 v=0
+10196 On ch=1 n=g6 v=0
+10204 On ch=1 n=c4 v=79
+10328 On ch=1 n=a#4 v=69
+10332 On ch=1 n=c6 v=86
+10352 On ch=1 n=c4 v=0
+10432 On ch=1 n=a#4 v=0
+10448 On ch=1 n=c4 v=79
+10456 On ch=1 n=c6 v=0
+10560 On ch=1 n=c#6 v=84
+10568 On ch=1 n=g4 v=67
+10572 On ch=1 n=c4 v=0
+10584 Par ch=1 c=64 v=0
+10684 On ch=1 n=g4 v=0
+10688 On ch=1 n=c#6 v=0
+10688 On ch=1 n=c4 v=76
+10724 Par ch=1 c=64 v=127
+10804 On ch=1 n=c6 v=86
+10808 On ch=1 n=f3 v=78
+10812 On ch=1 n=c4 v=0
+10912 On ch=1 n=f3 v=0
+10928 On ch=1 n=c4 v=76
+10944 On ch=1 n=c6 v=0
+11040 On ch=1 n=g5 v=83
+11048 On ch=1 n=a#4 v=68
+11088 On ch=1 n=c4 v=0
+11152 On ch=1 n=a#4 v=0
+11164 On ch=1 n=c4 v=76
+11172 On ch=1 n=g5 v=0
+11264 Par ch=1 c=64 v=0
+11288 On ch=1 n=g4 v=54
+11296 On ch=1 n=c5 v=79
+11312 On ch=1 n=c4 v=0
+11404 On ch=1 n=g4 v=0
+11404 On ch=1 n=c4 v=68
+11428 On ch=1 n=c5 v=0
+11432 Par ch=1 c=64 v=127
+11492 On ch=1 n=c4 v=0
+11532 On ch=1 n=f5 v=87
+11532 On ch=1 n=f3 v=72
+11648 On ch=1 n=b3 v=73
+11660 On ch=1 n=g5 v=88
+11664 On ch=1 n=f5 v=0
+11680 On ch=1 n=f3 v=0
+11772 On ch=1 n=g#4 v=78
+11796 On ch=1 n=g#5 v=96
+11812 On ch=1 n=g5 v=0
+11836 On ch=1 n=b3 v=0
+11860 On ch=1 n=g#4 v=0
+11888 On ch=1 n=b3 v=82
+11992 On ch=1 n=b3 v=0
+12000 On ch=1 n=c#5 v=85
+12048 On ch=1 n=c#5 v=0
+12088 Par ch=1 c=64 v=0
+12128 On ch=1 n=b3 v=85
+12192 Par ch=1 c=64 v=127
+12252 On ch=1 n=f3 v=90
+12264 On ch=1 n=b3 v=0
+12312 On ch=1 n=f3 v=0
+12368 On ch=1 n=b3 v=87
+12468 On ch=1 n=b3 v=0
+12488 On ch=1 n=g#4 v=83
+12568 On ch=1 n=g#4 v=0
+12596 On ch=1 n=b3 v=80
+12684 On ch=1 n=g#5 v=0
+12688 On ch=1 n=b3 v=0
+12724 On ch=1 n=c#5 v=78
+12776 On ch=1 n=c#5 v=0
+12836 On ch=1 n=b3 v=69
+12916 On ch=1 n=b3 v=0
+12916 Par ch=1 c=64 v=0
+12964 On ch=1 n=f3 v=57
+13016 Par ch=1 c=64 v=127
+13064 On ch=1 n=f3 v=0
+13084 On ch=1 n=c4 v=59
+13200 On ch=1 n=c4 v=0
+13204 On ch=1 n=f5 v=69
+13204 On ch=1 n=g#4 v=63
+13308 On ch=1 n=g#4 v=0
+13320 On ch=1 n=c4 v=60
+13352 On ch=1 n=f5 v=0
+13432 On ch=1 n=g5 v=72
+13444 On ch=1 n=c4 v=0
+13444 On ch=1 n=a#4 v=59
+13540 On ch=1 n=a#4 v=0
+13552 On ch=1 n=g5 v=0
+13556 On ch=1 n=c4 v=55
+13576 Par ch=1 c=64 v=0
+13684 On ch=1 n=f3 v=55
+13700 On ch=1 n=c4 v=0
+13700 Par ch=1 c=64 v=127
+13736 On ch=1 n=f3 v=0
+13804 On ch=1 n=c4 v=54
+13912 On ch=1 n=c4 v=0
+13924 On ch=1 n=c5 v=56
+13936 On ch=1 n=g#5 v=67
+14012 On ch=1 n=c5 v=0
+14044 On ch=1 n=c4 v=56
+14084 On ch=1 n=g#5 v=0
+14120 On ch=1 n=c4 v=0
+14156 On ch=1 n=c#5 v=56
+14176 On ch=1 n=a#5 v=73
+14212 Par ch=1 c=64 v=0
+14260 On ch=1 n=c#5 v=0
+14280 On ch=1 n=c4 v=57
+14296 On ch=1 n=a#5 v=0
+14392 Par ch=1 c=64 v=127
+14408 On ch=1 n=f3 v=57
+14424 On ch=1 n=c4 v=0
+14436 On ch=1 n=f3 v=0
+14524 On ch=1 n=c4 v=58
+14648 On ch=1 n=c6 v=73
+14648 On ch=1 n=c5 v=61
+14656 On ch=1 n=c4 v=0
+14756 On ch=1 n=c5 v=0
+14764 On ch=1 n=c4 v=62
+14812 On ch=1 n=c6 v=0
+14884 On ch=1 n=a#4 v=62
+14892 On ch=1 n=c4 v=0
+14900 On ch=1 n=c#6 v=79
+14932 Par ch=1 c=64 v=0
+14984 On ch=1 n=a#4 v=0
+15004 On ch=1 n=c4 v=64
+15032 On ch=1 n=c#6 v=0
+15128 On ch=1 n=f3 v=64
+15132 Par ch=1 c=64 v=127
+15136 On ch=1 n=c6 v=79
+15140 On ch=1 n=c4 v=0
+15188 On ch=1 n=f3 v=0
+15248 On ch=1 n=c4 v=65
+15272 On ch=1 n=c6 v=0
+15368 On ch=1 n=c4 v=0
+15368 On ch=1 n=g#4 v=66
+15380 On ch=1 n=g#6 v=79
+15472 On ch=1 n=g#4 v=0
+15480 On ch=1 n=c4 v=68
+15488 On ch=1 n=g#6 v=0
+15604 On ch=1 n=g6 v=84
+15604 On ch=1 n=a#4 v=68
+15616 On ch=1 n=c4 v=0
+15648 Par ch=1 c=64 v=0
+15712 On ch=1 n=a#4 v=0
+15716 On ch=1 n=c4 v=66
+15720 On ch=1 n=g6 v=0
+15808 On ch=1 n=c4 v=0
+15820 Par ch=1 c=64 v=127
+15844 On ch=1 n=f3 v=63
+15848 On ch=1 n=f6 v=83
+15960 On ch=1 n=f3 v=0
+15964 On ch=1 n=c4 v=66
+15992 On ch=1 n=f6 v=0
+16084 On ch=1 n=g#4 v=63
+16096 On ch=1 n=c6 v=76
+16104 On ch=1 n=c4 v=0
+16204 On ch=1 n=c4 v=64
+16208 On ch=1 n=g#4 v=0
+16240 On ch=1 n=c6 v=0
+16320 On ch=1 n=c4 v=0
+16324 On ch=1 n=c#6 v=79
+16324 On ch=1 n=a#4 v=61
+16348 Par ch=1 c=64 v=0
+16436 On ch=1 n=a#4 v=0
+16436 On ch=1 n=c4 v=62
+16464 On ch=1 n=c#6 v=0
+16508 Par ch=1 c=64 v=127
+16564 On ch=1 n=c6 v=83
+16568 On ch=1 n=f3 v=63
+16592 On ch=1 n=c4 v=0
+16644 On ch=1 n=f3 v=0
+16692 On ch=1 n=c4 v=67
+16704 On ch=1 n=c6 v=0
+16808 On ch=1 n=g#5 v=83
+16812 On ch=1 n=g#4 v=67
+16832 On ch=1 n=c4 v=0
+16916 On ch=1 n=g#4 v=0
+16924 On ch=1 n=c4 v=65
+16984 On ch=1 n=g#5 v=0
+17048 On ch=1 n=c5 v=71
+17060 On ch=1 n=c4 v=0
+17068 On ch=1 n=f5 v=79
+17088 Par ch=1 c=64 v=0
+17156 On ch=1 n=c5 v=0
+17164 On ch=1 n=c4 v=68
+17204 On ch=1 n=f5 v=0
+17232 On ch=1 n=c4 v=0
+17288 On ch=1 n=f3 v=75
+17304 On ch=1 n=c5 v=93
+17308 Par ch=1 c=64 v=127
+17408 On ch=1 n=f3 v=0
+17412 On ch=1 n=c4 v=69
+17532 On ch=1 n=g4 v=79
+17540 On ch=1 n=c4 v=0
+17640 On ch=1 n=g4 v=0
+17648 On ch=1 n=c4 v=73
+17768 On ch=1 n=g#4 v=76
+17776 On ch=1 n=c4 v=0
+17876 On ch=1 n=g#4 v=0
+17888 On ch=1 n=c4 v=63
+17964 Par ch=1 c=64 v=0
+18004 On ch=1 n=c4 v=0
+18008 On ch=1 n=f3 v=77
+18060 Par ch=1 c=64 v=127
+18132 On ch=1 n=f3 v=0
+18132 On ch=1 n=c4 v=77
+18248 On ch=1 n=a#4 v=75
+18276 On ch=1 n=c4 v=0
+18364 On ch=1 n=a#4 v=0
+18368 On ch=1 n=c4 v=72
+18448 On ch=1 n=c5 v=0
+18488 On ch=1 n=g4 v=70
+18492 On ch=1 n=c4 v=0
+18588 Par ch=1 c=64 v=0
+18604 On ch=1 n=g4 v=0
+18608 On ch=1 n=c4 v=69
+18700 On ch=1 n=c4 v=0
+18724 On ch=1 n=f3 v=51
+18828 Par ch=1 c=64 v=127
+18840 On ch=1 n=f3 v=0
+18848 On ch=1 n=c4 v=52
+18964 On ch=1 n=c4 v=0
+18968 On ch=1 n=g#4 v=53
+18972 On ch=1 n=f5 v=61
+19076 On ch=1 n=g#4 v=0
+19084 On ch=1 n=c4 v=56
+19132 On ch=1 n=f5 v=0
+19180 On ch=1 n=c4 v=0
+19204 On ch=1 n=a#4 v=57
+19208 On ch=1 n=g5 v=63
+19288 Par ch=1 c=64 v=0
+19316 On ch=1 n=c4 v=57
+19320 On ch=1 n=a#4 v=0
+19344 On ch=1 n=g5 v=0
+19448 On ch=1 n=f3 v=55
+19472 On ch=1 n=c4 v=0
+19472 Par ch=1 c=64 v=127
+19532 On ch=1 n=f3 v=0
+19568 On ch=1 n=c4 v=54
+19688 On ch=1 n=c5 v=52
+19696 On ch=1 n=c4 v=0
+19712 On ch=1 n=g#5 v=59
+19792 On ch=1 n=c5 v=0
+19804 On ch=1 n=c4 v=55
+19848 On ch=1 n=g#5 v=0
+19932 On ch=1 n=c#5 v=54
+19944 On ch=1 n=a#5 v=60
+19952 On ch=1 n=c4 v=0
+19992 Par ch=1 c=64 v=0
+20024 On ch=1 n=c#5 v=0
+20048 On ch=1 n=c4 v=57
+20068 On ch=1 n=a#5 v=0
+20160 On ch=1 n=f3 v=54
+20180 Par ch=1 c=64 v=127
+20200 On ch=1 n=c4 v=0
+20204 On ch=1 n=f3 v=0
+20288 On ch=1 n=c4 v=56
+20392 On ch=1 n=c4 v=0
+20408 On ch=1 n=c5 v=58
+20416 On ch=1 n=c6 v=62
+20500 On ch=1 n=c5 v=0
+20524 On ch=1 n=c4 v=58
+20560 On ch=1 n=c6 v=0
+20636 On ch=1 n=c4 v=0
+20644 On ch=1 n=c#6 v=65
+20644 On ch=1 n=a#4 v=60
+20688 Par ch=1 c=64 v=0
+20748 On ch=1 n=a#4 v=0
+20764 On ch=1 n=c4 v=62
+20784 On ch=1 n=c#6 v=0
+20868 Par ch=1 c=64 v=127
+20880 On ch=1 n=c6 v=71
+20888 On ch=1 n=f3 v=65
+20912 On ch=1 n=c4 v=0
+20968 On ch=1 n=f3 v=0
+21008 On ch=1 n=c6 v=0
+21008 On ch=1 n=c4 v=69
+21124 On ch=1 n=c4 v=0
+21128 On ch=1 n=g#4 v=69
+21136 On ch=1 n=c7 v=75
+21224 On ch=1 n=g#4 v=0
+21244 On ch=1 n=c4 v=69
+21260 On ch=1 n=c7 v=0
+21364 On ch=1 n=g#6 v=84
+21364 On ch=1 n=c5 v=72
+21368 On ch=1 n=c4 v=0
+21396 Par ch=1 c=64 v=0
+21476 On ch=1 n=c4 v=75
+21488 On ch=1 n=c5 v=0
+21488 On ch=1 n=g#6 v=0
+21556 On ch=1 n=c4 v=0
+21564 Par ch=1 c=64 v=127
+21596 On ch=1 n=g6 v=90
+21600 On ch=1 n=f3 v=75
+21704 On ch=1 n=f3 v=0
+21716 On ch=1 n=c4 v=79
+21736 On ch=1 n=g6 v=0
+21832 On ch=1 n=c6 v=90
+21844 On ch=1 n=a#4 v=79
+21852 On ch=1 n=c4 v=0
+21952 On ch=1 n=a#4 v=0
+21960 On ch=1 n=c4 v=76
+21976 On ch=1 n=c6 v=0
+22072 On ch=1 n=c#6 v=90
+22084 On ch=1 n=c4 v=0
+22084 On ch=1 n=g4 v=74
+22160 Par ch=1 c=64 v=0
+22204 On ch=1 n=c4 v=71
+22208 On ch=1 n=g4 v=0
+22212 On ch=1 n=c#6 v=0
+22296 Par ch=1 c=64 v=127
+22308 On ch=1 n=c6 v=86
+22328 On ch=1 n=f3 v=73
+22336 On ch=1 n=c4 v=0
+22428 On ch=1 n=f3 v=0
+22428 On ch=1 n=c6 v=0
+22448 On ch=1 n=c4 v=79
+22544 On ch=1 n=c4 v=0
+22548 On ch=1 n=g5 v=87
+22568 On ch=1 n=a#4 v=83
+22628 On ch=1 n=a#4 v=0
+22676 On ch=1 n=g5 v=0
+22684 On ch=1 n=c4 v=82
+22804 On ch=1 n=c5 v=89
+22808 On ch=1 n=g4 v=83
+22816 On ch=1 n=c4 v=0
+22892 Par ch=1 c=64 v=0
+22920 On ch=1 n=g4 v=0
+22924 On ch=1 n=c4 v=76
+22936 On ch=1 n=c5 v=0
+22988 On ch=1 n=c4 v=0
+23024 Par ch=1 c=64 v=127
+23048 On ch=1 n=f5 v=100
+23048 On ch=1 n=f3 v=79
+23152 On ch=1 n=f3 v=0
+23168 On ch=1 n=c4 v=82
+23288 On ch=1 n=g#4 v=73
+23304 On ch=1 n=c4 v=0
+23404 On ch=1 n=c4 v=79
+23412 On ch=1 n=g#4 v=0
+23524 On ch=1 n=c5 v=72
+23536 On ch=1 n=c4 v=0
+23640 On ch=1 n=c5 v=0
+23644 On ch=1 n=c4 v=77
+23692 Par ch=1 c=64 v=0
+23764 On ch=1 n=f3 v=77
+23772 Par ch=1 c=64 v=127
+23792 On ch=1 n=c4 v=0
+23836 On ch=1 n=f3 v=0
+23884 On ch=1 n=c4 v=76
+24004 On ch=1 n=g#4 v=70
+24024 On ch=1 n=c4 v=0
+24108 On ch=1 n=g#4 v=0
+24116 On ch=1 n=c4 v=70
+24204 On ch=1 n=f5 v=0
+24244 On ch=1 n=c5 v=65
+24252 On ch=1 n=c4 v=0
+24356 On ch=1 n=c5 v=0
+24356 On ch=1 n=c4 v=64
+24412 Par ch=1 c=64 v=0
+24428 On ch=1 n=c4 v=0
+24476 On ch=1 n=g#5 v=74
+24484 On ch=1 n=f3 v=57
+24540 Par ch=1 c=64 v=127
+24608 On ch=1 n=d4 v=57
+24620 On ch=1 n=f3 v=0
+24728 On ch=1 n=g#4 v=58
+24748 On ch=1 n=d4 v=0
+24840 On ch=1 n=g#4 v=0
+24848 On ch=1 n=d4 v=55
+24964 On ch=1 n=d4 v=0
+24968 On ch=1 n=a#4 v=56
+25084 On ch=1 n=a#4 v=0
+25088 On ch=1 n=d4 v=57
+25100 On ch=1 n=g#5 v=0
+25144 Par ch=1 c=64 v=0
+25160 On ch=1 n=a#5 v=67
+25188 On ch=1 n=g#5 v=75
+25208 On ch=1 n=f3 v=56
+25216 On ch=1 n=a#5 v=0
+25216 On ch=1 n=d4 v=0
+25224 Par ch=1 c=64 v=127
+25316 On ch=1 n=f3 v=0
+25328 On ch=1 n=a#3 v=56
+25444 On ch=1 n=g5 v=81
+25448 On ch=1 n=g#4 v=56
+25460 On ch=1 n=g#5 v=0
+25464 On ch=1 n=a#3 v=0
+25564 On ch=1 n=a#3 v=61
+25580 On ch=1 n=g#4 v=0
+25688 On ch=1 n=a#4 v=63
+25704 On ch=1 n=a#3 v=0
+25792 On ch=1 n=g#5 v=76
+25800 Par ch=1 c=64 v=0
+25804 On ch=1 n=a#3 v=64
+25816 On ch=1 n=a#4 v=0
+25828 On ch=1 n=g5 v=0
+25900 On ch=1 n=a#3 v=0
+25928 On ch=1 n=d#3 v=64
+25936 On ch=1 n=a#5 v=80
+25936 Par ch=1 c=64 v=127
+25956 On ch=1 n=g#5 v=0
+26048 On ch=1 n=a#3 v=65
+26056 On ch=1 n=d#3 v=0
+26164 On ch=1 n=a#3 v=0
+26168 On ch=1 n=f#4 v=69
+26276 On ch=1 n=f#4 v=0
+26284 On ch=1 n=a#3 v=69
+26412 On ch=1 n=a#4 v=70
+26428 On ch=1 n=a#3 v=0
+26496 On ch=1 n=a#4 v=0
+26528 On ch=1 n=a#3 v=76
+26560 Par ch=1 c=64 v=0
+26648 On ch=1 n=a#3 v=0
+26652 On ch=1 n=a#5 v=0
+26652 On ch=1 n=d#3 v=77
+26656 On ch=1 n=c6 v=89
+26680 Par ch=1 c=64 v=127
+26768 On ch=1 n=g#3 v=76
+26784 On ch=1 n=d#3 v=0
+26888 On ch=1 n=f#4 v=75
+26904 On ch=1 n=g#3 v=0
+26992 On ch=1 n=f#4 v=0
+27004 On ch=1 n=g#3 v=75
+27128 On ch=1 n=g#3 v=0
+27128 On ch=1 n=g#4 v=75
+27220 Par ch=1 c=64 v=0
+27240 On ch=1 n=g#4 v=0
+27244 On ch=1 n=g#3 v=77
+27332 On ch=1 n=g#3 v=0
+27360 On ch=1 n=c6 v=0
+27360 On ch=1 n=c#3 v=87
+27364 Par ch=1 c=64 v=127
+27396 On ch=1 n=c#6 v=91
+27476 On ch=1 n=c#3 v=0
+27480 On ch=1 n=g#3 v=87
+27508 On ch=1 n=c#6 v=0
+27608 On ch=1 n=f4 v=85
+27620 On ch=1 n=g#3 v=0
+27624 On ch=1 n=g#5 v=89
+27724 On ch=1 n=f4 v=0
+27724 On ch=1 n=g#3 v=89
+27740 On ch=1 n=g#5 v=0
+27836 On ch=1 n=g#3 v=0
+27844 On ch=1 n=g#4 v=87
+27848 On ch=1 n=a#5 v=87
+27856 Par ch=1 c=64 v=0
+27956 On ch=1 n=g#4 v=0
+27956 On ch=1 n=g#3 v=89
+27968 On ch=1 n=a#5 v=0
+28080 Par ch=1 c=64 v=127
+28088 On ch=1 n=c#3 v=89
+28092 On ch=1 n=g#5 v=85
+28116 On ch=1 n=g#3 v=0
+28192 On ch=1 n=c#3 v=0
+28208 On ch=1 n=g#3 v=83
+28216 On ch=1 n=g#5 v=0
+28324 On ch=1 n=f4 v=82
+28336 On ch=1 n=f5 v=88
+28348 On ch=1 n=g#3 v=0
+28424 On ch=1 n=f4 v=0
+28432 On ch=1 n=f5 v=0
+28444 On ch=1 n=g#3 v=84
+28532 Par ch=1 c=64 v=0
+28564 On ch=1 n=g#4 v=81
+28568 On ch=1 n=g#3 v=0
+28568 On ch=1 n=c#5 v=86
+28656 On ch=1 n=c#5 v=0
+28684 On ch=1 n=g#3 v=84
+28696 On ch=1 n=g#4 v=0
+28748 On ch=1 n=g#3 v=0
+28788 Par ch=1 c=64 v=127
+28800 On ch=1 n=c3 v=85
+28820 On ch=1 n=g#4 v=101
+28900 On ch=1 n=c3 v=0
+28920 On ch=1 n=g#3 v=82
+29048 On ch=1 n=g#3 v=0
+29048 On ch=1 n=f4 v=82
+29164 On ch=1 n=f4 v=0
+29168 On ch=1 n=g#3 v=82
+29252 On ch=1 n=g#4 v=0
+29268 On ch=1 n=g#3 v=0
+29288 On ch=1 n=g#4 v=82
+29364 Par ch=1 c=64 v=0
+29396 On ch=1 n=g#4 v=0
+29408 On ch=1 n=g#3 v=85
+29452 Par ch=1 c=64 v=127
+29524 On ch=1 n=g#3 v=0
+29528 On ch=1 n=c3 v=84
+29588 On ch=1 n=c3 v=0
+29648 On ch=1 n=g#3 v=80
+29764 On ch=1 n=g#3 v=0
+29764 On ch=1 n=f4 v=81
+29876 On ch=1 n=f4 v=0
+29876 On ch=1 n=g#3 v=77
+29984 Par ch=1 c=64 v=0
+29996 On ch=1 n=g#3 v=0
+30004 On ch=1 n=d#5 v=80
+30004 On ch=1 n=g#4 v=77
+30108 On ch=1 n=g#4 v=0
+30116 On ch=1 n=g#3 v=69
+30208 On ch=1 n=g#3 v=0
+30244 On ch=1 n=b2 v=66
+30248 On ch=1 n=d#6 v=76
+30256 On ch=1 n=d#5 v=0
+30256 Par ch=1 c=64 v=127
+30352 On ch=1 n=b2 v=0
+30364 On ch=1 n=f#3 v=63
+30488 On ch=1 n=d#4 v=66
+30500 On ch=1 n=f#3 v=0
+30560 On ch=1 n=d#4 v=0
+30596 On ch=1 n=f#3 v=66
+30728 On ch=1 n=f#3 v=0
+30728 On ch=1 n=f#4 v=66
+30808 Par ch=1 c=64 v=0
+30812 On ch=1 n=d#6 v=0
+30840 On ch=1 n=f#4 v=0
+30844 On ch=1 n=f#3 v=66
+30916 On ch=1 n=d#6 v=69
+30952 On ch=1 n=f6 v=69
+30952 Par ch=1 c=64 v=127
+30964 On ch=1 n=b2 v=64
+30968 On ch=1 n=d#6 v=0
+30980 On ch=1 n=f#3 v=0
+31016 On ch=1 n=d#6 v=72
+31028 On ch=1 n=f6 v=0
+31044 On ch=1 n=b2 v=0
+31084 On ch=1 n=f#3 v=64
+31200 On ch=1 n=f#3 v=0
+31204 On ch=1 n=d#4 v=66
+31232 On ch=1 n=d6 v=74
+31236 On ch=1 n=d#6 v=0
+31316 On ch=1 n=f#3 v=61
+31324 On ch=1 n=d#4 v=0
+31440 Par ch=1 c=64 v=0
+31444 On ch=1 n=f#4 v=60
+31448 On ch=1 n=f#3 v=0
+31452 On ch=1 n=d#6 v=78
+31476 On ch=1 n=d6 v=0
+31556 On ch=1 n=f#3 v=61
+31564 On ch=1 n=f#4 v=0
+31652 On ch=1 n=f#3 v=0
+31676 Par ch=1 c=64 v=127
+31680 On ch=1 n=b2 v=61
+31692 On ch=1 n=f6 v=82
+31720 On ch=1 n=d#6 v=0
+31800 On ch=1 n=g#3 v=64
+31804 On ch=1 n=b2 v=0
+31928 On ch=1 n=g#3 v=0
+31928 On ch=1 n=c#4 v=65
+32032 On ch=1 n=c#4 v=0
+32044 On ch=1 n=g#3 v=70
+32056 On ch=1 n=g#3 v=0
+32168 On ch=1 n=g#4 v=69
+32244 Par ch=1 c=64 v=0
+32284 On ch=1 n=g#3 v=69
+32304 On ch=1 n=g#4 v=0
+32344 On ch=1 n=g#3 v=0
+32392 Par ch=1 c=64 v=127
+32404 On ch=1 n=a#2 v=69
+32416 On ch=1 n=f#6 v=79
+32436 On ch=1 n=f6 v=0
+32524 On ch=1 n=f#3 v=68
+32528 On ch=1 n=a#2 v=0
+32620 On ch=1 n=f#3 v=0
+32644 On ch=1 n=c#4 v=65
+32764 On ch=1 n=f#3 v=64
+32772 On ch=1 n=c#4 v=0
+32884 On ch=1 n=f#3 v=0
+32888 On ch=1 n=f#4 v=65
+32988 Par ch=1 c=64 v=0
+32996 On ch=1 n=f#4 v=0
+33004 On ch=1 n=f#3 v=65
+33052 On ch=1 n=f#6 v=0
+33100 On ch=1 n=f#3 v=0
+33124 On ch=1 n=a#2 v=70
+33144 Par ch=1 c=64 v=127
+33248 On ch=1 n=f#3 v=71
+33252 On ch=1 n=a#2 v=0
+33352 On ch=1 n=f#3 v=0
+33352 On ch=1 n=c#6 v=74
+33368 On ch=1 n=c#4 v=73
+33488 On ch=1 n=f#3 v=70
+33504 On ch=1 n=c#6 v=0
+33512 On ch=1 n=c#4 v=0
+33596 On ch=1 n=d#6 v=75
+33612 On ch=1 n=f#4 v=69
+33632 On ch=1 n=f#3 v=0
+33696 On ch=1 n=f#4 v=0
+33704 Par ch=1 c=64 v=0
+33732 On ch=1 n=f#3 v=74
+33756 On ch=1 n=d#6 v=0
+33824 Par ch=1 c=64 v=127
+33840 On ch=1 n=c#6 v=78
+33852 On ch=1 n=a#2 v=73
+33856 On ch=1 n=f#3 v=0
+33952 On ch=1 n=a#2 v=0
+33964 On ch=1 n=c#6 v=0
+33972 On ch=1 n=f#3 v=77
+34072 On ch=1 n=a#5 v=78
+34080 On ch=1 n=c#4 v=77
+34084 On ch=1 n=f#3 v=0
+34192 On ch=1 n=c#4 v=0
+34204 On ch=1 n=a#5 v=0
+34212 On ch=1 n=f#3 v=78
+34308 On ch=1 n=f#5 v=78
+34328 On ch=1 n=f#3 v=0
+34332 On ch=1 n=f#4 v=78
+34376 Par ch=1 c=64 v=0
+34412 On ch=1 n=f#4 v=0
+34424 On ch=1 n=f#5 v=0
+34452 On ch=1 n=f#3 v=81
+34528 On ch=1 n=f#3 v=0
+34540 Par ch=1 c=64 v=127
+34564 On ch=1 n=c#5 v=84
+34568 On ch=1 n=g#2 v=83
+34688 On ch=1 n=g#2 v=0
+34688 On ch=1 n=f3 v=80
+34696 On ch=1 n=c#5 v=0
+34784 On ch=1 n=f3 v=0
+34804 On ch=1 n=c#6 v=85
+34808 On ch=1 n=c#4 v=82
+34904 On ch=1 n=c#4 v=0
+34924 On ch=1 n=f3 v=86
+34960 On ch=1 n=c#6 v=0
+35036 On ch=1 n=f3 v=0
+35048 On ch=1 n=f4 v=85
+35052 On ch=1 n=d#6 v=83
+35136 On ch=1 n=f4 v=0
+35148 Par ch=1 c=64 v=0
+35164 On ch=1 n=f3 v=85
+35176 On ch=1 n=d#6 v=0
+35268 On ch=1 n=c#6 v=84
+35268 Par ch=1 c=64 v=127
+35272 On ch=1 n=f3 v=0
+35292 On ch=1 n=g#2 v=85
+35364 On ch=1 n=g#2 v=0
+35408 On ch=1 n=e3 v=86
+35436 On ch=1 n=c#6 v=0
+35504 On ch=1 n=e3 v=0
+35524 On ch=1 n=g#5 v=87
+35524 On ch=1 n=c#4 v=89
+35596 On ch=1 n=c#4 v=0
+35644 On ch=1 n=e3 v=91
+35672 On ch=1 n=g#5 v=0
+35760 On ch=1 n=e5 v=92
+35764 On ch=1 n=e3 v=0
+35768 On ch=1 n=e4 v=88
+35848 On ch=1 n=e4 v=0
+35848 Par ch=1 c=64 v=0
+35876 On ch=1 n=e3 v=90
+35904 On ch=1 n=e5 v=0
+35940 On ch=1 n=e3 v=0
+35996 Par ch=1 c=64 v=127
+36004 On ch=1 n=c#5 v=98
+36004 On ch=1 n=g2 v=101
+36100 On ch=1 n=g2 v=0
+36128 On ch=1 n=e3 v=80
+36144 On ch=1 n=c#5 v=0
+36248 On ch=1 n=c#4 v=82
+36260 On ch=1 n=c#6 v=89
+36264 On ch=1 n=c#5 v=89
+36272 On ch=1 n=e3 v=0
+36352 On ch=1 n=c#4 v=0
+36364 On ch=1 n=e3 v=84
+36408 On ch=1 n=c#5 v=0
+36456 On ch=1 n=c#6 v=0
+36468 On ch=1 n=e3 v=0
+36484 On ch=1 n=e4 v=81
+36488 On ch=1 n=d#6 v=94
+36496 On ch=1 n=d#5 v=92
+36516 Par ch=1 c=64 v=0
+36572 On ch=1 n=e4 v=0
+36604 On ch=1 n=d#5 v=0
+36608 On ch=1 n=e3 v=80
+36648 On ch=1 n=d#6 v=0
+36696 On ch=1 n=e3 v=0
+36704 Par ch=1 c=64 v=127
+36724 On ch=1 n=a#2 v=97
+36832 On ch=1 n=a#2 v=0
+36844 On ch=1 n=g3 v=79
+36964 On ch=1 n=e6 v=92
+36968 On ch=1 n=e5 v=92
+36968 On ch=1 n=e4 v=79
+36976 On ch=1 n=g3 v=0
+37056 On ch=1 n=e5 v=0
+37072 On ch=1 n=e4 v=0
+37084 On ch=1 n=g3 v=80
+37144 On ch=1 n=e6 v=0
+37184 On ch=1 n=f#6 v=91
+37196 On ch=1 n=f#5 v=91
+37204 On ch=1 n=g4 v=79
+37216 On ch=1 n=g3 v=0
+37236 On ch=1 n=f#5 v=0
+37284 On ch=1 n=f#6 v=0
+37324 On ch=1 n=g3 v=82
+37324 Par ch=1 c=64 v=0
+37328 On ch=1 n=g4 v=0
+37412 On ch=1 n=g3 v=0
+37440 Par ch=1 c=64 v=127
+37444 On ch=1 n=b2 v=100
+37548 On ch=1 n=b2 v=0
+37564 On ch=1 n=g3 v=83
+37684 On ch=1 n=e4 v=87
+37692 On ch=1 n=g3 v=0
+37696 On ch=1 n=g5 v=95
+37696 On ch=1 n=g6 v=95
+37796 On ch=1 n=g3 v=80
+37804 On ch=1 n=e4 v=0
+37832 On ch=1 n=g5 v=0
+37892 On ch=1 n=g6 v=0
+37916 On ch=1 n=g3 v=0
+37924 On ch=1 n=a6 v=95
+37924 On ch=1 n=g4 v=88
+37928 On ch=1 n=a5 v=95
+38036 On ch=1 n=a5 v=0
+38036 On ch=1 n=g3 v=87
+38052 Par ch=1 c=64 v=0
+38056 On ch=1 n=g4 v=0
+38100 On ch=1 n=a6 v=0
+38128 On ch=1 n=g3 v=0
+38160 On ch=1 n=c3 v=103
+38184 Par ch=1 c=64 v=127
+38284 On ch=1 n=g3 v=81
+38292 On ch=1 n=c3 v=0
+38400 On ch=1 n=g3 v=0
+38404 On ch=1 n=e4 v=91
+38428 On ch=1 n=a#6 v=91
+38432 On ch=1 n=a#5 v=91
+38524 On ch=1 n=g3 v=80
+38532 On ch=1 n=e4 v=0
+38560 On ch=1 n=a#5 v=0
+38624 On ch=1 n=a#6 v=0
+38648 On ch=1 n=g4 v=89
+38660 On ch=1 n=g3 v=0
+38660 On ch=1 n=c7 v=95
+38664 On ch=1 n=c6 v=95
+38744 On ch=1 n=c6 v=0
+38752 On ch=1 n=c7 v=0
+38764 On ch=1 n=g3 v=82
+38780 On ch=1 n=g4 v=0
+38816 Par ch=1 c=64 v=0
+38856 On ch=1 n=g3 v=0
+38884 On ch=1 n=f3 v=101
+38900 On ch=1 n=c#7 v=93
+38904 On ch=1 n=c#6 v=93
+38916 Par ch=1 c=64 v=127
+38984 On ch=1 n=f3 v=0
+39008 On ch=1 n=c#4 v=79
+39040 On ch=1 n=c#6 v=0
+39108 On ch=1 n=c#7 v=0
+39124 On ch=1 n=a#4 v=83
+39136 On ch=1 n=d#7 v=93
+39136 On ch=1 n=d#6 v=93
+39148 On ch=1 n=c#4 v=0
+39248 On ch=1 n=c#4 v=80
+39252 On ch=1 n=d#6 v=0
+39256 On ch=1 n=a#4 v=0
+39264 On ch=1 n=d#7 v=0
+39352 Par ch=1 c=64 v=0
+39364 On ch=1 n=e7 v=94
+39368 On ch=1 n=g3 v=105
+39372 On ch=1 n=e6 v=94
+39424 On ch=1 n=c#4 v=0
+39432 Par ch=1 c=64 v=127
+39476 On ch=1 n=g3 v=0
+39488 On ch=1 n=e4 v=83
+39508 On ch=1 n=e6 v=0
+39568 On ch=1 n=e7 v=0
+39604 On ch=1 n=c#5 v=82
+39620 On ch=1 n=f#7 v=91
+39624 On ch=1 n=f#6 v=91
+39628 On ch=1 n=e4 v=0
+39720 On ch=1 n=f#6 v=0
+39724 On ch=1 n=c#5 v=0
+39724 On ch=1 n=e4 v=83
+39756 On ch=1 n=f#7 v=0
+39768 Par ch=1 c=64 v=0
+39820 On ch=1 n=e4 v=0
+39848 On ch=1 n=g6 v=90
+39848 On ch=1 n=a#3 v=105
+39856 On ch=1 n=g7 v=90
+39876 Par ch=1 c=64 v=127
+39948 On ch=1 n=a#3 v=0
+39968 On ch=1 n=g4 v=75
+40028 On ch=1 n=g6 v=0
+40044 On ch=1 n=g7 v=0
+40084 On ch=1 n=e5 v=86
+40100 On ch=1 n=g4 v=0
+40100 On ch=1 n=a6 v=94
+40104 On ch=1 n=a7 v=94
+40204 On ch=1 n=g4 v=80
+40208 On ch=1 n=e5 v=0
+40224 Par ch=1 c=64 v=0
+40228 On ch=1 n=a6 v=0
+40232 On ch=1 n=a7 v=0
+40292 On ch=1 n=g4 v=0
+40324 On ch=1 n=a#6 v=105
+40324 On ch=1 n=c#4 v=100
+40324 Par ch=1 c=64 v=127
+40328 On ch=1 n=a#7 v=105
+40388 On ch=1 n=a#6 v=0
+40412 On ch=1 n=a#7 v=0
+40432 On ch=1 n=c#4 v=0
+40444 On ch=1 n=c8 v=104
+40444 On ch=1 n=a#4 v=84
+40452 On ch=1 n=c7 v=104
+40496 On ch=1 n=c7 v=0
+40568 On ch=1 n=c#8 v=106
+40568 On ch=1 n=g5 v=71
+40572 On ch=1 n=c#7 v=106
+40588 On ch=1 n=a#4 v=0
+40604 On ch=1 n=c8 v=0
+40684 On ch=1 n=a#4 v=76
+40688 On ch=1 n=g5 v=0
+40732 Par ch=1 c=64 v=0
+40760 On ch=1 n=a#4 v=0
+40804 On ch=1 n=e4 v=97
+40844 Par ch=1 c=64 v=127
+40920 On ch=1 n=e4 v=0
+40924 On ch=1 n=c#5 v=84
+40948 On ch=1 n=c#8 v=0
+40976 On ch=1 n=c#7 v=0
+41032 On ch=1 n=c#5 v=0
+41048 On ch=1 n=a#5 v=89
+41168 On ch=1 n=c#5 v=75
+41192 On ch=1 n=a#5 v=0
+41284 On ch=1 n=c#5 v=0
+41288 On ch=1 n=a#5 v=77
+41408 On ch=1 n=c#5 v=83
+41420 On ch=1 n=a#5 v=0
+41524 On ch=1 n=a#5 v=74
+41528 On ch=1 n=c#5 v=0
+41544 Par ch=1 c=64 v=0
+41632 Par ch=1 c=64 v=127
+41644 On ch=1 n=c#5 v=84
+41660 On ch=1 n=a#5 v=0
+41692 On ch=1 n=c#5 v=0
+41760 On ch=1 n=c#6 v=90
+41760 On ch=1 n=c#7 v=90
+41764 On ch=1 n=c4 v=79
+41888 On ch=1 n=c4 v=0
+41888 On ch=1 n=c#6 v=0
+41888 On ch=1 n=g#4 v=76
+41900 On ch=1 n=c#7 v=0
+42000 On ch=1 n=c#7 v=92
+42000 On ch=1 n=c#6 v=92
+42008 On ch=1 n=f5 v=70
+42040 On ch=1 n=g#4 v=0
+42108 On ch=1 n=c#6 v=0
+42128 On ch=1 n=g#4 v=81
+42132 On ch=1 n=c#7 v=0
+42136 On ch=1 n=f5 v=0
+42240 On ch=1 n=c#7 v=90
+42240 On ch=1 n=c#6 v=90
+42248 On ch=1 n=g#5 v=70
+42288 On ch=1 n=g#4 v=0
+42296 Par ch=1 c=64 v=0
+42344 On ch=1 n=c#6 v=0
+42356 On ch=1 n=c#7 v=0
+42364 On ch=1 n=g#4 v=75
+42376 On ch=1 n=g#5 v=0
+42452 On ch=1 n=g#4 v=0
+42464 Par ch=1 c=64 v=127
+42480 On ch=1 n=c#7 v=92
+42480 On ch=1 n=c#6 v=92
+42488 On ch=1 n=c4 v=79
+42588 On ch=1 n=c4 v=0
+42604 On ch=1 n=g4 v=75
+42724 On ch=1 n=e5 v=70
+42732 On ch=1 n=g4 v=0
+42840 On ch=1 n=e5 v=0
+42844 On ch=1 n=g4 v=70
+42884 On ch=1 n=c#6 v=0
+42920 On ch=1 n=c#7 v=0
+42948 Par ch=1 c=64 v=0
+42960 On ch=1 n=c6 v=88
+42960 On ch=1 n=c7 v=88
+42964 On ch=1 n=g5 v=73
+42968 On ch=1 n=g4 v=0
+43032 On ch=1 n=c6 v=0
+43072 On ch=1 n=c7 v=0
+43084 On ch=1 n=g4 v=72
+43092 On ch=1 n=g5 v=0
+43184 On ch=1 n=g4 v=0
+43200 On ch=1 n=c4 v=59
+43200 On ch=1 n=c#6 v=71
+43232 Par ch=1 c=64 v=127
+43316 On ch=1 n=c#6 v=0
+43324 On ch=1 n=g#4 v=62
+43328 On ch=1 n=c4 v=0
+43440 On ch=1 n=c#6 v=70
+43444 On ch=1 n=g#4 v=0
+43444 On ch=1 n=f5 v=53
+43548 On ch=1 n=f5 v=0
+43560 On ch=1 n=g#4 v=58
+43564 On ch=1 n=c#6 v=0
+43680 On ch=1 n=c#6 v=70
+43684 On ch=1 n=g#4 v=0
+43684 On ch=1 n=g#5 v=59
+43688 Par ch=1 c=64 v=0
+43788 On ch=1 n=g#5 v=0
+43788 On ch=1 n=c#6 v=0
+43800 On ch=1 n=g#4 v=60
+43880 Par ch=1 c=64 v=127
+43920 On ch=1 n=c#6 v=70
+43932 On ch=1 n=c4 v=61
+43948 On ch=1 n=g#4 v=0
+43996 On ch=1 n=c4 v=0
+44048 On ch=1 n=g4 v=63
+44164 On ch=1 n=e5 v=53
+44180 On ch=1 n=g4 v=0
+44284 On ch=1 n=g4 v=54
+44296 On ch=1 n=e5 v=0
+44356 Par ch=1 c=64 v=0
+44396 On ch=1 n=g4 v=0
+44400 On ch=1 n=c6 v=66
+44404 On ch=1 n=g5 v=55
+44444 On ch=1 n=c#6 v=0
+44500 On ch=1 n=c6 v=0
+44516 On ch=1 n=g4 v=66
+44532 On ch=1 n=g5 v=0
+44608 On ch=1 n=g4 v=0
+44644 On ch=1 n=a#6 v=97
+44644 On ch=1 n=c4 v=86
+44648 On ch=1 n=a#5 v=97
+44648 Par ch=1 c=64 v=127
+44756 On ch=1 n=a#5 v=0
+44764 On ch=1 n=f4 v=73
+44768 On ch=1 n=c4 v=0
+44872 On ch=1 n=g#6 v=92
+44876 On ch=1 n=g#5 v=92
+44884 On ch=1 n=c#5 v=70
+44888 On ch=1 n=f4 v=0
+44896 On ch=1 n=a#6 v=0
+44976 On ch=1 n=c#5 v=0
+44984 On ch=1 n=g#5 v=0
+44996 On ch=1 n=f4 v=82
+45088 Par ch=1 c=64 v=0
+45104 On ch=1 n=a#6 v=92
+45112 On ch=1 n=a#5 v=92
+45124 On ch=1 n=f4 v=0
+45128 On ch=1 n=f5 v=69
+45156 On ch=1 n=g#6 v=0
+45196 On ch=1 n=a#5 v=0
+45236 On ch=1 n=f5 v=0
+45240 On ch=1 n=f4 v=73
+45312 Par ch=1 c=64 v=127
+45364 On ch=1 n=c6 v=92
+45364 On ch=1 n=c4 v=87
+45368 On ch=1 n=c7 v=92
+45396 On ch=1 n=a#6 v=0
+45408 On ch=1 n=f4 v=0
+45484 On ch=1 n=g4 v=84
+45496 On ch=1 n=c4 v=0
+45608 On ch=1 n=e5 v=69
+45628 On ch=1 n=g4 v=0
+45720 On ch=1 n=e5 v=0
+45724 On ch=1 n=g4 v=74
+45816 On ch=1 n=g4 v=0
+45824 On ch=1 n=c7 v=0
+45840 Par ch=1 c=64 v=0
+45848 On ch=1 n=g5 v=70
+45872 On ch=1 n=c6 v=0
+45956 On ch=1 n=g5 v=0
+45956 On ch=1 n=g4 v=70
+46032 On ch=1 n=g4 v=0
+46080 On ch=1 n=a#5 v=66
+46088 On ch=1 n=c4 v=63
+46108 Par ch=1 c=64 v=127
+46192 On ch=1 n=c4 v=0
+46212 On ch=1 n=f4 v=61
+46320 On ch=1 n=g#5 v=68
+46328 On ch=1 n=c#5 v=64
+46332 On ch=1 n=a#5 v=0
+46340 On ch=1 n=f4 v=0
+46436 On ch=1 n=c#5 v=0
+46448 On ch=1 n=f4 v=68
+46488 Par ch=1 c=64 v=0
+46556 On ch=1 n=a#5 v=69
+46568 On ch=1 n=f4 v=0
+46572 On ch=1 n=f5 v=66
+46584 On ch=1 n=g#5 v=0
+46660 On ch=1 n=f5 v=0
+46688 On ch=1 n=f4 v=64
+46804 On ch=1 n=a#5 v=0
+46808 On ch=1 n=c6 v=73
+46812 On ch=1 n=c4 v=62
+46824 Par ch=1 c=64 v=127
+46864 On ch=1 n=f4 v=0
+46908 On ch=1 n=c4 v=0
+46928 On ch=1 n=g4 v=62
+47032 On ch=1 n=g4 v=0
+47052 On ch=1 n=e5 v=62
+47156 On ch=1 n=e5 v=0
+47168 On ch=1 n=g4 v=64
+47280 On ch=1 n=g4 v=0
+47284 Par ch=1 c=64 v=0
+47288 On ch=1 n=g5 v=67
+47344 On ch=1 n=c6 v=0
+47404 On ch=1 n=g4 v=69
+47408 On ch=1 n=g5 v=0
+47472 On ch=1 n=g4 v=0
+47524 On ch=1 n=c4 v=86
+47528 Par ch=1 c=64 v=127
+47548 On ch=1 n=c#8 v=89
+47552 On ch=1 n=c#7 v=79
+47608 On ch=1 n=c#7 v=0
+47620 On ch=1 n=c#8 v=0
+47644 On ch=1 n=c4 v=0
+47644 On ch=1 n=g#4 v=69
+47700 On ch=1 n=c#8 v=90
+47708 On ch=1 n=c#7 v=80
+47752 On ch=1 n=c#7 v=0
+47752 On ch=1 n=g#4 v=0
+47760 On ch=1 n=c#8 v=0
+47764 On ch=1 n=f5 v=70
+47836 On ch=1 n=c#8 v=93
+47840 On ch=1 n=c#7 v=81
+47880 On ch=1 n=f5 v=0
+47880 On ch=1 n=g#4 v=68
+47884 On ch=1 n=c#7 v=0
+47888 On ch=1 n=c#8 v=0
+47964 On ch=1 n=c#8 v=90
+47968 On ch=1 n=c#7 v=80
+47968 Par ch=1 c=64 v=0
+48004 On ch=1 n=g#5 v=65
+48008 On ch=1 n=g#4 v=0
+48012 On ch=1 n=c#7 v=0
+48016 On ch=1 n=c#8 v=0
+48088 On ch=1 n=c#7 v=94
+48096 On ch=1 n=c#6 v=85
+48112 On ch=1 n=g#5 v=0
+48120 On ch=1 n=g#4 v=70
+48140 On ch=1 n=c#6 v=0
+48148 On ch=1 n=c#7 v=0
+48196 On ch=1 n=g#4 v=0
+48212 Par ch=1 c=64 v=127
+48244 On ch=1 n=c4 v=79
+48248 On ch=1 n=c#7 v=93
+48252 On ch=1 n=c#6 v=83
+48364 On ch=1 n=g4 v=67
+48372 On ch=1 n=c4 v=0
+48484 On ch=1 n=e5 v=71
+48488 On ch=1 n=g4 v=0
+48600 On ch=1 n=g4 v=70
+48608 On ch=1 n=e5 v=0
+48720 On ch=1 n=g4 v=0
+48720 On ch=1 n=c6 v=73
+48720 On ch=1 n=c7 v=83
+48724 On ch=1 n=g5 v=71
+48740 Par ch=1 c=64 v=0
+48748 On ch=1 n=c#7 v=0
+48772 On ch=1 n=c#6 v=0
+48816 On ch=1 n=c6 v=0
+48840 On ch=1 n=g5 v=0
+48844 On ch=1 n=g4 v=68
+48876 On ch=1 n=c7 v=0
+48920 On ch=1 n=g4 v=0
+48968 On ch=1 n=c4 v=64
+49004 Par ch=1 c=64 v=127
+49008 On ch=1 n=c#7 v=70
+49080 On ch=1 n=c4 v=0
+49084 On ch=1 n=c#7 v=0
+49084 On ch=1 n=g#4 v=52
+49148 On ch=1 n=c#7 v=68
+49204 On ch=1 n=g#4 v=0
+49208 On ch=1 n=f5 v=52
+49216 On ch=1 n=c#7 v=0
+49296 On ch=1 n=c#7 v=69
+49324 On ch=1 n=g#4 v=56
+49340 On ch=1 n=f5 v=0
+49364 On ch=1 n=c#7 v=0
+49436 On ch=1 n=c#7 v=72
+49448 On ch=1 n=g#5 v=55
+49456 On ch=1 n=g#4 v=0
+49496 Par ch=1 c=64 v=0
+49520 On ch=1 n=c#7 v=0
+49548 On ch=1 n=g#5 v=0
+49556 On ch=1 n=c#6 v=73
+49568 On ch=1 n=g#4 v=53
+49620 On ch=1 n=c#6 v=0
+49680 On ch=1 n=g#4 v=0
+49680 On ch=1 n=c4 v=61
+49704 On ch=1 n=c#6 v=74
+49792 On ch=1 n=c4 v=0
+49804 On ch=1 n=g4 v=55
+49804 Par ch=1 c=64 v=127
+49920 On ch=1 n=e5 v=52
+49948 On ch=1 n=g4 v=0
+50040 On ch=1 n=e5 v=0
+50052 On ch=1 n=g4 v=54
+50160 On ch=1 n=g5 v=53
+50164 On ch=1 n=c6 v=71
+50176 On ch=1 n=g4 v=0
+50192 On ch=1 n=c#6 v=0
+50252 Par ch=1 c=64 v=0
+50276 On ch=1 n=g5 v=0
+50280 On ch=1 n=c6 v=0
+50292 On ch=1 n=g4 v=67
+50360 On ch=1 n=g4 v=0
+50408 On ch=1 n=a#6 v=90
+50412 On ch=1 n=a#5 v=80
+50412 On ch=1 n=c4 v=81
+50424 Par ch=1 c=64 v=127
+50512 On ch=1 n=a#5 v=0
+50532 On ch=1 n=c4 v=0
+50532 On ch=1 n=f4 v=70
+50564 On ch=1 n=c7 v=91
+50576 On ch=1 n=a#6 v=0
+50576 On ch=1 n=c6 v=81
+50648 On ch=1 n=f4 v=0
+50652 On ch=1 n=c#5 v=73
+50680 On ch=1 n=c6 v=0
+50692 On ch=1 n=a#6 v=93
+50692 On ch=1 n=a#5 v=83
+50724 On ch=1 n=c7 v=0
+50744 On ch=1 n=c#5 v=0
+50768 On ch=1 n=f4 v=74
+50784 On ch=1 n=a#5 v=0
+50812 Par ch=1 c=64 v=0
+50824 On ch=1 n=g#5 v=82
+50828 On ch=1 n=g#6 v=90
+50852 On ch=1 n=a#6 v=0
+50884 On ch=1 n=f4 v=0
+50888 On ch=1 n=f5 v=72
+50920 On ch=1 n=g#5 v=0
+50960 On ch=1 n=a#5 v=81
+50964 On ch=1 n=a#6 v=91
+50988 On ch=1 n=f5 v=0
+51008 On ch=1 n=f4 v=73
+51012 On ch=1 n=g#6 v=0
+51056 On ch=1 n=a#5 v=0
+51092 On ch=1 n=a#6 v=0
+51112 On ch=1 n=c7 v=91
+51116 On ch=1 n=c6 v=81
+51128 On ch=1 n=c4 v=84
+51140 Par ch=1 c=64 v=127
+51184 On ch=1 n=f4 v=0
+51228 On ch=1 n=c4 v=0
+51244 On ch=1 n=g4 v=76
+51364 On ch=1 n=g4 v=0
+51364 On ch=1 n=e5 v=76
+51476 On ch=1 n=g4 v=73
+51480 On ch=1 n=e5 v=0
+51604 On ch=1 n=g5 v=70
+51612 On ch=1 n=g4 v=0
+51648 Par ch=1 c=64 v=0
+51656 On ch=1 n=c7 v=0
+51660 On ch=1 n=c6 v=0
+51724 On ch=1 n=g5 v=0
+51724 On ch=1 n=g4 v=71
+51808 On ch=1 n=g4 v=0
+51840 On ch=1 n=a#5 v=60
+51844 On ch=1 n=c4 v=59
+51912 Par ch=1 c=64 v=127
+51964 On ch=1 n=f4 v=58
+51968 On ch=1 n=c4 v=0
+52004 On ch=1 n=c6 v=65
+52008 On ch=1 n=a#5 v=0
+52076 On ch=1 n=f4 v=0
+52084 On ch=1 n=c#5 v=60
+52140 On ch=1 n=a#5 v=65
+52172 On ch=1 n=c6 v=0
+52184 On ch=1 n=c#5 v=0
+52196 On ch=1 n=f4 v=58
+52268 On ch=1 n=a#5 v=0
+52268 On ch=1 n=g#5 v=66
+52308 Par ch=1 c=64 v=0
+52324 On ch=1 n=f4 v=0
+52324 On ch=1 n=f5 v=58
+52396 On ch=1 n=a#5 v=60
+52420 On ch=1 n=f5 v=0
+52432 On ch=1 n=g#5 v=0
+52440 On ch=1 n=f4 v=57
+52536 On ch=1 n=a#5 v=0
+52544 On ch=1 n=c6 v=62
+52564 On ch=1 n=c4 v=56
+52604 Par ch=1 c=64 v=127
+52664 On ch=1 n=c4 v=0
+52688 On ch=1 n=g4 v=59
+52692 On ch=1 n=f4 v=0
+52800 On ch=1 n=g4 v=0
+52804 On ch=1 n=e5 v=51
+52916 On ch=1 n=e5 v=0
+52916 On ch=1 n=g4 v=54
+53036 On ch=1 n=g5 v=49
+53044 Par ch=1 c=64 v=0
+53048 On ch=1 n=g4 v=0
+53056 On ch=1 n=c6 v=0
+53156 On ch=1 n=g4 v=54
+53160 On ch=1 n=g5 v=0
+53220 On ch=1 n=g4 v=0
+53288 On ch=1 n=f3 v=51
+53328 Par ch=1 c=64 v=127
+53364 On ch=1 n=f3 v=0
+53408 On ch=1 n=c4 v=52
+53532 On ch=1 n=g#4 v=54
+53536 On ch=1 n=c4 v=0
+53544 On ch=1 n=f5 v=62
+53644 On ch=1 n=g#4 v=0
+53648 On ch=1 n=c4 v=54
+53676 On ch=1 n=f5 v=0
+53716 Par ch=1 c=64 v=0
+53768 On ch=1 n=a#4 v=55
+53780 On ch=1 n=c4 v=0
+53780 On ch=1 n=g5 v=63
+53888 On ch=1 n=a#4 v=0
+53888 On ch=1 n=c4 v=57
+53900 On ch=1 n=g5 v=0
+53992 Par ch=1 c=64 v=127
+54000 On ch=1 n=f3 v=55
+54052 On ch=1 n=f3 v=0
+54056 On ch=1 n=c4 v=0
+54128 On ch=1 n=c4 v=54
+54248 On ch=1 n=c5 v=55
+54256 On ch=1 n=g#5 v=60
+54260 On ch=1 n=c4 v=0
+54364 On ch=1 n=c5 v=0
+54368 On ch=1 n=c4 v=53
+54384 On ch=1 n=g#5 v=0
+54412 Par ch=1 c=64 v=0
+54460 On ch=1 n=c4 v=0
+54488 On ch=1 n=a#5 v=65
+54488 On ch=1 n=c#5 v=55
+54608 On ch=1 n=c4 v=55
+54612 On ch=1 n=c#5 v=0
+54616 On ch=1 n=a#5 v=0
+54676 Par ch=1 c=64 v=127
+54684 On ch=1 n=c4 v=0
+54728 On ch=1 n=f3 v=55
+54816 On ch=1 n=f3 v=0
+54848 On ch=1 n=c4 v=55
+54964 On ch=1 n=c6 v=73
+54968 On ch=1 n=c4 v=0
+54972 On ch=1 n=c5 v=55
+55060 On ch=1 n=c5 v=0
+55084 On ch=1 n=c4 v=59
+55124 Par ch=1 c=64 v=0
+55136 On ch=1 n=c6 v=0
+55164 On ch=1 n=c#6 v=68
+55192 On ch=1 n=c#6 v=0
+55192 On ch=1 n=d#6 v=76
+55204 On ch=1 n=a#4 v=61
+55216 On ch=1 n=c4 v=0
+55228 On ch=1 n=c#6 v=73
+55260 On ch=1 n=d#6 v=0
+55316 On ch=1 n=a#4 v=0
+55328 On ch=1 n=c4 v=63
+55380 Par ch=1 c=64 v=127
+55432 On ch=1 n=c6 v=76
+55444 On ch=1 n=c4 v=0
+55444 On ch=1 n=c#6 v=0
+55444 On ch=1 n=f3 v=64
+55528 On ch=1 n=f3 v=0
+55568 On ch=1 n=c4 v=63
+55632 On ch=1 n=c6 v=0
+55680 On ch=1 n=g#6 v=76
+55688 On ch=1 n=g#4 v=62
+55692 On ch=1 n=c4 v=0
+55788 On ch=1 n=g#4 v=0
+55800 On ch=1 n=g#6 v=0
+55804 On ch=1 n=c4 v=62
+55812 Par ch=1 c=64 v=0
+55916 On ch=1 n=c4 v=0
+55924 On ch=1 n=a#4 v=62
+55932 On ch=1 n=g6 v=82
+56032 On ch=1 n=a#4 v=0
+56044 On ch=1 n=g6 v=0
+56044 On ch=1 n=c4 v=66
+56092 Par ch=1 c=64 v=127
+56168 On ch=1 n=f3 v=76
+56172 On ch=1 n=f6 v=89
+56180 On ch=1 n=c4 v=0
+56248 On ch=1 n=f3 v=0
+56276 On ch=1 n=f6 v=0
+56284 On ch=1 n=c4 v=76
+56404 On ch=1 n=c6 v=90
+56404 On ch=1 n=g#4 v=76
+56408 On ch=1 n=c4 v=0
+56508 On ch=1 n=g#4 v=0
+56520 On ch=1 n=c4 v=77
+56528 On ch=1 n=c6 v=0
+56536 Par ch=1 c=64 v=0
+56568 On ch=1 n=c#6 v=87
+56600 On ch=1 n=d#6 v=87
+56612 On ch=1 n=c#6 v=0
+56628 On ch=1 n=c4 v=0
+56636 On ch=1 n=a#4 v=78
+56660 On ch=1 n=c#6 v=85
+56664 On ch=1 n=d#6 v=0
+56720 On ch=1 n=a#4 v=0
+56756 On ch=1 n=c4 v=75
+56824 On ch=1 n=c#6 v=0
+56832 Par ch=1 c=64 v=127
+56868 On ch=1 n=c6 v=86
+56872 On ch=1 n=c4 v=0
+56884 On ch=1 n=f3 v=77
+56952 On ch=1 n=f3 v=0
+56992 On ch=1 n=c6 v=0
+56996 On ch=1 n=c4 v=72
+57092 On ch=1 n=c4 v=0
+57120 On ch=1 n=g#4 v=78
+57132 On ch=1 n=g#5 v=84
+57196 On ch=1 n=g#4 v=0
+57232 On ch=1 n=c4 v=71
+57236 On ch=1 n=g#5 v=0
+57320 Par ch=1 c=64 v=0
+57344 On ch=1 n=c4 v=0
+57360 On ch=1 n=c5 v=78
+57372 On ch=1 n=f5 v=84
+57444 On ch=1 n=c5 v=0
+57476 On ch=1 n=c4 v=68
+57488 On ch=1 n=f5 v=0
+57552 On ch=1 n=c4 v=0
+57572 Par ch=1 c=64 v=127
+57600 On ch=1 n=f3 v=83
+57616 On ch=1 n=c5 v=99
+57728 On ch=1 n=c4 v=61
+57732 On ch=1 n=f3 v=0
+57844 On ch=1 n=g4 v=68
+57856 On ch=1 n=c4 v=0
+57964 On ch=1 n=c4 v=60
+57968 On ch=1 n=g4 v=0
+58084 On ch=1 n=g#4 v=76
+58092 On ch=1 n=c4 v=0
+58164 Par ch=1 c=64 v=0
+58196 On ch=1 n=c4 v=70
+58200 On ch=1 n=g#4 v=0
+58308 Par ch=1 c=64 v=127
+58320 On ch=1 n=f3 v=75
+58336 On ch=1 n=c4 v=0
+58416 On ch=1 n=f3 v=0
+58444 On ch=1 n=c4 v=62
+58536 On ch=1 n=c5 v=0
+58568 On ch=1 n=a#4 v=74
+58592 On ch=1 n=c4 v=0
+58672 On ch=1 n=a#4 v=0
+58688 On ch=1 n=c4 v=61
+58808 On ch=1 n=c4 v=0
+58808 On ch=1 n=g4 v=68
+58812 Par ch=1 c=64 v=0
+58928 On ch=1 n=c4 v=55
+58956 On ch=1 n=g4 v=0
+59024 On ch=1 n=c4 v=0
+59048 On ch=1 n=f3 v=59
+59060 Par ch=1 c=64 v=127
+59156 On ch=1 n=f3 v=0
+59168 On ch=1 n=c4 v=55
+59272 On ch=1 n=c4 v=0
+59288 On ch=1 n=g#4 v=55
+59292 On ch=1 n=f5 v=61
+59392 On ch=1 n=g#4 v=0
+59404 On ch=1 n=c4 v=56
+59428 On ch=1 n=f5 v=0
+59520 On ch=1 n=c4 v=0
+59524 On ch=1 n=a#4 v=60
+59532 On ch=1 n=g5 v=64
+59576 Par ch=1 c=64 v=0
+59640 On ch=1 n=a#4 v=0
+59640 On ch=1 n=c4 v=62
+59668 On ch=1 n=g5 v=0
+59760 Par ch=1 c=64 v=127
+59764 On ch=1 n=f3 v=61
+59800 On ch=1 n=c4 v=0
+59836 On ch=1 n=f3 v=0
+59880 On ch=1 n=c4 v=60
+60008 On ch=1 n=c5 v=59
+60012 On ch=1 n=c4 v=0
+60020 On ch=1 n=g#5 v=58
+60120 On ch=1 n=c5 v=0
+60124 On ch=1 n=c4 v=63
+60152 On ch=1 n=g#5 v=0
+60236 On ch=1 n=c4 v=0
+60244 On ch=1 n=c#5 v=59
+60252 Par ch=1 c=64 v=0
+60256 On ch=1 n=a#5 v=62
+60364 On ch=1 n=c4 v=57
+60368 On ch=1 n=c#5 v=0
+60384 On ch=1 n=a#5 v=0
+60472 Par ch=1 c=64 v=127
+60480 On ch=1 n=c4 v=0
+60488 On ch=1 n=f3 v=57
+60576 On ch=1 n=f3 v=0
+60604 On ch=1 n=c4 v=60
+60720 On ch=1 n=c4 v=0
+60724 On ch=1 n=c6 v=72
+60728 On ch=1 n=c5 v=60
+60840 On ch=1 n=c5 v=0
+60844 On ch=1 n=c4 v=62
+60904 On ch=1 n=c#6 v=65
+60916 On ch=1 n=c6 v=0
+60936 On ch=1 n=d#6 v=67
+60956 On ch=1 n=c#6 v=0
+60964 On ch=1 n=a#4 v=64
+60968 Par ch=1 c=64 v=0
+60976 On ch=1 n=c#6 v=76
+60980 On ch=1 n=c4 v=0
+61008 On ch=1 n=d#6 v=0
+61084 On ch=1 n=c4 v=66
+61092 On ch=1 n=a#4 v=0
+61176 Par ch=1 c=64 v=127
+61192 On ch=1 n=c6 v=76
+61208 On ch=1 n=f3 v=66
+61216 On ch=1 n=c#6 v=0
+61272 On ch=1 n=f3 v=0
+61272 On ch=1 n=c4 v=0
+61324 On ch=1 n=c4 v=66
+61352 On ch=1 n=c6 v=0
+61448 On ch=1 n=g#4 v=69
+61456 On ch=1 n=c7 v=72
+61464 On ch=1 n=c4 v=0
+61548 On ch=1 n=g#4 v=0
+61564 On ch=1 n=c4 v=71
+61584 On ch=1 n=c7 v=0
+61680 Par ch=1 c=64 v=0
+61688 On ch=1 n=c5 v=75
+61696 On ch=1 n=g#6 v=78
+61712 On ch=1 n=c4 v=0
+61788 On ch=1 n=c5 v=0
+61804 On ch=1 n=c4 v=77
+61844 On ch=1 n=g#6 v=0
+61892 On ch=1 n=c4 v=0
+61896 Par ch=1 c=64 v=127
+61920 On ch=1 n=g6 v=86
+61928 On ch=1 n=f3 v=79
+62016 On ch=1 n=f3 v=0
+62036 On ch=1 n=g6 v=0
+62048 On ch=1 n=c4 v=78
+62168 On ch=1 n=a#4 v=77
+62184 On ch=1 n=c6 v=85
+62200 On ch=1 n=c4 v=0
+62280 On ch=1 n=a#4 v=0
+62288 On ch=1 n=c4 v=79
+62308 On ch=1 n=c6 v=0
+62380 Par ch=1 c=64 v=0
+62404 On ch=1 n=c4 v=0
+62404 On ch=1 n=c#6 v=81
+62408 On ch=1 n=g4 v=75
+62524 On ch=1 n=g4 v=0
+62528 On ch=1 n=c#6 v=0
+62528 On ch=1 n=c4 v=78
+62596 Par ch=1 c=64 v=127
+62652 On ch=1 n=f3 v=81
+62660 On ch=1 n=c4 v=0
+62660 On ch=1 n=c6 v=81
+62748 On ch=1 n=f3 v=0
+62772 On ch=1 n=c4 v=80
+62776 On ch=1 n=c6 v=0
+62880 On ch=1 n=g5 v=83
+62888 On ch=1 n=a#4 v=77
+62920 On ch=1 n=c4 v=0
+62992 On ch=1 n=a#4 v=0
+62992 On ch=1 n=g5 v=0
+63008 On ch=1 n=c4 v=77
+63128 On ch=1 n=g4 v=78
+63136 On ch=1 n=c4 v=0
+63136 On ch=1 n=c5 v=82
+63156 Par ch=1 c=64 v=0
+63240 On ch=1 n=g4 v=0
+63244 On ch=1 n=c4 v=77
+63256 On ch=1 n=c5 v=0
+63336 Par ch=1 c=64 v=127
+63352 On ch=1 n=c4 v=0
+63364 On ch=1 n=f5 v=79
+63364 On ch=1 n=f3 v=83
+63472 On ch=1 n=f3 v=0
+63484 On ch=1 n=b3 v=79
+63488 On ch=1 n=g5 v=82
+63504 On ch=1 n=f5 v=0
+63608 On ch=1 n=g#4 v=87
+63628 On ch=1 n=b3 v=0
+63628 On ch=1 n=g#5 v=95
+63636 On ch=1 n=g5 v=0
+63720 On ch=1 n=g#4 v=0
+63724 On ch=1 n=b3 v=76
+63804 On ch=1 n=b3 v=0
+63848 On ch=1 n=c#5 v=93
+63908 On ch=1 n=c#5 v=0
+63964 On ch=1 n=b3 v=84
+63968 Par ch=1 c=64 v=0
+64080 Par ch=1 c=64 v=127
+64084 On ch=1 n=f3 v=90
+64120 On ch=1 n=b3 v=0
+64168 On ch=1 n=f3 v=0
+64204 On ch=1 n=b3 v=77
+64328 On ch=1 n=g#4 v=85
+64336 On ch=1 n=b3 v=0
+64408 On ch=1 n=g#4 v=0
+64448 On ch=1 n=b3 v=79
+64452 On ch=1 n=g#5 v=0
+64512 On ch=1 n=b3 v=0
+64568 On ch=1 n=c#5 v=81
+64624 On ch=1 n=c#5 v=0
+64684 On ch=1 n=b3 v=73
+64708 Par ch=1 c=64 v=0
+64744 On ch=1 n=b3 v=0
+64812 On ch=1 n=f3 v=66
+64820 Par ch=1 c=64 v=127
+64908 On ch=1 n=f3 v=0
+64932 On ch=1 n=c4 v=72
+65040 On ch=1 n=g#4 v=73
+65056 On ch=1 n=f6 v=69
+65064 On ch=1 n=f5 v=64
+65084 On ch=1 n=c4 v=0
+65136 On ch=1 n=g#4 v=0
+65172 On ch=1 n=c4 v=75
+65204 On ch=1 n=f5 v=0
+65264 On ch=1 n=f6 v=0
+65276 On ch=1 n=c4 v=0
+65288 On ch=1 n=a#4 v=73
+65300 On ch=1 n=g6 v=70
+65300 On ch=1 n=g5 v=65
+65396 On ch=1 n=a#4 v=0
+65404 On ch=1 n=c4 v=76
+65416 Par ch=1 c=64 v=0
+65432 On ch=1 n=g5 v=0
+65496 On ch=1 n=g6 v=0
+65528 On ch=1 n=f3 v=73
+65532 Par ch=1 c=64 v=127
+65584 On ch=1 n=c4 v=0
+65600 On ch=1 n=f3 v=0
+65648 On ch=1 n=c4 v=73
+65768 On ch=1 n=c5 v=76
+65772 On ch=1 n=c4 v=0
+65788 On ch=1 n=g#6 v=73
+65788 On ch=1 n=g#5 v=68
+65860 On ch=1 n=c5 v=0
+65884 On ch=1 n=c4 v=75
+65924 On ch=1 n=g#5 v=0
+65952 On ch=1 n=g#6 v=0
+65996 On ch=1 n=a#6 v=75
+66000 On ch=1 n=c4 v=0
+66004 On ch=1 n=a#5 v=70
+66004 On ch=1 n=c#5 v=75
+66100 Par ch=1 c=64 v=0
+66104 On ch=1 n=c#5 v=0
+66124 On ch=1 n=a#5 v=0
+66124 On ch=1 n=c4 v=75
+66144 On ch=1 n=a#6 v=0
+66224 Par ch=1 c=64 v=127
+66248 On ch=1 n=f3 v=73
+66280 On ch=1 n=c4 v=0
+66296 On ch=1 n=f3 v=0
+66364 On ch=1 n=c4 v=80
+66484 On ch=1 n=c5 v=84
+66492 On ch=1 n=c6 v=65
+66492 On ch=1 n=c7 v=71
+66500 On ch=1 n=c4 v=0
+66572 On ch=1 n=c6 v=0
+66584 On ch=1 n=c5 v=0
+66596 On ch=1 n=c4 v=84
+66656 On ch=1 n=c7 v=0
+66724 On ch=1 n=c#7 v=74
+66724 On ch=1 n=a#4 v=89
+66728 On ch=1 n=c#6 v=69
+66740 On ch=1 n=c4 v=0
+66812 On ch=1 n=c#6 v=0
+66836 On ch=1 n=c4 v=82
+66848 On ch=1 n=a#4 v=0
+66860 On ch=1 n=c#7 v=0
+66868 Par ch=1 c=64 v=0
+66952 On ch=1 n=c7 v=78
+66952 Par ch=1 c=64 v=127
+66956 On ch=1 n=c6 v=73
+66964 On ch=1 n=f3 v=82
+66992 On ch=1 n=c4 v=0
+67008 On ch=1 n=c6 v=0
+67040 On ch=1 n=c7 v=0
+67044 On ch=1 n=f3 v=0
+67084 On ch=1 n=c4 v=83
+67188 On ch=1 n=g#7 v=78
+67196 On ch=1 n=g#6 v=73
+67208 On ch=1 n=c4 v=0
+67208 On ch=1 n=g#4 v=87
+67324 On ch=1 n=g#4 v=0
+67324 On ch=1 n=c4 v=85
+67328 On ch=1 n=g#6 v=0
+67356 On ch=1 n=g#7 v=0
+67428 On ch=1 n=g6 v=81
+67432 On ch=1 n=g7 v=86
+67448 On ch=1 n=a#4 v=86
+67452 On ch=1 n=c4 v=0
+67520 On ch=1 n=g6 v=0
+67528 Par ch=1 c=64 v=0
+67544 On ch=1 n=g7 v=0
+67564 On ch=1 n=c4 v=89
+67568 On ch=1 n=a#4 v=0
+67624 Par ch=1 c=64 v=127
+67660 On ch=1 n=f7 v=88
+67668 On ch=1 n=f6 v=84
+67692 On ch=1 n=f3 v=90
+67732 On ch=1 n=c4 v=0
+67752 On ch=1 n=f6 v=0
+67764 On ch=1 n=f3 v=0
+67764 On ch=1 n=f7 v=0
+67808 On ch=1 n=c4 v=87
+67916 On ch=1 n=c7 v=90
+67920 On ch=1 n=c6 v=84
+67932 On ch=1 n=g#4 v=86
+67944 On ch=1 n=c4 v=0
+68040 On ch=1 n=c6 v=0
+68048 On ch=1 n=c4 v=86
+68052 On ch=1 n=g#4 v=0
+68076 On ch=1 n=c7 v=0
+68168 On ch=1 n=a#4 v=85
+68172 On ch=1 n=c#6 v=87
+68172 On ch=1 n=c#7 v=92
+68176 On ch=1 n=c4 v=0
+68228 Par ch=1 c=64 v=0
+68284 On ch=1 n=c4 v=84
+68300 On ch=1 n=a#4 v=0
+68316 On ch=1 n=c#6 v=0
+68336 On ch=1 n=c#7 v=0
+68336 Par ch=1 c=64 v=127
+68408 On ch=1 n=f3 v=83
+68420 On ch=1 n=c7 v=91
+68424 On ch=1 n=c6 v=86
+68440 On ch=1 n=c4 v=0
+68484 On ch=1 n=f3 v=0
+68512 On ch=1 n=c6 v=0
+68512 On ch=1 n=c7 v=0
+68532 On ch=1 n=c4 v=88
+68628 On ch=1 n=c4 v=0
+68648 On ch=1 n=g#6 v=91
+68648 On ch=1 n=g#4 v=86
+68652 On ch=1 n=g#5 v=85
+68752 On ch=1 n=g#4 v=0
+68764 On ch=1 n=c4 v=87
+68768 On ch=1 n=g#6 v=0
+68772 On ch=1 n=g#5 v=0
+68892 On ch=1 n=c5 v=83
+68896 On ch=1 n=c4 v=0
+68896 On ch=1 n=f6 v=91
+68908 On ch=1 n=f5 v=85
+68960 Par ch=1 c=64 v=0
+69004 On ch=1 n=c5 v=0
+69008 On ch=1 n=f5 v=0
+69008 On ch=1 n=f6 v=0
+69008 On ch=1 n=c4 v=84
+69072 Par ch=1 c=64 v=127
+69088 On ch=1 n=c4 v=0
+69128 On ch=1 n=f3 v=87
+69140 On ch=1 n=c6 v=97
+69148 On ch=1 n=c5 v=92
+69240 On ch=1 n=f3 v=0
+69248 On ch=1 n=c4 v=86
+69360 On ch=1 n=c4 v=0
+69364 On ch=1 n=g4 v=89
+69476 On ch=1 n=g4 v=0
+69484 On ch=1 n=c4 v=89
+69604 On ch=1 n=g#4 v=87
+69608 On ch=1 n=c4 v=0
+69700 On ch=1 n=g#4 v=0
+69724 On ch=1 n=c4 v=86
+69744 Par ch=1 c=64 v=0
+69816 On ch=1 n=c4 v=0
+69828 Par ch=1 c=64 v=127
+69840 On ch=1 n=f3 v=80
+69940 On ch=1 n=f3 v=0
+69964 On ch=1 n=c4 v=78
+70084 On ch=1 n=a#4 v=79
+70096 On ch=1 n=c4 v=0
+70192 On ch=1 n=a#4 v=0
+70196 On ch=1 n=c4 v=77
+70308 On ch=1 n=c5 v=0
+70316 On ch=1 n=c4 v=0
+70316 On ch=1 n=g4 v=79
+70324 On ch=1 n=c6 v=0
+70424 Par ch=1 c=64 v=0
+70436 On ch=1 n=c4 v=75
+70460 On ch=1 n=g4 v=0
+70524 On ch=1 n=c4 v=0
+70564 On ch=1 n=f3 v=62
+70612 Par ch=1 c=64 v=127
+70664 On ch=1 n=f3 v=0
+70688 On ch=1 n=c4 v=58
+70808 On ch=1 n=a4 v=59
+70816 On ch=1 n=c4 v=0
+70816 On ch=1 n=f6 v=67
+70820 On ch=1 n=f5 v=67
+70904 On ch=1 n=a4 v=0
+70920 On ch=1 n=c4 v=62
+70952 On ch=1 n=f5 v=0
+71004 On ch=1 n=f6 v=0
+71044 On ch=1 n=a#4 v=62
+71048 On ch=1 n=c4 v=0
+71056 On ch=1 n=g6 v=68
+71060 On ch=1 n=g5 v=68
+71148 On ch=1 n=a#4 v=0
+71156 On ch=1 n=c4 v=62
+71188 On ch=1 n=g5 v=0
+71188 Par ch=1 c=64 v=0
+71236 On ch=1 n=g6 v=0
+71284 On ch=1 n=f3 v=64
+71304 Par ch=1 c=64 v=127
+71324 On ch=1 n=c4 v=0
+71352 On ch=1 n=f3 v=0
+71396 On ch=1 n=c4 v=65
+71516 On ch=1 n=a6 v=74
+71520 On ch=1 n=a5 v=73
+71524 On ch=1 n=c5 v=66
+71544 On ch=1 n=c4 v=0
+71620 On ch=1 n=c5 v=0
+71620 On ch=1 n=a5 v=0
+71636 On ch=1 n=c4 v=67
+71744 On ch=1 n=a#6 v=77
+71748 On ch=1 n=a6 v=0
+71760 On ch=1 n=a#5 v=74
+71764 On ch=1 n=c#5 v=72
+71768 On ch=1 n=c4 v=0
+71852 On ch=1 n=a#5 v=0
+71872 On ch=1 n=c#5 v=0
+71872 On ch=1 n=a#6 v=0
+71876 On ch=1 n=c4 v=71
+71928 Par ch=1 c=64 v=0
+71952 On ch=1 n=c4 v=0
+71984 Par ch=1 c=64 v=127
+72000 On ch=1 n=f3 v=77
+72044 On ch=1 n=f3 v=0
+72120 On ch=1 n=f#4 v=75
+72236 On ch=1 n=c6 v=83
+72236 On ch=1 n=c7 v=83
+72248 On ch=1 n=d#5 v=73
+72256 On ch=1 n=f#4 v=0
+72324 On ch=1 n=d#5 v=0
+72356 On ch=1 n=c6 v=0
+72364 On ch=1 n=f#4 v=72
+72472 On ch=1 n=c#7 v=85
+72480 On ch=1 n=c#6 v=85
+72484 On ch=1 n=f#4 v=0
+72484 On ch=1 n=f5 v=75
+72512 On ch=1 n=c7 v=0
+72576 On ch=1 n=c#6 v=0
+72584 On ch=1 n=f5 v=0
+72596 On ch=1 n=f#4 v=73
+72624 Par ch=1 c=64 v=0
+72664 On ch=1 n=f#4 v=0
+72688 Par ch=1 c=64 v=127
+72720 On ch=1 n=d#6 v=89
+72724 On ch=1 n=d#7 v=99
+72724 On ch=1 n=f3 v=76
+72752 On ch=1 n=c#7 v=0
+72764 On ch=1 n=f3 v=0
+72844 On ch=1 n=f#4 v=74
+72952 On ch=1 n=f#4 v=0
+72964 On ch=1 n=f#5 v=74
+73084 On ch=1 n=f#4 v=69
+73088 On ch=1 n=f#5 v=0
+73156 On ch=1 n=d#6 v=0
+73176 On ch=1 n=d#7 v=0
+73196 On ch=1 n=f#4 v=0
+73204 On ch=1 n=f#5 v=67
+73308 On ch=1 n=f#5 v=0
+73312 On ch=1 n=f#4 v=65
+73388 On ch=1 n=f#4 v=0
+73396 Par ch=1 c=64 v=0
+73444 On ch=1 n=f3 v=54
+73512 Par ch=1 c=64 v=127
+73548 On ch=1 n=f3 v=0
+73564 On ch=1 n=d4 v=59
+73684 On ch=1 n=g#4 v=61
+73692 On ch=1 n=d4 v=0
+73696 On ch=1 n=b5 v=63
+73700 On ch=1 n=b6 v=63
+73808 On ch=1 n=d4 v=65
+73820 On ch=1 n=g#4 v=0
+73832 On ch=1 n=b5 v=0
+73916 On ch=1 n=b6 v=0
+73928 On ch=1 n=a4 v=66
+73936 On ch=1 n=c6 v=69
+73936 On ch=1 n=c7 v=69
+73940 On ch=1 n=d4 v=0
+74048 On ch=1 n=d4 v=68
+74052 On ch=1 n=a4 v=0
+74064 On ch=1 n=c6 v=0
+74100 Par ch=1 c=64 v=0
+74112 On ch=1 n=c7 v=0
+74168 On ch=1 n=f3 v=69
+74184 On ch=1 n=d4 v=0
+74200 Par ch=1 c=64 v=127
+74252 On ch=1 n=f3 v=0
+74288 On ch=1 n=d4 v=71
+74408 On ch=1 n=b4 v=77
+74420 On ch=1 n=d4 v=0
+74432 On ch=1 n=d7 v=78
+74436 On ch=1 n=d6 v=78
+74520 On ch=1 n=b4 v=0
+74524 On ch=1 n=d4 v=81
+74560 On ch=1 n=d6 v=0
+74620 On ch=1 n=d7 v=0
+74644 On ch=1 n=c#5 v=84
+74652 On ch=1 n=e7 v=84
+74660 On ch=1 n=e6 v=84
+74672 On ch=1 n=d4 v=0
+74764 On ch=1 n=d4 v=86
+74772 On ch=1 n=e6 v=0
+74780 On ch=1 n=c#5 v=0
+74812 Par ch=1 c=64 v=0
+74824 On ch=1 n=e7 v=0
+74868 On ch=1 n=d4 v=0
+74868 Par ch=1 c=64 v=127
+74888 On ch=1 n=f3 v=89
+74984 On ch=1 n=f3 v=0
+75008 On ch=1 n=d4 v=86
+75064 On ch=1 n=d4 v=0
+75128 On ch=1 n=d5 v=91
+75152 On ch=1 n=f6 v=76
+75156 On ch=1 n=f7 v=91
+75224 On ch=1 n=d5 v=0
+75248 On ch=1 n=d4 v=89
+75256 On ch=1 n=f6 v=0
+75340 On ch=1 n=d4 v=0
+75368 On ch=1 n=e5 v=89
+75372 On ch=1 n=g7 v=92
+75376 On ch=1 n=g6 v=95
+75416 Par ch=1 c=64 v=0
+75424 On ch=1 n=f7 v=0
+75452 On ch=1 n=e5 v=0
+75460 On ch=1 n=g6 v=0
+75488 On ch=1 n=d4 v=79
+75540 On ch=1 n=d4 v=0
+75568 Par ch=1 c=64 v=127
+75604 On ch=1 n=f3 v=92
+75616 On ch=1 n=g#7 v=97
+75616 On ch=1 n=g#6 v=97
+75648 On ch=1 n=f3 v=0
+75652 On ch=1 n=g7 v=0
+75724 On ch=1 n=d4 v=79
+75796 On ch=1 n=d4 v=0
+75848 On ch=1 n=f5 v=81
+75912 On ch=1 n=f5 v=0
+75968 On ch=1 n=d4 v=80
+76028 On ch=1 n=d4 v=0
+76048 On ch=1 n=g#6 v=0
+76056 On ch=1 n=g#7 v=0
+76084 On ch=1 n=f5 v=80
+76136 On ch=1 n=f5 v=0
+76204 On ch=1 n=d4 v=77
+76256 On ch=1 n=d4 v=0
+76300 Par ch=1 c=64 v=0
+76328 On ch=1 n=f3 v=56
+76384 Par ch=1 c=64 v=127
+76424 On ch=1 n=f3 v=0
+76448 On ch=1 n=c#4 v=55
+76536 On ch=1 n=c#4 v=0
+76564 On ch=1 n=a#4 v=56
+76572 On ch=1 n=e5 v=63
+76576 On ch=1 n=e6 v=64
+76684 On ch=1 n=c#4 v=60
+76688 On ch=1 n=e5 v=0
+76692 On ch=1 n=a#4 v=0
+76804 On ch=1 n=c#5 v=59
+76808 On ch=1 n=c#4 v=0
+76812 On ch=1 n=f5 v=64
+76816 On ch=1 n=f6 v=64
+76832 On ch=1 n=e6 v=0
+76892 On ch=1 n=f5 v=0
+76912 On ch=1 n=c#5 v=0
+76928 On ch=1 n=c#4 v=59
+76988 Par ch=1 c=64 v=0
+77040 On ch=1 n=f6 v=0
+77048 On ch=1 n=f3 v=63
+77060 On ch=1 n=c#4 v=0
+77060 On ch=1 n=g#5 v=67
+77060 On ch=1 n=g#6 v=67
+77100 Par ch=1 c=64 v=127
+77112 On ch=1 n=f3 v=0
+77168 On ch=1 n=c#4 v=64
+77196 On ch=1 n=g#5 v=0
+77244 On ch=1 n=g#6 v=0
+77288 On ch=1 n=c#4 v=0
+77288 On ch=1 n=a#4 v=62
+77292 On ch=1 n=g6 v=70
+77304 On ch=1 n=g5 v=69
+77400 On ch=1 n=g5 v=0
+77408 On ch=1 n=c#4 v=64
+77416 On ch=1 n=a#4 v=0
+77528 On ch=1 n=c#5 v=67
+77532 On ch=1 n=c#4 v=0
+77548 On ch=1 n=g#5 v=67
+77552 On ch=1 n=g#6 v=67
+77572 On ch=1 n=g6 v=0
+77612 On ch=1 n=c#5 v=0
+77628 On ch=1 n=g#5 v=0
+77636 Par ch=1 c=64 v=0
+77644 On ch=1 n=c#4 v=69
+77744 On ch=1 n=g#6 v=0
+77768 On ch=1 n=f3 v=70
+77772 Par ch=1 c=64 v=127
+77776 On ch=1 n=c6 v=71
+77784 On ch=1 n=c#4 v=0
+77784 On ch=1 n=c7 v=71
+77856 On ch=1 n=c6 v=0
+77856 On ch=1 n=f3 v=0
+77888 On ch=1 n=c#4 v=72
+78000 On ch=1 n=c#4 v=0
+78000 On ch=1 n=c7 v=0
+78008 On ch=1 n=a#4 v=73
+78016 On ch=1 n=a#5 v=71
+78024 On ch=1 n=a#6 v=71
+78100 On ch=1 n=a#5 v=0
+78116 On ch=1 n=a#4 v=0
+78124 On ch=1 n=c#4 v=72
+78232 On ch=1 n=c#4 v=0
+78244 On ch=1 n=a#6 v=0
+78244 On ch=1 n=c#5 v=74
+78252 On ch=1 n=c7 v=76
+78256 On ch=1 n=c6 v=76
+78320 On ch=1 n=c6 v=0
+78332 On ch=1 n=c#5 v=0
+78356 On ch=1 n=c#4 v=77
+78376 Par ch=1 c=64 v=0
+78480 Par ch=1 c=64 v=127
+78484 On ch=1 n=c#4 v=0
+78488 On ch=1 n=f3 v=77
+78492 On ch=1 n=d#6 v=76
+78496 On ch=1 n=d#7 v=76
+78520 On ch=1 n=c7 v=0
+78568 On ch=1 n=d#6 v=0
+78572 On ch=1 n=f3 v=0
+78608 On ch=1 n=c#4 v=74
+78696 On ch=1 n=d#7 v=0
+78708 On ch=1 n=c#4 v=0
+78728 On ch=1 n=a#4 v=77
+78736 On ch=1 n=c#6 v=80
+78740 On ch=1 n=c#7 v=80
+78824 On ch=1 n=c#6 v=0
+78844 On ch=1 n=c#4 v=75
+78848 On ch=1 n=a#4 v=0
+78952 On ch=1 n=d#7 v=82
+78956 On ch=1 n=c#4 v=0
+78960 On ch=1 n=d#6 v=81
+78964 On ch=1 n=c#7 v=0
+78968 On ch=1 n=c#5 v=78
+79048 On ch=1 n=d#6 v=0
+79072 Par ch=1 c=64 v=0
+79084 On ch=1 n=c#4 v=78
+79092 On ch=1 n=c#5 v=0
+79156 On ch=1 n=d#7 v=0
+79176 On ch=1 n=c#4 v=0
+79188 Par ch=1 c=64 v=127
+79208 On ch=1 n=f3 v=80
+79216 On ch=1 n=f7 v=84
+79220 On ch=1 n=f6 v=84
+79284 On ch=1 n=f6 v=0
+79308 On ch=1 n=f3 v=0
+79324 On ch=1 n=c#4 v=81
+79400 On ch=1 n=f7 v=0
+79428 On ch=1 n=e7 v=86
+79432 On ch=1 n=c#4 v=0
+79436 On ch=1 n=e6 v=86
+79444 On ch=1 n=a#4 v=78
+79528 On ch=1 n=e6 v=0
+79560 On ch=1 n=c#4 v=81
+79568 On ch=1 n=a#4 v=0
+79660 On ch=1 n=e7 v=0
+79672 On ch=1 n=f7 v=87
+79676 On ch=1 n=f6 v=87
+79684 On ch=1 n=c#4 v=0
+79684 On ch=1 n=c#5 v=78
+79728 On ch=1 n=f6 v=0
+79772 On ch=1 n=c#5 v=0
+79796 On ch=1 n=c#4 v=81
+79808 Par ch=1 c=64 v=0
+79900 On ch=1 n=f7 v=0
+79912 Par ch=1 c=64 v=127
+79924 On ch=1 n=g#7 v=87
+79924 On ch=1 n=f3 v=85
+79936 On ch=1 n=g#6 v=87
+79940 On ch=1 n=c#4 v=0
+79984 On ch=1 n=g#6 v=0
+80012 On ch=1 n=f3 v=0
+80036 On ch=1 n=c#4 v=82
+80128 On ch=1 n=g#7 v=0
+80156 On ch=1 n=c#4 v=0
+80156 On ch=1 n=a#4 v=81
+80164 On ch=1 n=g7 v=91
+80164 On ch=1 n=g6 v=91
+80244 On ch=1 n=g6 v=0
+80272 On ch=1 n=c#4 v=85
+80280 On ch=1 n=a#4 v=0
+80400 On ch=1 n=g#7 v=90
+80400 On ch=1 n=c#5 v=85
+80404 On ch=1 n=g#6 v=90
+80432 On ch=1 n=g7 v=0
+80440 On ch=1 n=c#4 v=0
+80460 On ch=1 n=g#6 v=0
+80488 On ch=1 n=c#5 v=0
+80500 Par ch=1 c=64 v=0
+80516 On ch=1 n=c#4 v=90
+80604 On ch=1 n=g#7 v=0
+80624 On ch=1 n=a6 v=83
+80628 On ch=1 n=a7 v=94
+80636 Par ch=1 c=64 v=127
+80644 On ch=1 n=f3 v=91
+80648 On ch=1 n=c#4 v=0
+80672 On ch=1 n=a6 v=0
+80732 On ch=1 n=f3 v=0
+80756 On ch=1 n=a#6 v=91
+80756 On ch=1 n=a#7 v=101
+80756 On ch=1 n=c#4 v=90
+80780 On ch=1 n=a7 v=0
+80800 On ch=1 n=a#6 v=0
+80832 On ch=1 n=a#7 v=0
+80872 On ch=1 n=c#4 v=0
+80880 On ch=1 n=a#4 v=90
+80892 On ch=1 n=c#7 v=96
+80900 On ch=1 n=c#8 v=107
+80996 On ch=1 n=c#4 v=88
+81012 On ch=1 n=a#4 v=0
+81120 On ch=1 n=c#5 v=86
+81132 On ch=1 n=c#4 v=0
+81224 On ch=1 n=c#5 v=0
+81236 On ch=1 n=c#4 v=79
+81244 Par ch=1 c=64 v=0
+81348 Par ch=1 c=64 v=127
+81364 On ch=1 n=f3 v=76
+81380 On ch=1 n=c#4 v=0
+81432 On ch=1 n=f3 v=0
+81484 On ch=1 n=c#4 v=74
+81560 On ch=1 n=c#7 v=0
+81572 On ch=1 n=c#8 v=0
+81592 On ch=1 n=c#4 v=0
+81600 On ch=1 n=a#4 v=69
+81716 On ch=1 n=c#4 v=64
+81724 On ch=1 n=a#4 v=0
+81832 On ch=1 n=e5 v=75
+81832 On ch=1 n=e6 v=79
+81840 On ch=1 n=c#5 v=60
+81848 On ch=1 n=c#4 v=0
+81856 Par ch=1 c=64 v=0
+81936 On ch=1 n=c#5 v=0
+81956 On ch=1 n=c#4 v=58
+81964 On ch=1 n=e5 v=0
+82068 On ch=1 n=c#4 v=0
+82072 On ch=1 n=e6 v=0
+82080 On ch=1 n=g6 v=72
+82080 On ch=1 n=g5 v=71
+82084 On ch=1 n=f3 v=64
+82124 Par ch=1 c=64 v=127
+82168 On ch=1 n=f3 v=0
+82196 On ch=1 n=c#4 v=65
+82220 On ch=1 n=g5 v=0
+82256 On ch=1 n=g6 v=0
+82296 On ch=1 n=c#4 v=0
+82316 On ch=1 n=a#4 v=63
+82320 On ch=1 n=g5 v=72
+82320 On ch=1 n=g6 v=80
+82432 On ch=1 n=a#4 v=0
+82432 On ch=1 n=c#4 v=63
+82464 On ch=1 n=g6 v=0
+82472 On ch=1 n=g5 v=0
+82556 On ch=1 n=c#4 v=0
+82556 On ch=1 n=c#5 v=64
+82560 On ch=1 n=g6 v=79
+82560 On ch=1 n=g5 v=68
+82672 On ch=1 n=c#5 v=0
+82672 On ch=1 n=c#4 v=64
+82688 On ch=1 n=g5 v=0
+82688 On ch=1 n=g6 v=0
+82708 Par ch=1 c=64 v=0
+82764 On ch=1 n=c#4 v=0
+82800 On ch=1 n=g6 v=83
+82800 On ch=1 n=g5 v=77
+82808 On ch=1 n=f3 v=65
+82820 Par ch=1 c=64 v=127
+82900 On ch=1 n=f3 v=0
+82932 On ch=1 n=c4 v=66
+83040 On ch=1 n=c4 v=0
+83052 On ch=1 n=g#4 v=66
+83068 On ch=1 n=g5 v=0
+83152 On ch=1 n=g#4 v=0
+83168 On ch=1 n=c4 v=66
+83280 On ch=1 n=f5 v=72
+83280 On ch=1 n=f6 v=65
+83288 On ch=1 n=c5 v=63
+83292 On ch=1 n=c4 v=0
+83316 On ch=1 n=g6 v=0
+83328 Par ch=1 c=64 v=0
+83392 On ch=1 n=c5 v=0
+83392 On ch=1 n=f5 v=0
+83408 On ch=1 n=c4 v=65
+83416 On ch=1 n=f6 v=0
+83488 On ch=1 n=c4 v=0
+83520 Par ch=1 c=64 v=127
+83520 On ch=1 n=g5 v=58
+83524 On ch=1 n=f3 v=51
+83636 On ch=1 n=f3 v=0
+83644 On ch=1 n=c#4 v=52
+83684 On ch=1 n=g5 v=0
+83752 On ch=1 n=c#4 v=0
+83760 On ch=1 n=g5 v=61
+83768 On ch=1 n=a#4 v=55
+83884 On ch=1 n=c#4 v=59
+83900 On ch=1 n=a#4 v=0
+83900 On ch=1 n=g5 v=0
+84000 On ch=1 n=g5 v=68
+84004 On ch=1 n=c#5 v=59
+84012 On ch=1 n=c#4 v=0
+84056 Par ch=1 c=64 v=0
+84104 On ch=1 n=c#5 v=0
+84120 On ch=1 n=c#4 v=60
+84128 On ch=1 n=g5 v=0
+84208 Par ch=1 c=64 v=127
+84240 On ch=1 n=g5 v=71
+84244 On ch=1 n=f3 v=57
+84252 On ch=1 n=c#4 v=0
+84344 On ch=1 n=f3 v=0
+84364 On ch=1 n=c4 v=57
+84488 On ch=1 n=c4 v=0
+84488 On ch=1 n=g#4 v=58
+84600 On ch=1 n=g#4 v=0
+84604 On ch=1 n=c4 v=56
+84704 On ch=1 n=c4 v=0
+84708 On ch=1 n=g5 v=0
+84720 On ch=1 n=f5 v=68
+84724 On ch=1 n=c5 v=55
+84800 Par ch=1 c=64 v=0
+84824 On ch=1 n=f5 v=0
+84836 On ch=1 n=c5 v=0
+84844 On ch=1 n=c4 v=52
+84932 On ch=1 n=c4 v=0
+84964 Par ch=1 c=64 v=127
+84968 On ch=1 n=f3 v=63
+84996 On ch=1 n=e6 v=79
+85004 On ch=1 n=e5 v=65
+85072 On ch=1 n=f3 v=0
+85088 On ch=1 n=c#4 v=66
+85100 On ch=1 n=e5 v=0
+85192 On ch=1 n=c#4 v=0
+85208 On ch=1 n=a#4 v=65
+85216 On ch=1 n=d#6 v=81
+85224 On ch=1 n=d#5 v=73
+85232 On ch=1 n=e6 v=0
+85328 On ch=1 n=c#4 v=63
+85332 On ch=1 n=a#4 v=0
+85348 On ch=1 n=d#5 v=0
+85428 On ch=1 n=d#6 v=0
+85448 On ch=1 n=c#5 v=66
+85452 On ch=1 n=c#4 v=0
+85452 On ch=1 n=e6 v=81
+85456 On ch=1 n=e5 v=73
+85528 Par ch=1 c=64 v=0
+85556 On ch=1 n=c#5 v=0
+85564 On ch=1 n=c#4 v=63
+85600 On ch=1 n=e5 v=0
+85632 On ch=1 n=e6 v=0
+85664 Par ch=1 c=64 v=127
+85672 On ch=1 n=c#4 v=0
+85688 On ch=1 n=f3 v=59
+85712 On ch=1 n=f5 v=73
+85716 On ch=1 n=f6 v=80
+85776 On ch=1 n=f3 v=0
+85812 On ch=1 n=c4 v=63
+85904 On ch=1 n=c4 v=0
+85932 On ch=1 n=g#4 v=64
+86020 On ch=1 n=g#4 v=0
+86048 On ch=1 n=c4 v=64
+86144 On ch=1 n=f5 v=0
+86156 On ch=1 n=f6 v=0
+86172 On ch=1 n=c4 v=0
+86172 On ch=1 n=c5 v=65
+86232 Par ch=1 c=64 v=0
+86268 On ch=1 n=c5 v=0
+86288 On ch=1 n=c4 v=65
+86392 On ch=1 n=c4 v=0
+86396 On ch=1 n=e5 v=65
+86412 On ch=1 n=f3 v=52
+86412 Par ch=1 c=64 v=127
+86496 On ch=1 n=f3 v=0
+86528 On ch=1 n=c#4 v=52
+86640 On ch=1 n=c#4 v=0
+86648 On ch=1 n=d#5 v=58
+86652 On ch=1 n=e5 v=0
+86652 On ch=1 n=a#4 v=53
+86768 On ch=1 n=a#4 v=0
+86768 On ch=1 n=c#4 v=52
+86880 On ch=1 n=c#4 v=0
+86884 On ch=1 n=e5 v=65
+86888 On ch=1 n=c#5 v=48
+86908 On ch=1 n=d#5 v=0
+86920 Par ch=1 c=64 v=0
+86996 On ch=1 n=c#5 v=0
+87008 On ch=1 n=c#4 v=50
+87128 On ch=1 n=c#4 v=0
+87128 Par ch=1 c=64 v=127
+87132 On ch=1 n=f3 v=56
+87144 On ch=1 n=f5 v=70
+87168 On ch=1 n=e5 v=0
+87208 On ch=1 n=f3 v=0
+87244 On ch=1 n=c4 v=51
+87372 On ch=1 n=g#4 v=51
+87376 On ch=1 n=c4 v=0
+87468 On ch=1 n=g#4 v=0
+87488 On ch=1 n=c4 v=50
+87592 On ch=1 n=c4 v=0
+87608 On ch=1 n=c5 v=53
+87636 On ch=1 n=f5 v=0
+87704 Par ch=1 c=64 v=0
+87712 On ch=1 n=c5 v=0
+87728 On ch=1 n=c4 v=57
+87836 On ch=1 n=c4 v=0
+87840 On ch=1 n=g7 v=90
+87840 On ch=1 n=g6 v=82
+87840 On ch=1 n=f3 v=76
+87876 On ch=1 n=g6 v=0
+87876 On ch=1 n=g7 v=0
+87892 Par ch=1 c=64 v=127
+87904 On ch=1 n=f3 v=0
+87944 On ch=1 n=g6 v=82
+87944 On ch=1 n=g7 v=87
+87968 On ch=1 n=c#4 v=77
+87972 On ch=1 n=g7 v=0
+87972 On ch=1 n=g6 v=0
+88036 On ch=1 n=g6 v=77
+88036 On ch=1 n=g7 v=89
+88068 On ch=1 n=g6 v=0
+88068 On ch=1 n=c#4 v=0
+88072 On ch=1 n=g7 v=0
+88088 On ch=1 n=a#4 v=73
+88124 On ch=1 n=g7 v=90
+88128 On ch=1 n=g6 v=77
+88160 On ch=1 n=g6 v=0
+88160 On ch=1 n=g7 v=0
+88204 On ch=1 n=a#4 v=0
+88208 On ch=1 n=c#4 v=73
+88216 On ch=1 n=g6 v=83
+88220 On ch=1 n=g7 v=91
+88252 On ch=1 n=g7 v=0
+88252 On ch=1 n=g6 v=0
+88316 On ch=1 n=c#4 v=0
+88316 On ch=1 n=g7 v=98
+88320 On ch=1 n=g6 v=81
+88328 On ch=1 n=c#5 v=72
+88344 Par ch=1 c=64 v=0
+88356 On ch=1 n=g7 v=0
+88360 On ch=1 n=g6 v=0
+88432 On ch=1 n=c#5 v=0
+88444 On ch=1 n=c#4 v=79
+88492 On ch=1 n=g5 v=85
+88492 On ch=1 n=g6 v=74
+88508 On ch=1 n=g5 v=0
+88512 On ch=1 n=g6 v=0
+88560 On ch=1 n=c#4 v=0
+88564 On ch=1 n=g6 v=89
+88568 On ch=1 n=g5 v=93
+88568 On ch=1 n=f3 v=77
+88600 Par ch=1 c=64 v=127
+88648 On ch=1 n=f3 v=0
+88684 On ch=1 n=c4 v=73
+88792 On ch=1 n=c4 v=0
+88808 On ch=1 n=g#4 v=77
+88896 On ch=1 n=g#4 v=0
+88924 On ch=1 n=c4 v=75
+88956 On ch=1 n=g5 v=0
+89036 On ch=1 n=f6 v=83
+89040 On ch=1 n=f5 v=76
+89048 On ch=1 n=c5 v=75
+89052 On ch=1 n=c4 v=0
+89064 On ch=1 n=g6 v=0
+89068 Par ch=1 c=64 v=0
+89140 On ch=1 n=c5 v=0
+89156 On ch=1 n=f5 v=0
+89164 On ch=1 n=c4 v=71
+89176 On ch=1 n=f6 v=0
+89260 On ch=1 n=c4 v=0
+89276 Par ch=1 c=64 v=127
+89288 On ch=1 n=g6 v=72
+89288 On ch=1 n=f3 v=56
+89332 On ch=1 n=g6 v=0
+89360 On ch=1 n=f3 v=0
+89392 On ch=1 n=g6 v=71
+89404 On ch=1 n=c#4 v=57
+89436 On ch=1 n=g6 v=0
+89484 On ch=1 n=g6 v=72
+89496 On ch=1 n=c#4 v=0
+89528 On ch=1 n=g6 v=0
+89528 On ch=1 n=a#4 v=59
+89568 On ch=1 n=g6 v=72
+89612 On ch=1 n=g6 v=0
+89640 On ch=1 n=a#4 v=0
+89644 On ch=1 n=c#4 v=58
+89660 On ch=1 n=g6 v=74
+89700 On ch=1 n=g6 v=0
+89752 On ch=1 n=c#4 v=0
+89752 On ch=1 n=g6 v=72
+89768 On ch=1 n=c#5 v=56
+89772 Par ch=1 c=64 v=0
+89812 On ch=1 n=g6 v=0
+89864 On ch=1 n=c#5 v=0
+89876 On ch=1 n=c#4 v=56
+89932 On ch=1 n=g5 v=71
+89964 On ch=1 n=g5 v=0
+89980 On ch=1 n=c#4 v=0
+90000 On ch=1 n=g5 v=72
+90004 On ch=1 n=f3 v=52
+90052 Par ch=1 c=64 v=127
+90092 On ch=1 n=f3 v=0
+90124 On ch=1 n=c4 v=56
+90244 On ch=1 n=c4 v=0
+90248 On ch=1 n=g#4 v=52
+90328 On ch=1 n=g#4 v=0
+90356 On ch=1 n=c4 v=53
+90480 On ch=1 n=f5 v=66
+90488 On ch=1 n=c4 v=0
+90488 On ch=1 n=c5 v=54
+90500 On ch=1 n=g5 v=0
+90548 On ch=1 n=f5 v=0
+90568 Par ch=1 c=64 v=0
+90604 On ch=1 n=c5 v=0
+90608 On ch=1 n=c4 v=55
+90672 On ch=1 n=c4 v=0
+90728 On ch=1 n=f3 v=69
+90732 Par ch=1 c=64 v=127
+90736 On ch=1 n=e6 v=92
+90740 On ch=1 n=e5 v=92
+90780 On ch=1 n=e5 v=0
+90788 On ch=1 n=e6 v=0
+90836 On ch=1 n=f3 v=0
+90848 On ch=1 n=f5 v=92
+90848 On ch=1 n=c#4 v=69
+90852 On ch=1 n=f6 v=92
+90884 On ch=1 n=f5 v=0
+90896 On ch=1 n=f6 v=0
+90956 On ch=1 n=g6 v=91
+90960 On ch=1 n=g5 v=91
+90968 On ch=1 n=c#4 v=0
+90968 On ch=1 n=a#4 v=70
+91000 On ch=1 n=g5 v=0
+91012 On ch=1 n=g6 v=0
+91084 On ch=1 n=g#5 v=90
+91088 On ch=1 n=g#6 v=90
+91088 On ch=1 n=c#4 v=72
+91096 On ch=1 n=a#4 v=0
+91132 On ch=1 n=g#5 v=0
+91144 On ch=1 n=g#6 v=0
+91188 On ch=1 n=c#4 v=0
+91204 On ch=1 n=c#5 v=66
+91208 On ch=1 n=a#6 v=91
+91216 On ch=1 n=a#5 v=91
+91260 On ch=1 n=a#5 v=0
+91264 On ch=1 n=a#6 v=0
+91304 On ch=1 n=c#5 v=0
+91316 On ch=1 n=c#4 v=65
+91332 On ch=1 n=g#5 v=93
+91336 On ch=1 n=g#6 v=95
+91368 Par ch=1 c=64 v=0
+91376 On ch=1 n=g#5 v=0
+91380 On ch=1 n=g#6 v=0
+91408 Par ch=1 c=64 v=127
+91444 On ch=1 n=f3 v=65
+91452 On ch=1 n=f6 v=94
+91456 On ch=1 n=f5 v=94
+91464 On ch=1 n=c#4 v=0
+91536 On ch=1 n=f3 v=0
+91564 On ch=1 n=c4 v=67
+91684 On ch=1 n=g#4 v=69
+91688 On ch=1 n=c4 v=0
+91776 On ch=1 n=g#4 v=0
+91800 On ch=1 n=c4 v=65
+91908 On ch=1 n=c4 v=0
+91908 Par ch=1 c=64 v=0
+91924 On ch=1 n=c5 v=68
+91940 On ch=1 n=f6 v=0
+91972 On ch=1 n=f5 v=0
+92028 On ch=1 n=c5 v=0
+92044 On ch=1 n=c4 v=68
+92104 Par ch=1 c=64 v=127
+92120 On ch=1 n=c4 v=0
+92164 On ch=1 n=f3 v=57
+92172 On ch=1 n=e5 v=62
+92228 On ch=1 n=e5 v=0
+92248 On ch=1 n=f3 v=0
+92280 On ch=1 n=c#4 v=54
+92284 On ch=1 n=f5 v=65
+92340 On ch=1 n=f5 v=0
+92396 On ch=1 n=c#4 v=0
+92400 On ch=1 n=a#4 v=58
+92404 On ch=1 n=g5 v=61
+92460 On ch=1 n=g5 v=0
+92508 On ch=1 n=a#4 v=0
+92516 On ch=1 n=c#4 v=54
+92520 On ch=1 n=g#5 v=58
+92576 On ch=1 n=g#5 v=0
+92640 On ch=1 n=c#5 v=57
+92644 On ch=1 n=a#5 v=62
+92652 On ch=1 n=c#4 v=0
+92704 On ch=1 n=a#5 v=0
+92736 On ch=1 n=c#5 v=0
+92756 On ch=1 n=c#4 v=54
+92772 On ch=1 n=g#5 v=61
+92832 On ch=1 n=g#5 v=0
+92864 On ch=1 n=g#5 v=52
+92868 On ch=1 n=c#4 v=0
+92876 On ch=1 n=f3 v=54
+92888 Par ch=1 c=64 v=0
+92900 On ch=1 n=f5 v=67
+92920 Par ch=1 c=64 v=127
+92924 On ch=1 n=g#5 v=0
+92976 On ch=1 n=f3 v=0
+93004 On ch=1 n=c4 v=55
+93108 On ch=1 n=c4 v=0
+93124 On ch=1 n=g#4 v=55
+93196 On ch=1 n=f5 v=0
+93232 On ch=1 n=g#4 v=0
+93236 On ch=1 n=c4 v=54
+93364 On ch=1 n=c4 v=0
+93364 On ch=1 n=c5 v=56
+93468 Par ch=1 c=64 v=0
+93480 On ch=1 n=c5 v=0
+93488 On ch=1 n=c4 v=58
+93552 On ch=1 n=c4 v=0
+93608 On ch=1 n=f3 v=63
+93620 On ch=1 n=a#7 v=65
+93664 Par ch=1 c=64 v=127
+93732 On ch=1 n=a#7 v=0
+93740 On ch=1 n=c7 v=65
+93764 On ch=1 n=f3 v=0
+93844 On ch=1 n=c7 v=0
+93844 On ch=1 n=g#7 v=72
+93932 On ch=1 n=g#7 v=0
+93932 On ch=1 n=c7 v=68
+94020 On ch=1 n=c7 v=0
+94024 On ch=1 n=c#7 v=60
+94024 On ch=1 n=a#7 v=73
+94096 On ch=1 n=f6 v=48
+94096 On ch=1 n=c7 v=74
+94100 On ch=1 n=a#7 v=0
+94120 On ch=1 n=c#7 v=0
+94164 On ch=1 n=f6 v=0
+94184 On ch=1 n=c#7 v=59
+94184 On ch=1 n=g#7 v=73
+94192 On ch=1 n=c7 v=0
+94248 On ch=1 n=c#7 v=0
+94260 On ch=1 n=g#7 v=0
+94264 On ch=1 n=f6 v=57
+94264 On ch=1 n=c7 v=74
+94332 On ch=1 n=f6 v=0
+94356 On ch=1 n=c7 v=0
+94356 On ch=1 n=c#7 v=63
+94356 On ch=1 n=a#7 v=73
+94416 On ch=1 n=c#7 v=0
+94448 On ch=1 n=a#7 v=0
+94448 On ch=1 n=f6 v=55
+94448 On ch=1 n=c7 v=66
+94528 On ch=1 n=f6 v=0
+94556 On ch=1 n=c7 v=0
+94556 On ch=1 n=c#7 v=63
+94556 On ch=1 n=g#7 v=68
+94652 On ch=1 n=c#7 v=0
+94664 On ch=1 n=f6 v=52
+94664 On ch=1 n=c7 v=58
+94668 On ch=1 n=g#7 v=0
+94796 On ch=1 n=a#6 v=55
+94796 On ch=1 n=g7 v=68
+94800 On ch=1 n=c7 v=0
+94824 On ch=1 n=f6 v=0
+94888 On ch=1 n=a#6 v=0
+94940 On ch=1 n=f6 v=46
+94940 On ch=1 n=g#6 v=65
+94960 On ch=1 n=g7 v=0
+95028 On ch=1 n=f6 v=0
+95060 On ch=1 n=a#6 v=62
+95060 On ch=1 n=f7 v=69
+95072 On ch=1 n=g#6 v=0
+95156 On ch=1 n=f6 v=37
+95156 On ch=1 n=g#6 v=66
+95164 On ch=1 n=f7 v=0
+95168 On ch=1 n=a#6 v=0
+95268 On ch=1 n=a#6 v=60
+95268 On ch=1 n=g7 v=70
+95272 On ch=1 n=g#6 v=0
+95280 On ch=1 n=f6 v=0
+95348 On ch=1 n=f6 v=44
+95348 On ch=1 n=g#6 v=67
+95360 On ch=1 n=g7 v=0
+95384 On ch=1 n=a#6 v=0
+95436 On ch=1 n=f6 v=0
+95464 On ch=1 n=a#6 v=62
+95464 On ch=1 n=f7 v=74
+95472 On ch=1 n=g#6 v=0
+95548 On ch=1 n=a#6 v=0
+95572 On ch=1 n=f6 v=44
+95572 On ch=1 n=g#6 v=65
+95576 On ch=1 n=f7 v=0
+95688 On ch=1 n=f6 v=0
+95704 On ch=1 n=g#6 v=0
+95704 On ch=1 n=g7 v=65
+95704 On ch=1 n=a#6 v=55
+95820 On ch=1 n=a#6 v=0
+95844 On ch=1 n=f6 v=42
+95844 On ch=1 n=g#6 v=62
+95852 On ch=1 n=g7 v=0
+96000 On ch=1 n=a#6 v=53
+96000 On ch=1 n=f7 v=68
+96008 On ch=1 n=f6 v=0
+96020 On ch=1 n=g#6 v=0
+96184 On ch=1 n=a#6 v=0
+96240 On ch=1 n=f6 v=42
+96240 On ch=1 n=g#6 v=62
+96244 On ch=1 n=f7 v=0
+96372 On ch=1 n=g#6 v=0
+96388 On ch=1 n=f6 v=0
+96856 On ch=1 n=f5 v=52
+96856 On ch=1 n=f8 v=65
+97248 On ch=1 n=f8 v=0
+97300 On ch=1 n=f5 v=0
+99196 Par ch=1 c=64 v=0
+99196 Meta TrkEnd
+TrkEnd
+MTrk
+0 SeqSpec 43 00 01 00
+0 Meta TrkName "in F Minor"
+0 Meta 0x21 00
+0 Meta TrkEnd
+TrkEnd
+MTrk
+0 SeqSpec 43 00 01 00
+0 Meta TrkName "Op. 10, No"

@@ -1,0 +1,27 @@
+MFile 1 8 480
+MTrk
+0 TimeSig 3/4 24 8
+0 KeySig 4 major
+0 Tempo 476190
+0 Meta Marker "Allegretto ma non troppo"
+38880 Tempo 500000
+39360 Tempo 526316
+39840 Tempo 555556
+40320 Tempo 588235
+40800 Tempo 625000
+41280 Tempo 666667
+41760 Tempo 476190
+59040 Tempo 517241
+59520 Tempo 566038
+60000 Tempo 625000
+60480 Tempo 476190
+74880 KeySig 0 major
+74880 Tempo 434783
+86400 Tempo 476190
+86400 Meta Marker "A Tempo"
+119520 KeySig 4 major
+119520 Meta TrkEnd
+TrkEnd
+MTrk
+0 SeqSpec 43 00 01 00
+0 Meta TrkName "No. 01 Tre"
