@@ -13,7 +13,3 @@ html.css('a').each do |anchor|
     `wget #{download_url}`
   end
 end
-
-require 'net/http'
-# Must be somedomain.net instead of somedomain.net/, otherwise, it will
-# throw exception.
