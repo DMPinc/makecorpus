@@ -59,7 +59,7 @@
       </BuildableProductRunnable>
       <CommandLineArguments>
          <CommandLineArgument
-            argument = "/Users/yohei/dev/makecorpus/MIDI/sample.txt test.out"
+            argument = "/Users/yohei/dev/makecorpus/MIDI/praeludium1_1.txt test.out"
             isEnabled = "YES">
          </CommandLineArgument>
       </CommandLineArguments>

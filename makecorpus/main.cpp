@@ -16,6 +16,11 @@
 #include <unordered_map>
 #include <sstream>
 
+void addToCorpus(std::vector<std::string> &corpus, std::string word, int length)
+{
+    corpus.push_back(std::to_string(length) + "/" + word);
+}
+
 int main(int argc, const char * argv[])
 {
     using namespace std;
@@ -39,6 +44,7 @@ int main(int argc, const char * argv[])
     int lastEndTime;
     unordered_map<string, int> table;
     vector<string> chordStack;
+    vector<string> output;
     while (std::getline(fin, line)) {
         //cerr << "dEbug:" << line << endl;
         
@@ -50,17 +56,29 @@ int main(int argc, const char * argv[])
         // begining of tack
         if (line == "MTrk") {
             isTrackStarting = true;
-            cerr << "Track " << countOfTracks << endl;
             table.clear();
+            output.clear();
             continue;
         }
         // end of track
         else if (line == "TrkEnd") {
             isTrackStarting = false;
-            ++countOfTracks;
-            //cerr << "FINISH!!!" << endl << endl;
-            cout << endl;
+            
+            if (!output.empty()) {
+                cerr << "#Track " << countOfTracks << endl;
+                ++countOfTracks;
+                
+                stringstream ss;
+                for(size_t i = 0; i < output.size(); ++i)
+                {
+                    if(i != 0)
+                        ss << " ";
+                    ss << output[i];
+                }
+                cout << ss.str() << endl;
+            }
             table.clear();
+            output.clear();
             continue;
         }
         
@@ -90,7 +108,7 @@ int main(int argc, const char * argv[])
                 if (!isChordSilentDone) {
                     int nosoundDuration = time - lastEndTime;
                     if (nosoundDuration > 0) {
-                        cout << nosoundDuration << "+" << "sp" << " ";
+                        addToCorpus(output, "sp", nosoundDuration);
                     }
                     isChordSilentDone = true;
                 }
@@ -133,7 +151,7 @@ int main(int argc, const char * argv[])
                         }
 
                         //  出力する
-                        cout << length << "+" << toneString << " ";
+                        addToCorpus(output, toneString, length);
                     }
                     else {
                         //  和音を貯めこむ
