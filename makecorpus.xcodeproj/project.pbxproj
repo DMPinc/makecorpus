@@ -7,8 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		47FBBAF418AF37EB0087E0B3 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 47FBBAF318AF37EB0087E0B3 /* main.cpp */; };
-		47FBBAF618AF37EB0087E0B3 /* train_midi.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 47FBBAF518AF37EB0087E0B3 /* train_midi.1 */; };
+		4777508418AF60F90029D297 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4777508218AF60F90029D297 /* main.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -18,16 +17,15 @@
 			dstPath = /usr/share/man/man1/;
 			dstSubfolderSpec = 0;
 			files = (
-				47FBBAF618AF37EB0087E0B3 /* train_midi.1 in CopyFiles */,
 			);
 			runOnlyForDeploymentPostprocessing = 1;
 		};
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		47FBBAF018AF37EB0087E0B3 /* train_midi */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = train_midi; sourceTree = BUILT_PRODUCTS_DIR; };
-		47FBBAF318AF37EB0087E0B3 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
-		47FBBAF518AF37EB0087E0B3 /* train_midi.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = train_midi.1; sourceTree = "<group>"; };
+		4777508218AF60F90029D297 /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = main.cpp; path = makecorpus/main.cpp; sourceTree = SOURCE_ROOT; };
+		4777508318AF60F90029D297 /* train_midi.1 */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.man; name = train_midi.1; path = makecorpus/train_midi.1; sourceTree = SOURCE_ROOT; };
+		47FBBAF018AF37EB0087E0B3 /* makecorpus */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = makecorpus; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,7 +42,7 @@
 		47FBBAE718AF37EB0087E0B3 = {
 			isa = PBXGroup;
 			children = (
-				47FBBAF218AF37EB0087E0B3 /* train_midi */,
+				47FBBAF218AF37EB0087E0B3 /* makecorpus */,
 				47FBBAF118AF37EB0087E0B3 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -52,26 +50,27 @@
 		47FBBAF118AF37EB0087E0B3 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				47FBBAF018AF37EB0087E0B3 /* train_midi */,
+				47FBBAF018AF37EB0087E0B3 /* makecorpus */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		47FBBAF218AF37EB0087E0B3 /* train_midi */ = {
+		47FBBAF218AF37EB0087E0B3 /* makecorpus */ = {
 			isa = PBXGroup;
 			children = (
-				47FBBAF318AF37EB0087E0B3 /* main.cpp */,
-				47FBBAF518AF37EB0087E0B3 /* train_midi.1 */,
+				4777508218AF60F90029D297 /* main.cpp */,
+				4777508318AF60F90029D297 /* train_midi.1 */,
 			);
+			name = makecorpus;
 			path = train_midi;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		47FBBAEF18AF37EB0087E0B3 /* train_midi */ = {
+		47FBBAEF18AF37EB0087E0B3 /* makecorpus */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 47FBBAF918AF37EB0087E0B3 /* Build configuration list for PBXNativeTarget "train_midi" */;
+			buildConfigurationList = 47FBBAF918AF37EB0087E0B3 /* Build configuration list for PBXNativeTarget "makecorpus" */;
 			buildPhases = (
 				47FBBAEC18AF37EB0087E0B3 /* Sources */,
 				47FBBAED18AF37EB0087E0B3 /* Frameworks */,
@@ -81,9 +80,9 @@
 			);
 			dependencies = (
 			);
-			name = train_midi;
+			name = makecorpus;
 			productName = train_midi;
-			productReference = 47FBBAF018AF37EB0087E0B3 /* train_midi */;
+			productReference = 47FBBAF018AF37EB0087E0B3 /* makecorpus */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -95,7 +94,7 @@
 				LastUpgradeCheck = 0500;
 				ORGANIZATIONNAME = "Yohei Yamaguchi";
 			};
-			buildConfigurationList = 47FBBAEB18AF37EB0087E0B3 /* Build configuration list for PBXProject "train_midi" */;
+			buildConfigurationList = 47FBBAEB18AF37EB0087E0B3 /* Build configuration list for PBXProject "makecorpus" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -107,7 +106,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				47FBBAEF18AF37EB0087E0B3 /* train_midi */,
+				47FBBAEF18AF37EB0087E0B3 /* makecorpus */,
 			);
 		};
 /* End PBXProject section */
@@ -117,7 +116,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				47FBBAF418AF37EB0087E0B3 /* main.cpp in Sources */,
+				4777508418AF60F90029D297 /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -195,21 +194,21 @@
 		47FBBAFA18AF37EB0087E0B3 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = makecorpus;
 			};
 			name = Debug;
 		};
 		47FBBAFB18AF37EB0087E0B3 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = makecorpus;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		47FBBAEB18AF37EB0087E0B3 /* Build configuration list for PBXProject "train_midi" */ = {
+		47FBBAEB18AF37EB0087E0B3 /* Build configuration list for PBXProject "makecorpus" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				47FBBAF718AF37EB0087E0B3 /* Debug */,
@@ -218,13 +217,14 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		47FBBAF918AF37EB0087E0B3 /* Build configuration list for PBXNativeTarget "train_midi" */ = {
+		47FBBAF918AF37EB0087E0B3 /* Build configuration list for PBXNativeTarget "makecorpus" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				47FBBAFA18AF37EB0087E0B3 /* Debug */,
 				47FBBAFB18AF37EB0087E0B3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

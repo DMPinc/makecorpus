@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "47FBBAEF18AF37EB0087E0B3"
-               BuildableName = "train_midi"
-               BlueprintName = "train_midi"
-               ReferencedContainer = "container:train_midi.xcodeproj">
+               BuildableName = "makecorpus"
+               BlueprintName = "makecorpus"
+               ReferencedContainer = "container:makecorpus.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "47FBBAEF18AF37EB0087E0B3"
-            BuildableName = "train_midi"
-            BlueprintName = "train_midi"
-            ReferencedContainer = "container:train_midi.xcodeproj">
+            BuildableName = "makecorpus"
+            BlueprintName = "makecorpus"
+            ReferencedContainer = "container:makecorpus.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -52,11 +52,17 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "47FBBAEF18AF37EB0087E0B3"
-            BuildableName = "train_midi"
-            BlueprintName = "train_midi"
-            ReferencedContainer = "container:train_midi.xcodeproj">
+            BuildableName = "makecorpus"
+            BlueprintName = "makecorpus"
+            ReferencedContainer = "container:makecorpus.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
+      <CommandLineArguments>
+         <CommandLineArgument
+            argument = "/Users/yohei/dev/DMP/DMP/Resources/sample.txt test.out"
+            isEnabled = "YES">
+         </CommandLineArgument>
+      </CommandLineArguments>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -70,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "47FBBAEF18AF37EB0087E0B3"
-            BuildableName = "train_midi"
-            BlueprintName = "train_midi"
-            ReferencedContainer = "container:train_midi.xcodeproj">
+            BuildableName = "makecorpus"
+            BlueprintName = "makecorpus"
+            ReferencedContainer = "container:makecorpus.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
