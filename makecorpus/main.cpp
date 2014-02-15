@@ -21,6 +21,18 @@ void addToCorpus(std::vector<std::string> &corpus, std::string word, int length)
     corpus.push_back(std::to_string(length) + "/" + word);
 }
 
+std::string joinString(std::vector<std::string> strings, std::string delimiter)
+{
+    std::stringstream ss;
+    for(size_t i = 0; i < strings.size(); ++i)
+    {
+        if(i != 0)
+            ss << delimiter;
+        ss << strings[i];
+    }
+    return ss.str();
+}
+
 int main(int argc, const char * argv[])
 {
     using namespace std;
@@ -70,14 +82,7 @@ int main(int argc, const char * argv[])
                 cerr << "#Track " << countOfTracks << endl;
                 ++countOfTracks;
                 
-                stringstream ss;
-                for(size_t i = 0; i < output.size(); ++i)
-                {
-                    if(i != 0)
-                        ss << " ";
-                    ss << output[i];
-                }
-                cout << ss.str() << endl;
+                cout << joinString(output, " ") << endl;
             }
             table.clear();
             output.clear();
@@ -136,18 +141,9 @@ int main(int argc, const char * argv[])
                         if (chordStack.empty()) {
                             toneString = tone;
                         } else {
-                            toneString = "{";
-                            stringstream ss;
-                            
                             chordStack.push_back(tone);
-                            for(size_t i = 0; i < chordStack.size(); ++i)
-                            {
-                                if(i != 0)
-                                    ss << ",";
-                                ss << chordStack[i];
-                            }
-                            toneString += ss.str();
-                            toneString += "}";
+                            
+                            toneString = "{" + joinString(chordStack, ",") + "}";
                             
                             chordStack.clear();
                         }
